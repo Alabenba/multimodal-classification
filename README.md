@@ -11,10 +11,10 @@
 
 
 ### - PCA 2D
-![](multimodal_recipes_classification/graphs_and_visual_objects/pca_2d.png)
+![](multimodal_recipes_classification/graphs_and_visual_objects/pca_2d.gif)
 
 ### - t-SNE 2D
-![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_2d.png)
+![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_2d.gif)
 
 ### - t-SNE 3D
-![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_2d.png)
+![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_3d.gif)
