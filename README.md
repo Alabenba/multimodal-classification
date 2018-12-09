@@ -7,14 +7,14 @@
 ### Neural network architecture:
 ![](multimodal_recipes_classification/graphs_and_visual_objects/neural_net_architecture.png)
 
-### Extracted features visualization (graph are interactive - you can zoom them, pan, rotate, ...):
+### Extracted features visualization:
 
 
 ### - PCA 2D
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~xkaple01/179.embed"></iframe>
+![](multimodal_recipes_classification/graphs_and_visual_objects/pca_2d.png)
 
 ### - t-SNE 2D
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~xkaple01/181.embed"></iframe>
+![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_2d.png)
 
 ### - t-SNE 3D
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~xkaple01/177.embed"></iframe>
+![](multimodal_recipes_classification/graphs_and_visual_objects/tsne_2d.png)
