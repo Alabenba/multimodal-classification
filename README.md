@@ -2,12 +2,12 @@
 
 
 
-## Image feature extraction:
+## [Image feature extraction:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/image_feature_extraction/multimodal_recipes_classification/feature_extraction.ipynb)
 
 ### Neural network architecture:
 ![](multimodal_recipes_classification/graphs_and_visual_objects/neural_net_architecture.png)
 
-### Extracted features visualization:
+### [Extracted features visualization:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/image_feature_extraction/multimodal_recipes_classification/extracted_features_visualisation.ipynb)
 
 
 ### - PCA 2D
