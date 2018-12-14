@@ -1,0 +1,43 @@
+{
+    "id": "pepper-pot-shrimp",
+    "link": "https://tasty.co/recipe/pepper-pot-shrimp",
+    "name": "Pepper Pot Shrimp Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/129321.jpg",
+    "description": "Here's what you need: chicken stock, whole milk, butter, salt, cornmeal, oil, garlic, red bell pepper, yellow bell pepper, green bell pepper, large red onion, scotch bonnet pepper, okra, large tomato, chicken stock, jerk seasoning, jumbo shrimp, salt, sugar, fresh italian parsley",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Seafood",
+    "recipeIngredient": [
+        "4 cups chicken stock",
+        "4 cups whole milk",
+        "\u00bd cup butter",
+        "2 teaspoons salt",
+        "2 cups cornmeal",
+        "2 tablespoons oil",
+        "4 cloves of garlic, minced",
+        "1 red bell pepper, diced",
+        "1 yellow bell pepper, diced",
+        "1 green bell pepper, diced",
+        "\u00bd large red onion, diced",
+        "\u00bd Scotch bonnet pepper",
+        "12 spears okra, chopped",
+        "1 large tomato, diced",
+        "\u00bd cup chicken stock",
+        "2 tablespoons jerk seasoning",
+        "10 jumbo shrimp, peeled and deveined",
+        "2 teaspoons salt",
+        "1 teaspoons sugar",
+        "2 bunches Italian parsley, chopped to serve"
+    ],
+    "recipeInstructionSteps": [
+        "In a heavy pot, add the chicken stock, butter, and milk, and bring to a simmer over medium heat. Gradually add in the grits a little at a time, stirring until creamy. Remove from the heat.",
+        "Add oil to a large pan over medium-high heat.",
+        "Once the oil begins to shimmer, add the garlic and cook until aromatic, about 30 seconds.",
+        "Add in the red bell pepper, yellow bell pepper, green bell pepper, red onion, and Scotch bonnet pepper, and cook until onions are translucent.",
+        "Add in the okra and cook for 1 minute.",
+        "Add in the diced tomatoes and juices, jerk spice, and chicken stock, and simmer on low heat for 10 minutes.",
+        "Season the stew with salt and sugar.",
+        "Place shrimp on top of the okra stew. After two minutes, flip the shrimp and cook for 1-2 minutes, until cooked through. Sprinkle the stew with chopped parsley.",
+        "Serve the shrimp stew over the grits.",
+        "Enjoy!"
+    ]
+}

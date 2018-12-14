@@ -1,0 +1,30 @@
+{
+    "id": "cheesy-chicken-layer-quesadilla",
+    "link": "https://tasty.co/recipe/cheesy-chicken-layer-quesadilla",
+    "name": "Cheesy Chicken Layer Quesadilla Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/f4ef0bbe8e4242d2b41e2e04a29e2ceb/Thumb.jpg",
+    "description": "Here's what you need: shredded chicken, black beans, corn, salsa, shredded cheese blend, large flour tortilla, sour cream, guacamole, salsa",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 cups shredded chicken",
+        "1 cup black beans",
+        "1 cup corn",
+        "1 jar salsa",
+        "1 cup cheese blend",
+        "4 large flour tortillas",
+        "Sour cream",
+        "Guacamole",
+        "Salsa"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u00b0C).",
+        "In a large pan over medium heat, cook the chicken, beans, corn, and salsa.",
+        "In a springform pan, lay down one tortilla, then top with chicken mixture and cheese.",
+        "Layer another tortilla on top and continue to stack until pan is full.",
+        "Top with more cheese.",
+        "Bake for 30 minutes or until cheese is melted.",
+        "Top with sour cream, guacamole, and salsa.",
+        "Enjoy!"
+    ]
+}

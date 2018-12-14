@@ -1,0 +1,35 @@
+{
+    "id": "taco-cheese-cups",
+    "link": "https://tasty.co/recipe/taco-cheese-cups",
+    "name": "Taco Cheese Cups Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/5c5ca42beb854aa299c24d6fa7636567/BFv25236_FB.jpg",
+    "description": "Here's what you need: shredded cheddar cheese, ground beef, garlic powder, cumin, chili powder, water, salt, tomato, guacamole, greek yogurt",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 cups shredded cheddar cheese",
+        "1 pound ground beef",
+        "\u00bd teaspoon garlic powder or dried minced garlic",
+        "2 tablespoons cumin",
+        "2 tablespoons chili powder",
+        "\u00bc cup water",
+        "1 teaspoon salt",
+        "Tomatoes, to serve",
+        "Guacamole, to serve",
+        "Greek yogurt, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u02daF (180\u02daC).",
+        "Spoon 1 tablespoon piles of cheddar cheese 2 inches (5 cm) apart onto a parchment paper-lined baking sheet.",
+        "Bake for 5-7 minutes, or until edges of cheese piles are golden brown.",
+        "Cool for 1 minute.",
+        "Press cheese piles into mini muffin tin slots to form cups. Allow cheese to cool completely before removing.",
+        "Add ground beef and salt to a skillet over medium-high heat and cook until browned.",
+        "Drain grease from the meat.",
+        "Add garlic, cumin, chili powder, and water to skillet and stir until well-incorporated.",
+        "Stir in salt.",
+        "Distribute meat to cheese cups.",
+        "Garnish with tomatoes, guacamole, and Greek yogurt.",
+        "Enjoy!"
+    ]
+}

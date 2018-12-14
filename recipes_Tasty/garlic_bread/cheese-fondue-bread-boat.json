@@ -1,0 +1,34 @@
+{
+    "id": "cheese-fondue-bread-boat",
+    "link": "https://tasty.co/recipe/cheese-fondue-bread-boat",
+    "name": "Cheese Fondue Bread Boat Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/80eb5dd5db0449a9ba3f1cbdd25adb40/fb.jpg",
+    "description": "Here's what you need: sourdough bread, butter, garlic, cream cheese, shredded cheddar cheese, mozzarella cheese, milk, salt, pepper, egg yolk",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "French",
+    "recipeIngredient": [
+        "1 loaf sourdough bread",
+        "80 grams melted butter",
+        "n/a",
+        "180 grams cream cheese",
+        "50 grams cheddar",
+        "50 grams mozzarella",
+        "120 milliliters milk",
+        "\u00bc teaspoon salt",
+        "\u00bc teaspoon pepper",
+        "2 egg yolk"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 350\u00b0F (180\u00b0C).",
+        "Cut off the top of the bread. Use a bread knife to cut around the inside of the bread and scoop the center out.",
+        "Cut the center and top of the bread into bite-sized cubes.",
+        "Mix two teaspoons of crushed garlic into the melted butter. Brush the garlic butter on the bottom and the inside walls of the bread boat.",
+        "Dip all the bread cubes in the remaining garlic butter, set aside.",
+        "Combine the cream cheese, cheddar, mozzarella, milk, remaining teaspoon of crushed garlic, salt, and pepper in a medium bowl.",
+        "Pour the cheese mixture into the bread boat.",
+        "Brush the top of the cheese mixture with egg yolk.",
+        "Place the bread boat and the bread cubes on a baking sheet.",
+        "Bake for 15 minutes, remove the croutons, and continue baking the bread boat for another 15 minutes, or until the cheese is melted and a golden brown crust is formed.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,34 @@
+{
+    "id": "onion-rings",
+    "link": "https://tasty.co/recipe/onion-rings",
+    "name": "Onion Rings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/681f88a8b0964592ba1c1be4a49f0089/BFV40269_VeggieRings4Ways-FB1080SQ.jpg",
+    "description": "Here's what you need: nonstick cooking spray, large white onion, whole wheat breadcrumbs, grated parmesan cheese, garlic powder, paprika, dried oregano, dried basil, salt, pepper, large egg, all-purpose flour, dipping sauce",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Nonstick cooking spray, optional",
+        "1 large white or yellow onion",
+        "1 cup whole wheat bread crumbs or panko bread crumbs",
+        "\u00bd cup grated Parmesan cheese",
+        "2 teaspoons garlic powder",
+        "1 teaspoon paprika",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "1 teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "3 large eggs, beaten",
+        "1 cup all-purpose flour",
+        "Dipping sauce of choice, optional"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 425\u02daF (220\u02daC). Grease a baking sheet with nonstick spray or line with parchment paper.",
+        "Cut the onion crosswise into \u00bd-inch (1 cm) slices and gently push apart each layer to get individual rings. Set aside.",
+        "In a large bowl, combine the bread crumbs, Parmesan, garlic powder, paprika, oregano, basil, salt, and pepper. Add the eggs to a separate large bowl. Add the flour to a third large bowl.",
+        "Dredge the onion rings in the flour, then the eggs, then finally in the bread crumb mixture, making sure to coat all sides.",
+        "Arrange the onion rings on the baking sheet.",
+        "Bake for 10-15 minutes, flipping halfway through, until golden brown on both sides.",
+        "Serve with your favorite dipping sauce.",
+        "Enjoy!"
+    ]
+}

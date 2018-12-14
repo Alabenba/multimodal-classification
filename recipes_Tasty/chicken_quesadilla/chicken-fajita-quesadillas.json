@@ -1,0 +1,28 @@
+{
+    "id": "chicken-fajita-quesadillas",
+    "link": "https://tasty.co/recipe/chicken-fajita-quesadillas",
+    "name": "Chicken Fajita Quesadillas Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/38afcf99ffbf4e3e8dbcc2162cfb8535/BFV6111_Chicken_Fajita_Quesadillas_FB1080SQ.jpg",
+    "description": "Here's what you need: chicken breast, taco seasoning, vegetable oil, onion, garlic cloves, bell pepper, lime, tortilla, butter, shredded cheese",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "3 Chicken Breasts",
+        "2 Tbsp. Taco Seasoning",
+        "2 Tbsp. Vegetable Oil",
+        "1 Onion, sliced",
+        "4 Cloves Garlic, sliced",
+        "3 Bell Peppers, sliced",
+        "1 Lime, juiced",
+        "8 Tortillas",
+        "2 Tbsp. Butter",
+        "2 Cups Mexican Cheese Blend"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the chicken breasts into strips, about an inch apart, and coat with taco seasoning. In a large skillet, heat 1 Tbsp. vegetable oil and cook chicken until no longer pink and slightly charred. Remove cooked chicken from the skillet.",
+        "Heat another Tbsp. oil, add onion and garlic and cook for a couple minutes until it\u2019s slightly translucent. Add the peppers, and cook slightly, then mix in the cooked chicken. Remove from heat and set aside.",
+        "In a clean pan, melt a bit of butter. Add a tortilla and move it around until it\u2019s buttery. Add cheese, then fajita mixture, then more cheese, then top with another tortilla and pat it down.",
+        "Flip the quesadilla over and cook the other side until it\u2019s golden. Remove from pan and cut into quarters. Repeat these steps with the remaining tortillas.",
+        "Enjoy!"
+    ]
+}

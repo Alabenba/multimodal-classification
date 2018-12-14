@@ -1,0 +1,31 @@
+{
+    "id": "pork-chops-and-creamy-spinach",
+    "link": "https://tasty.co/recipe/pork-chops-and-creamy-spinach",
+    "name": "Pork Chops And Creamy Spinach Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/f2b8461684124b898760b1d046889cc7/THUMBNAIL_C.jpg",
+    "description": "Here's what you need: onion, garlic, spinach, cream cheese, salt, pepper, thick-cut pork chop, mashed potato",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bc cup, sliced",
+        "2 garlic cloves, minced",
+        "7 ounces spinach",
+        "6 ounces cream cheese, cubed",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "5-6 pork chops, thick-cut",
+        "Potato puree"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u00baF (200\u00baC).",
+        "Cook the onion and the garlic, until translucent.",
+        "Add the washed spinach. Cook until wilted.",
+        "Add the cream cheese, salt, and pepper, and stir until melted. Set aside and allow to cool.",
+        "Make a slit on the side of the pork chop, making a pocket but not cutting all the way through.",
+        "Fill the pork chop with the spinach mixture. Season with salt and pepper both sides.",
+        "In a hot pan, sear the pork chop, until golden brown on both sides.",
+        "Move pork chop to a baking sheet and bake for 20 minutes, or until pork is cooked through.",
+        "Serve with your favorite side - we chose mashed potatoes!",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "filet-mignon",
+    "link": "https://tasty.co/recipe/filet-mignon",
+    "name": "How To Cook Filet Mignon Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ac110e4b25e14c9ca6f60216013a61fa/Cut2.jpg",
+    "description": "Here's what you need: filet mignon, coarse salt, freshly ground black pepper, grapeseed oil, unsalted butter, fresh rosemary, garlic",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 6-ounce filet mignon",
+        "Coarse salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "1 tablespoon grapeseed oil or other high-heat, neutral oil of choice",
+        "2 tablespoons unsalted butter",
+        "2 sprigs fresh rosemary",
+        "1 clove garlic"
+    ],
+    "recipeInstructionSteps": [
+        "On a cutting board, pat the filet mignon dry with paper towels and let sit at room temperature for 20-30 minutes.",
+        "Preheat the oven to 450\u02daF (230\u02daC).",
+        "Generously season all sides of the filet mignon with salt and pepper.",
+        "Heat a medium, oven-safe stainless steel or cast iron skillet over high heat for 5 minutes. Add the grapeseed oil.",
+        "Once the oil beings to smoke, add the filet mignon to the pan. Cook without moving for 2-3 minutes, until a crust has formed.",
+        "Use tongs to flip the steak over, then add the butter, rosemary, and garlic to the pan.",
+        "Tilt the pan and spoon the butter continuously over the steak for 2-3 minutes.",
+        "Transfer the pan to the oven for 7 minutes for a medium rare steak.",
+        "Transfer the steak to a cutting board and let rest for at least 10 minutes before slicing.",
+        "Enjoy!"
+    ]
+}

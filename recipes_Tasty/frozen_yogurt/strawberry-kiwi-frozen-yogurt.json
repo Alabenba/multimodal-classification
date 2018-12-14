@@ -1,0 +1,21 @@
+{
+    "id": "strawberry-kiwi-frozen-yogurt",
+    "link": "https://tasty.co/recipe/strawberry-kiwi-frozen-yogurt",
+    "name": "Strawberry Kiwi Frozen Yogurt Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/55c9e3fc7427433880a31c996ebf27ac/frozenyogurt-final.jpg",
+    "description": "Here's what you need: frozen strawberry, kiwi, greek yogurt, honey",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 cups frozen strawberries",
+        "3 kiwis, peeled and sliced",
+        "1 cup Greek yogurt",
+        "3 tablespoons honey or agave"
+    ],
+    "recipeInstructionSteps": [
+        "Combine all ingredients in a food processor until smooth.",
+        "Transfer to an 8x8-inch (20x20 cm) glass dish.",
+        "Freeze for at least 2 hours.",
+        "Enjoy!"
+    ]
+}

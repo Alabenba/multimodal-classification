@@ -1,0 +1,24 @@
+{
+    "id": "caesar-salad-dressing",
+    "link": "https://tasty.co/recipe/caesar-salad-dressing",
+    "name": "Caesar Salad Dressing Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ee4699a242ba4f27b4f91089876555c4/FB_04.jpg",
+    "description": "Here's what you need: garlic, dijon mustard, lemon juice, mayonnaise, grated parmesan cheese, salt, freshly ground black pepper, canola oil",
+    "recipeCategory": "",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "2 tablespoons garlic cloves, minced",
+        "2 tablespoons Dijon mustard",
+        "\u00bc cup fresh squeezed lemon juice",
+        "\u00bc cup mayonnaise",
+        "\u00bd cup grated Parmesan cheese",
+        "Salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "1 cup canola oil"
+    ],
+    "recipeInstructionSteps": [
+        "Add the ingredients into a mason jar. Screw the lid on tightly and shake vigorously.",
+        "The dressing can remain in the fridge for 1-2 weeks.",
+        "Pour over your favorite salad ingredients and enjoy! "
+    ]
+}

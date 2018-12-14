@@ -1,0 +1,29 @@
+{
+    "id": "healthier-mac-n-cheese",
+    "link": "https://tasty.co/recipe/healthier-mac-n-cheese",
+    "name": "Healthier Mac \u2018n\u2019 Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/10271f6c93aa46ba80fc1be6e9fe1f62/BFV23640_Healthier_Food_Substitutions_-_FB1080.jpg",
+    "description": "Here's what you need: yellow potato, medium carrot, medium onion, cashews, salt, pepper, garlic powder, onion powder, nutritional yeast, whole wheat macaroni, paprika",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 yellow potatoes, peeled and cubed",
+        "1 medium carrot, sliced",
+        "1 medium onion, peeled and quartered",
+        "\u00bd cup cashews",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "2 tablespoon nutritional yeast",
+        "1 pound whole wheat macaroni, cooked",
+        "Paprika (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "Add potatoes, carrot, and onion to a boiling pot of water. Cook for 10 minutes or until fork-tender. Reserve two cups of boiled water, and drain the rest through a colander.",
+        "Add cooked vegetables, cashews, salt, pepper, garlic powder, onion powder, and nutritional yeast. Put 1 cup (235 ml) of reserved boiled water into blend. Blend until well combined. If a smoother texture is desired, add more of the boiled water.",
+        "Pour mix over cooked pasta and coat evenly.",
+        "Garnish with paprika (optional).",
+        "Enjoy!"
+    ]
+}

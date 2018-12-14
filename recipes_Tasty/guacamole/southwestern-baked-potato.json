@@ -1,0 +1,33 @@
+{
+    "id": "southwestern-baked-potato",
+    "link": "https://tasty.co/recipe/southwestern-baked-potato",
+    "name": "Southwestern Baked Potato Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/021050262f7048eda151cae1d8f81902/BFV21481_Loaded_Baked_Potatoes_4_Ways-FB.jpg",
+    "description": "Here's what you need: russet potato, olive oil, salt, ground beef, taco seasoning, black beans, tomato, cheddar cheese, guacamole",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 russet potatoes",
+        "2 tablespoons olive oil",
+        "2 teaspoons salt",
+        "\u00bd pound ground beef",
+        "1 tablespoon taco seasoning",
+        "\u00bd cup black beans, drained and rinsed",
+        "\u00bd cup tomatoes, diced",
+        "1 cup cheddar cheese, plus more for topping",
+        "Guacamole, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 350\u00b0F (180\u00b0C).",
+        "Carefully pierce potatoes with a fork. On a baking sheet, oil the potatoes well and sprinkle with salt.",
+        "Bake for about one hour. If making more potatoes, an additional 15 minutes per potato is needed.",
+        "In a skillet over high heat, add the ground beef with a bit of oil.",
+        "Add the taco seasoning, black beans, and tomatoes. You may want to drain the ground beef mixture once cooked if there\u2019s too much liquid.",
+        "Once the potatoes are cooled, cut them vertically, scoop out the inside, and transfer to a bowl.",
+        "In the bowl with the scooped out potatoes, add the ground beef mixture and cheddar cheese. Mix well.",
+        "Scoop the potato mixture back into the potatoes and top with cheddar cheese.",
+        "Bake an additional 15 minutes until the cheese is melted.",
+        "Serve warm with guacamole.",
+        "Enjoy!"
+    ]
+}

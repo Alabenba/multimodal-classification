@@ -1,0 +1,32 @@
+{
+    "id": "chicken-jollof-rice",
+    "link": "https://tasty.co/recipe/chicken-jollof-rice",
+    "name": "Chicken Jollof Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/8cffb024eebd4faca3f2eb758b6f12b6/BF_THUMB_Square.jpg",
+    "description": "Here's what you need: medium tomato, red bell pepper, small red onion, scotch bonnet pepper, vegetable oil, boneless chicken thighs, curry powder, dried thyme, parboiled long grain rice, stock cube, water",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "6 medium tomatoes, sliced",
+        "1 red bell pepper, stemmed, seeded, and quartered",
+        "2 small red onions, 1 quartered, 1 diced",
+        "1 Scotch bonnet pepper, stem removed",
+        "120 milliliters, plus 2 tablespoons vegetable oil",
+        "450 grams boneless chicken thighs, cubed",
+        "n/a",
+        "1  teaspoon dried thyme",
+        "400 grams parboiled long grain rice, washed",
+        "2 stock cubes dissolved in 150 milliliters water",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Add the tomatoes, red bell pepper, quartered onion, and pepper to a blender and blend until smooth.",
+        "In a pot over medium heat, add 2 tablespoons oil, diced red onion, chicken, and curry powder. Cook until onions are soft and chicken has browned, about 8-10 minutes. Remove chicken from pot and set aside.",
+        "Raise heat to medium-high, and using the same pot, add pureed tomato mixture, cooking until reduced by half.",
+        "Add in remaining oil, and fry sauce for 8-10 minutes.",
+        "Stir in chicken, along with rice, stock and thyme leaves.",
+        "Cover pot tightly with foil. Cover with lid and reduce heat to low, cooking for 30 minutes.",
+        "Once rice is cooked, fluff up before serving.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "id": "chicken-curry-fries",
+    "link": "https://tasty.co/recipe/chicken-curry-fries",
+    "name": "Chicken Curry Fries Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/99c2b987a72f4c32b92a2289f55f314f/BFV4070_ChickenCurryFriesThumb1080.jpg",
+    "description": "Here's what you need: chicken breast, curry powder, oil, pepper, salt, oil, onion, grated ginger, garlic, tomato, curry powder, cayenne pepper, chicken stock, greek yogurt, french fries, fresh cilantro, chicken stock, cornstarch",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "- 1 chicken breast",
+        "- 1 tsp of curry powder",
+        "- 1 Tbsp. of oil",
+        "- 1/4 tsp of pepper",
+        "- 1/4 tsp of salt",
+        "- 2 Tbsp. of oil",
+        "- 1 cup of diced onion",
+        "- 1 Tbsp. of grated ginger",
+        "- 2 minced garlic cloves",
+        "- 1 cup of diced tomato",
+        "- 1 tbsp. of curry powder",
+        "- 1/4 tsp of cayenne pepper",
+        "- 1 cup of chicken stock",
+        "- 1/2 cup of Greek yogurt",
+        "- French fries",
+        "- Cilantro for garnish",
+        "- 1/2 cup of chicken stock cornstarch slurry (1/2 cup of chicken stock + 1 Tbsp. of cornstarch)",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Slice chicken breast into strips.",
+        "Add the curry powder, oil, pepper, and salt to the prepared chicken. Rub in the dry ingredients and make sure the chicken is evenly coated.",
+        "Heat oil in a skillet over medium heat.",
+        "Add the chicken and cook until partially done. Remove from skillet and place in a clean bowl.",
+        "Add onions, ginger, and garlic to skillet. Cook until the onions are translucent.",
+        "Add the diced tomato, curry powder, cayenne pepper, and chicken stock.",
+        "Return the partially cooked chicken. Stir and cook until chicken is done.",
+        "Stir in the chicken stock cornstarch slurry. Cook until the curry has thickened.",
+        "Turn off the heat and stir in the Greek yogurt.",
+        "Preheat oven to 450\u00b0F (230\u00b0C), place french fries on baking sheet, bake for 18 minutes (either from scratch or frozen).",
+        "Pour chicken curry over french fries, garnish with cilantro, as desired.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "blueberry-pancakes",
+    "link": "https://tasty.co/recipe/blueberry-pancakes",
+    "name": "Blueberry Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8459397b89f94070b7ac79d19597841b/pancakes-finalfb.jpg",
+    "description": "Here's what you need: greek yogurt, ripe banana, oats, egg, vanilla extract, baking powder, cinnamon, fresh blueberry",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u2154 cup Greek yogurt",
+        "\u00bd ripe banana",
+        "\u00bd cup oats",
+        "1 egg",
+        "1 tsp vanilla extract",
+        "1 teaspoon baking powder",
+        "\u00bd teaspoon cinnamon",
+        "\u00bd cup fresh blueberries"
+    ],
+    "recipeInstructionSteps": [
+        "In a blender, blend everything besides the blueberries.",
+        "Pour pancake batter on a griddle or skillet over medium-high heat, and place blueberries on the pancake.",
+        "Cook until bubbles pop on the surface of the pancake, then flip and cook the other side.",
+        "Enjoy!"
+    ]
+}

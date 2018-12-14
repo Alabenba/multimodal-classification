@@ -1,0 +1,36 @@
+{
+    "id": "vegan-pad-thai",
+    "link": "https://tasty.co/recipe/vegan-pad-thai",
+    "name": "Vegan Pad Thai Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/148610.jpg",
+    "description": "Here's what you need: rice vinegar, soy sauce, brown sugar, vegan worcestershire, tamarind paste, dried rice noodles, peanut oil, green onion, red thai chile, garlic, carrot, bean sprout, roasted unsalted peanut, tofu",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Thai",
+    "recipeIngredient": [
+        "\u00bc cup rice vinegar",
+        "\u2153 cup soy sauce",
+        "\u2153 cup brown sugar",
+        "\u00bc cup Worcestershire sauce",
+        "\u00bc cup tamarind paste",
+        "n/a",
+        "2 tablespoons peanut oil",
+        "\u00bd bunch green onions or chinese chives, sliced, plus more for serving",
+        "2 chiles, sliced, plus more for serving",
+        "2 cloves garlic, minced",
+        "2 carrots, peeled into ribbons",
+        "\u00bd cup bean sprouts",
+        "\u00bc cup roasted unsalted peanuts",
+        "8 ounces (110 grams) cooked tofu, cubed"
+    ],
+    "recipeInstructionSteps": [
+        "Soak the rice noodles in room-temperature water for 30 minutes prior to cooking.",
+        "Make the sauce: in a small saucepan over medium-high heat, whisk together the rice vinegar, soy sauce, brown sugar, Worcestershire sauce, and tamarind paste.",
+        "Bring to a boil, then reduce the heat to low. Simmer for 5 minutes, stirring constantly, until the sauce thickens and coats the back of a wooden spoon. Remove the sauce from the heat and set aside.",
+        "Heat a large cast-iron pan or wok over high heat. Add the peanut oil, scallions, chiles, and garlic. Stir, and cook for about 2 minutes until scallions soften. Add the carrots, stir to incorporate, and cook for about 1 minute. Add the bean sprouts and stir to incorporate.",
+        "Add soaked rice noodles and stir to evenly distribute all ingredients, then stir for 1-2 minutes to heat the noodles through.",
+        "Add the sauce and stir to combine.",
+        "Add the tofu, stir to incorporate, and remove the pan from the heat.",
+        "Serve immediately with peanuts, bean sprouts, scallions, and red chiles, if desired.",
+        "Enjoy!"
+    ]
+}

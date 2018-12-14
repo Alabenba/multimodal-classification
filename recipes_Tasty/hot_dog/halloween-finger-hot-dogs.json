@@ -1,0 +1,20 @@
+{
+    "id": "halloween-finger-hot-dogs",
+    "link": "https://tasty.co/recipe/halloween-finger-hot-dogs",
+    "name": "Halloween Finger Hot Dogs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2ecd122661324a508e20460f923695f2/BFV13571_4HalloweenAppetizers-FB1080SQ.jpg",
+    "description": "Here's what you need: hot dog, hot dog bun, ketchup",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "8 hot dogs",
+        "8 hot dog buns",
+        "ketchup"
+    ],
+    "recipeInstructionSteps": [
+        "In a skillet, cook hot dogs until golden brown.",
+        "With a knife, carefully make 3 slits in the middle of the hot dog, 3 towards the end of the hot dog, and cut the casing off of the tip of the hot dog to make it look like a finger.",
+        "Spread ketchup in the hot dog buns, and place the hot dogs.",
+        "Enjoy!"
+    ]
+}

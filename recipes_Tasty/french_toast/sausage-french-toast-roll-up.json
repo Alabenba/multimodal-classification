@@ -1,0 +1,24 @@
+{
+    "id": "sausage-french-toast-roll-up",
+    "link": "https://tasty.co/recipe/sausage-french-toast-roll-up",
+    "name": "Sausage French Toast Roll-up Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/a9fd0aad236149dc816b4d8b5b066932/frenchtoastrollups4ways-fb.jpg",
+    "description": "Here's what you need: sandwich bread, sausage link, egg, milk, cinnamon, vanilla extract",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "10 slices sandwich bread",
+        "Cooked sausage links",
+        "3 eggs",
+        "1 tablespoon milk",
+        "\u00bd teaspoon cinnamon",
+        "\u00bd teaspoon vanilla extract"
+    ],
+    "recipeInstructionSteps": [
+        "Roll each slice of bread flat with a rolling pin. Carefully cut off the crusts.",
+        "Place sausage at the edge of the bread, and roll up.",
+        "In a bowl, combine eggs, milk, cinnamon, and vanilla.",
+        "Dip each roll-up in egg mixture, and pan fry in a buttered skillet until all sides are golden brown.",
+        "Enjoy!"
+    ]
+}

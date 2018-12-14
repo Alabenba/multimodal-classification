@@ -1,0 +1,30 @@
+{
+    "id": "steak-fajitas-skewers",
+    "link": "https://tasty.co/recipe/steak-fajitas-skewers",
+    "name": "Steak Fajitas Skewers Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/6924e2c6e20148829e8b46cf3fc075e6/BFV10195_Skewers4Ways-Recipe.jpg",
+    "description": "Here's what you need: sirloin steak, cumin, chili powder, garlic powder, salt, pepper, green bell pepper, red bell pepper, large white onion, bamboo skewer",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 pounds sirloin steak, cut into 1-inch cubes",
+        "1 tablespoon cumin",
+        "1 tablespoon chili powder",
+        "1 tablespoon garlic powder",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "2 green bell peppers, cut into 1-inch pieces",
+        "2 red bell peppers, cut into 1-inch pieces",
+        "1 large white onion, cut into 1-inch pieces",
+        "8-10 bamboo skewers, soaked in water for 20 minutes"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the grill to medium-high heat.",
+        "Combine the steak, cumin, chili powder, garlic powder, salt, and pepper in a medium bowl and mix until the steak is evenly coated.",
+        "Slide a piece of steak down a skewer, followed by a piece of green pepper, red pepper, and onion. Continue until there is a 1-inch gap on the top of the skewer.",
+        "Repeat with the remaining skewers.",
+        "Grease the surface of the grill by rubbing the grates with an oiled paper towel (use tongs to grip!).",
+        "Grill the skewers for 10-15 minutes with the lid closed, flipping them halfway through.",
+        "Enjoy!"
+    ]
+}

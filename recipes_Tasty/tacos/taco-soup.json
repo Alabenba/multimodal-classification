@@ -1,0 +1,34 @@
+{
+    "id": "taco-soup",
+    "link": "https://tasty.co/recipe/taco-soup",
+    "name": "Taco Soup Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/121207.jpg",
+    "description": "This quick and easy taco soup is made entirely in one pot and in less than 30 minutes. Topped with cheese, avocado, and all the fixin's, this simple soup makes the perfect weeknight dinner that'll please just about everyone.",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 pound lean ground beef",
+        "1 small onion, chopped",
+        "1 15 ounce can kidney beans",
+        "1 15 ounce can black beans",
+        "1 15 ounce can corn kernels",
+        "1 15 ounce can diced tomatoes",
+        "1 8 ounce can tomato sauce",
+        "2 tablespoons taco seasoning",
+        "Shredded cheddar cheese, to serve",
+        "Sour cream, to serve",
+        "Pico de gallo, to serve",
+        "Avocado, sliced, to serve",
+        "Corn chips, to serve",
+        "Lime wedges, to serve",
+        "Cilantro, chopped, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Add the ground beef and onion to a large pot and stir until the beef is cooked through.",
+        "Drain excess liquid.",
+        "Add the kidney beans, black beans, corn, tomatoes, tomato sauce, and taco seasoning to the pot, and stir until combined.",
+        "Cook over medium heat for 10 minutes.",
+        "Serve with cheddar cheese, sour cream, pico de gallo, avocado, corn chips, lime wedges, and cilantro.",
+        "Enjoy!"
+    ]
+}

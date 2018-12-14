@@ -1,0 +1,33 @@
+{
+    "id": "loco-moco-rice-burger",
+    "link": "https://tasty.co/recipe/loco-moco-rice-burger",
+    "name": "Loco Moco Rice Burger Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/f8ca832e705d49c6a098e814bc4260e6/BFV8001_Loco-Moco-Rice-Burger_Thumb.jpg",
+    "description": "This fun twist on a Hawaiian classic reimagines the rice base and transforms it into crispy \u201cbuns\u201d that get filled with all the classic components, like hamburger patties, sunny-side up eggs, and savory homemade mushroom gravy. So serve them for dinner, pretend you\u2019re in Hawaii, and enjoy!",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "Leftover rice to form rice \u201cbuns\u201d",
+        "Soy sauce",
+        "\u00be lb ground beef",
+        "\u2153 cup onions, chopped",
+        "3 garlic cloves, minced",
+        "\u2153 cup panko",
+        "1 tsp Worcestershire sauce",
+        "1 tsp oyster sauce",
+        "8 oz sliced mushrooms",
+        "1 cup beef stock",
+        "1 Tbsp. cornstarch slurry (1 Tbsp. of cornstarch dissolved in 1 Tbsp. of water)",
+        "2 sunny-side-up eggs (optional)",
+        "Chopped scallions (for garnish)"
+    ],
+    "recipeInstructionSteps": [
+        "Form \u201cburger buns\u201d with the leftover rice. Firmly pack rice into your desired thickness. Pan fry until both sides are lightly crisped. Brush soy sauce on both sides of the rice buns and continue to fry until it gets some color. Set aside.",
+        "Form burger patties with ground beef, panko, onions, oyster sauce, Worcestershire sauce and garlic.",
+        "Heat pan over medium. Fry patties to your desired doneness. Set aside.",
+        "In the same pan, add mushrooms. Cook until soft. Pour in beef stock and soy sauce. Thicken with cornstarch slurry.",
+        "Optional: If using eggs, preparing them sunny-side up or over easy will go well with this loco moco rice burger.",
+        "Put the burger together. Start with the rice \u201cbun,\u201d then the beef patty, cover with gravy, top with an egg, sprinkle on some scallions, and top with another rice \u201cbun.\u201d",
+        "Enjoy!"
+    ]
+}

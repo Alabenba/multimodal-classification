@@ -1,0 +1,40 @@
+{
+    "id": "tofu-stir-fry",
+    "link": "https://tasty.co/recipe/tofu-stir-fry",
+    "name": "Tofu Stir Fry Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/bb9e3ae6c1014c4881c812081c124768/BFV32770_6HighProteinVegetarianDinners_FB.jpg",
+    "description": "Here's what you need: garlic, fresh ginger, honey,  sriracha, lime juice, reduced sodium soy sauce, extra firm tofu, sesame oil, small onion, large carrot, red bell pepper, edamame, soba noodle, sesame seed, green onion",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "4 cloves garlic, minced, divided",
+        "2 teaspoons freshly grated ginger",
+        "1 tablespoon honey",
+        "1 teaspoon sriracha",
+        "\u00bc cup lime juice",
+        "\u00bc cup reduced-sodium soy sauce",
+        "1 block extra-firm tofu",
+        "4 tablespoons sesame oil, divided",
+        "1 small onion, sliced",
+        "1 large carrot, sliced",
+        "1 red bell pepper, sliced",
+        "\u00bd cup edamame, frozen, thawed",
+        "3 cups soba noodles, cooked",
+        "1 tablespoon sesame seeds",
+        "Green onions, chopped, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, add the soy sauce, lime juice, honey, ginger, and chili sauce and stir to combine. Set aside .",
+        "Wrap the tofu in a dish towel then place a plate on top.",
+        "Allow to drain for 10-15 minutes then remove the plate, unwrap the tofu, and slice into cubes.",
+        "In a wok or large frying pan heat 2 tablespoons of sesame oil over medium heat.",
+        "Add the tofu and pan fry for 5-7 minutes, stirring occasionally.",
+        "Add the garlic and the onion and stir until softened, about 1 minute.",
+        "Add in the edamame, red pepper, and carrots and cook, stirring occasionally, until tender, 2-3 minutes.",
+        "Add the soba noodles, sauce, and sesame seeds.",
+        "Cook for 1-2 minutes, stirring occasionally.",
+        "Remove from the heat.",
+        "Garnish with green onions, if desired.",
+        "Enjoy!"
+    ]
+}

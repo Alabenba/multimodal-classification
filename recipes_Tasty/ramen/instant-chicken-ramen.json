@@ -1,0 +1,27 @@
+{
+    "id": "instant-chicken-ramen",
+    "link": "https://tasty.co/recipe/instant-chicken-ramen",
+    "name": "Instant Chicken Ramen Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/63ddf6bc82884f3a887ede0eb8eeb36a/BFV45846_MakeAheadMasonJarMeals_FB180SQ.jpg",
+    "description": "Here's what you need: chicken bouillon powder, salt, garlic powder, shredded carrots, corn, shredded rotisserie chicken, yakisoba noodle, scallion, hot water",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "\u00bd tablespoon chicken bouillon powder",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon garlic powder",
+        "2 tablespoons shredded carrots",
+        "\u00bc cup cooked corn",
+        "\u00bc cup shredded rotisserie chicken",
+        "\u00bd cup Yakisoba noodles",
+        "1 tablespoon chopped scallions",
+        "1\u00bd cups hot water"
+    ],
+    "recipeInstructionSteps": [
+        "Make the seasoning: Combine the chicken bouillon, salt, and garlic powder in a 16-ounce (480 ml) mason jar. Stir with a fork until combined.",
+        "Add the carrots, corn, chicken, Yakisoba noodles, and scallions.",
+        "Store in the refrigerator for up to 2 days.",
+        "When ready to eat, shake well to combine, then add hot water. Let sit for 2 minutes, then enjoy!",
+        "Enjoy!"
+    ]
+}

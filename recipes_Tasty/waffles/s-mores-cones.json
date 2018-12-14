@@ -1,0 +1,24 @@
+{
+    "id": "s-mores-cones",
+    "link": "https://tasty.co/recipe/s-mores-cones",
+    "name": "S&#x27;mores Cones Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ec6c189a10f647eebf68694a4711b8e2/BFV3117_SmoresCones_FB1080.jpg",
+    "description": "Here's what you need: waffle cone, peanut butter, mini marshmallows, chocolate chips",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "- waffle cones",
+        "- peanut butter (smooth or crunchy)",
+        "- mini marshmallows",
+        "- chocolate chips"
+    ],
+    "recipeInstructionSteps": [
+        "Line the inside of a waffle cone with peanut butter.",
+        "Fill with mini marshmallows and chocolate chips.",
+        "Wrap in aluminum foil.",
+        "Place on a grill and cover for 2 minutes, flip at the 1 minute mark.",
+        "Remove with tongs and let cool.",
+        "Unwrap foil and remove cone.",
+        "Enjoy!"
+    ]
+}

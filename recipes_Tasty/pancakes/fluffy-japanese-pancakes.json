@@ -1,0 +1,29 @@
+{
+    "id": "fluffy-japanese-pancakes",
+    "link": "https://tasty.co/recipe/fluffy-japanese-pancakes",
+    "name": "Fluffy Japanese Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/5948dace4551484287a85a49b6e5c773/BFV15479_FluffyJapanesePancakes-ThumbC1080.jpg",
+    "description": "Here's what you need: egg yolk, sugar, milk, pancake mix, egg white, butter, syrup, assorted berry",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Japanese",
+    "recipeIngredient": [
+        "2 egg yolks",
+        "\u00bc cup sugar",
+        "\u00bd cup milk",
+        "\u00be cup pancake mix",
+        "4 egg whites",
+        "Butter, to serve",
+        "Syrup, to serve",
+        "Assorted berries, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together the egg yolks, sugar, milk, and pancake mix in a very large bowl until it is smooth with no large lumps.",
+        "In another large bowl, beat the egg whites with a hand mixer until stiff peaks form when lifted.",
+        "Carefully fold the egg whites into the pancake batter, until just incorporated, making sure not to deflate the batter.",
+        "Grease two 3.5-inch (9 cm) metal ring moulds and set them in the middle of a pan over the lowest heat possible.",
+        "Fill the moulds about \u00be of the way full with the batter, then cover the pan and cook for about 10 minutes, until the center of the pancakes are slightly jiggly.",
+        "Release the pancakes from the bottom of the pan with a spatula, then carefully flip them over, making sure not to spill any batter inside.",
+        "Cover and cook for another 5 minutes, then serve with butter, syrup, and berries!",
+        "Enjoy!"
+    ]
+}

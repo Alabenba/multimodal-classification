@@ -1,0 +1,23 @@
+{
+    "id": "hummus-cucumber-avocado-toast",
+    "link": "https://tasty.co/recipe/hummus-cucumber-avocado-toast",
+    "name": "Hummus &amp; Cucumber Avocado Toast Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/282a22a7ad784ed58c1ae61425eee718/BFV20878_Avocado_Toast_9_Ways_FB1080x1080.jpg",
+    "description": "Here's what you need: bread, hummus, avocado, cucumber, salt, pepper",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Bread, toasted",
+        "2 tablespoons hummus",
+        "\u00bd avocado, sliced",
+        "Cucumber, sliced",
+        "Salt, to taste",
+        "Pepper, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "Spread hummus on toast.",
+        "Top with sliced cucumbers and avocado.",
+        "Sprinkle with salt and pepper.",
+        "Enjoy!"
+    ]
+}

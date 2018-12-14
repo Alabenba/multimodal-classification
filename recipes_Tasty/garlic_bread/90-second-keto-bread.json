@@ -1,0 +1,26 @@
+{
+    "id": "90-second-keto-bread",
+    "link": "https://tasty.co/recipe/90-second-keto-bread",
+    "name": "90-Second Keto Bread Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/171911.jpg",
+    "description": "Maybe you\u2019re following the keto diet or maybe you\u2019re just trying to cut back on carbs. In any case, that doesn\u2019t mean you have to give up bread. This keto-friendly bread is made with some basic ingredients like almond flour, egg, butter, and Parmesan. The best part: You don\u2019t even have to turn on the oven. This bread is cooked entirely in the microwave in about a minute and a half.",
+    "recipeCategory": "",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 tablespoons almond flour",
+        "\u00bd teaspoon baking powder",
+        "\u00bc cup shredded Parmesan cheese",
+        "1 teaspoon chopped fresh rosemary",
+        "\u00bd teaspoon garlic powder",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 tablespoon unsalted butter, melted",
+        "1 large egg, beaten"
+    ],
+    "recipeInstructionSteps": [
+        "In a microwave-safe ramekin or small bowl, combine the almond flour, baking powder, Parmesan, rosemary, garlic powder, salt, pepper, melted butter, and egg. Stir everything together with a fork until smooth.",
+        "Microwave on high for 90 seconds, until the bread has risen.",
+        "Let the bread cool in the ramekin, then serve as desired.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "mac-n-cheeseballs",
+    "link": "https://tasty.co/recipe/mac-n-cheeseballs",
+    "name": "Mac \u2018N\u2019 Cheeseballs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1bba9a0004544bd29f1086d1a4793784/FB_1_.jpg",
+    "description": "Here's what you need: cheese puff, butter, milk, shredded cheddar cheese, shredded mozzarella cheese, cream cheese, elbow macaroni, flour, egg, oil, salt",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "12 ounces cheese puffs",
+        "\u00bc cup butter",
+        "\u00bd cup milk",
+        "2 cups cheddar cheese, shredded",
+        "2 cups mozzarella cheese, shredded",
+        "1 8-ounce block cream cheese",
+        "1 pound box of elbow macaroni, cooked",
+        "1\u00bd cups flour",
+        "3 eggs, beaten",
+        "Oil, for frying",
+        "Salt, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "Crush cheese puffs into a fine powder and set aside.",
+        "In a saucepan over medium heat, add the butter. Once the butter is melted, add milk, cheddar, mozzarella, and cream cheese. Whisk until all the cheese has melted and sauce is smooth.",
+        "Pour cheese sauce over cooked pasta, stirring to ensure thorough coverage of the noodles.",
+        "Cover and refrigerate the cheese-coated pasta for at least 2 hours, allowing for it to cool completely and for the cheese sauce to bind the pasta together. This recipe also works well with leftover mac \u2018n\u2019 cheese.",
+        "Using your hands, take the chilled mac \u2018n\u2019 cheese and form it into 1-inch (2 \u00bd cm) balls.",
+        "Dredge the balls in flour, followed by egg before finally coating them in the powdered cheese puffs.",
+        "Heat the oil to 350\u02daF (180\u02daC) and fry the mac \u2018n\u2019 cheese balls until the outside is crispy, about 2 minutes. Once done frying, transfer to a wire rack to drain. Lightly sprinkle with salt before serving.",
+        "Enjoy!"
+    ]
+}

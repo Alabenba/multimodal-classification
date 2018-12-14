@@ -1,0 +1,30 @@
+{
+    "id": "seared-scallops",
+    "link": "https://tasty.co/recipe/seared-scallops",
+    "name": "Seared Scallops Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/bac72cfeb1d14287b74cd05716e1af32/seafoodfinalFB.jpg",
+    "description": "Here's what you need: sea scallop, fine sea salt, black pepper, extra virgin olive oil, unsalted butter, garlic, dry white wine, fresh chives",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Seafood",
+    "recipeIngredient": [
+        "1 pound sea scallops, side muscles removed",
+        "Fine sea salt",
+        "Black pepper, freshly ground",
+        "1 tablespoon extra-virgin olive oil",
+        "2 tablespoons unsalted butter, cut into small pieces",
+        "1 garlic clove, grated",
+        "1 tablespoon dry white wine",
+        "2 tablespoons finely chopped chives"
+    ],
+    "recipeInstructionSteps": [
+        "Pat the scallops dry with a paper towel.",
+        "Season with salt and pepper.",
+        "In a large skillet set over medium-high heat, add the oil.",
+        "When the oil is hot, add the scallops and cook until golden brown on one side, 2-3 minutes.",
+        "Gently turn the scallops, and add the butter and garlic to the pan.",
+        "Continue to cook, spooning the butter over the scallops until they are cooked through, about 3 minutes more.",
+        "Add the white wine, cook another 10 seconds.",
+        "Serve with chives.",
+        "Enjoy!"
+    ]
+}

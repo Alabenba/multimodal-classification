@@ -1,0 +1,30 @@
+{
+    "id": "waffle-breakfast-sandwich",
+    "link": "https://tasty.co/recipe/waffle-breakfast-sandwich",
+    "name": "Waffle Breakfast Sandwich Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/169153.jpg",
+    "description": "Here's what you need: sausage patty, egg, salt, pepper, milk, cheddar cheese, frozen waffle",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 breakfast sausage patty",
+        "1 egg",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 teaspoon milk",
+        "2 slices cheddar cheese",
+        "2 frozen waffles"
+    ],
+    "recipeInstructionSteps": [
+        "Place a sausage patty and a mug or ramekin on a large microwaveable-friendly plate.",
+        "Crack the egg into the mug. Season with salt and pepper. Add a splash of milk, if desired. Whisk until well-mixed.",
+        "Microwave the entire plate for 1\u00bd-2 minutes, or until the egg is cooked through.",
+        "Invert the mug with the egg. You may have to run a knife around the mug first to ensure that the egg comes loose in one solid piece.",
+        "Toast two frozen waffles.",
+        "After the waffles are toasted, layer 1 waffle, cheese, the cooked sausage patty, eggs, and the remaining waffle.",
+        "Fold the edges of a sheet of aluminum foil down by half an inch (1 cm). Place the sandwich in the middle.",
+        "Bring the top and bottom of the edges of the paper together over the center of the sandwich. Repeat folding in half-inch (1 cm) turns, creasing each time, until the fold is level with the top of the sandwich.",
+        "Starting on the left side, use your fingers to press the edges into the center to form a pleated triangle. Press down and crease the triangle&#x27;s edges, including at the base of the sandwich, before carefully folding it underneath. Repeat this process on the other side of the sandwich.",
+        "Enjoy!"
+    ]
+}

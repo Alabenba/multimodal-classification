@@ -1,0 +1,25 @@
+{
+    "id": "carrot-cake-cake-pops",
+    "link": "https://tasty.co/recipe/carrot-cake-cake-pops",
+    "name": "Carrot Cake Cake Pops Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/30439d30f6ee43bda958feb19836bd2c/2finalTastyFacebook1080x1080.jpg",
+    "description": "Here's what you need: carrot cake, brigadeiro, condensed milk, chocolate bars, sprinkles",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 carrot cake",
+        "10 brigadeiros",
+        "Condensed milk",
+        "1 chocolate bar, melted",
+        "Sprinkles"
+    ],
+    "recipeInstructionSteps": [
+        "Break the cake into a large bowl, crumble it until it is in fine crumbs.",
+        "Add sweet condensed milk and mix until you form a dough.",
+        "Open a small amount of dough and cover one brigadeiro in it, rolling until you form a ball.",
+        "Add one stick into each ball and freeze for 15 minutes.",
+        "Dip your cake pops into melted chocolate, covering them.",
+        "Let it rest and add some sprinkles on them.",
+        "Enjoy!"
+    ]
+}

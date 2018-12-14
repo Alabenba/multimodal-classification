@@ -1,0 +1,32 @@
+{
+    "id": "chicken-fajita-tacos",
+    "link": "https://tasty.co/recipe/chicken-fajita-tacos",
+    "name": "Chicken Fajita Tacos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8114f6860ca847818593f00c500c9a07/BFV13002_ChickenTacos4Ways-FB1080SQ.jpg",
+    "description": "Here's what you need: shredded chicken, red bell pepper, yellow bell pepper, green bell pepper, white onion, olive oil, chili powder, cumin, salt, black pepper, corn tortilla, sour cream",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 cups shredded chicken",
+        "1 red bell pepper, thinly sliced",
+        "1 yellow bell pepper, thinly sliced",
+        "1 green bell pepper, thinly sliced",
+        "\u00bd white onion, thinly sliced",
+        "1 tablespoon olive oil",
+        "1 teaspoon chili powder",
+        "\u00bd teaspoon cumin",
+        "1 teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "4-6 corn tortillas",
+        "Sour cream, for topping"
+    ],
+    "recipeInstructionSteps": [
+        "In a large, nonstick skillet, heat the olive oil over medium heat.",
+        "Toss in the onions, bell peppers, salt, chili powder, cumin, and black pepper, and saut\u00e9 until the onions and peppers have softened.",
+        "Add in the shredded chicken and toss until everything in the pan is evenly coated and warmed through.",
+        "Pour the chicken mixture into a large serving bowl .",
+        "Toast the tortillas in the seasoned pan, about 3 minutes per side.",
+        "Divide the mixture evenly between tortillas, top with a drizzle of sour cream, and serve.",
+        "Enjoy!"
+    ]
+}

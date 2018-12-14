@@ -1,0 +1,31 @@
+{
+    "id": "turtle-waffles",
+    "link": "https://tasty.co/recipe/turtle-waffles",
+    "name": "Turtle Waffles Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5d8e113b5efd4ddfb0c74163adc14c39/BFV35153_Tasty-Facebook-1080x1080Final2.jpg",
+    "description": "Here's what you need: waffle mix, unsweetened cocoa powder, vegetable oil, egg, semi-sweet chocolate chips, water, chopped pecans, whipped cream, maraschino cherries, brown sugar, butter, heavy cream, salt",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1\u00bc cups waffle mix",
+        "\u00bc cup unsweetened cocoa powder",
+        "3 tablespoons vegetable oil",
+        "1 egg",
+        "\u00bd cup semi-sweet chocolate chips",
+        "1\u00bc cups water",
+        "1 cup chopped pecans",
+        "Whipped cream for topping",
+        "n/a",
+        "\u00be cup brown sugar",
+        "3 tablespoons butter",
+        "\u00bd cup heavy cream",
+        "Large pinch of salt"
+    ],
+    "recipeInstructionSteps": [
+        "In a large mixing bowl, combine waffle mix, egg, oil, cocoa powder, and chocolate chips. Stir until mixture is smooth.",
+        "In a small saucepan over medium-low heat, combine ingredients for caramel sauce and bring to a low boil, whisking constantly once mixture starts to boil. Continue to whisk until mixture darkens slightly and begins to thicken. Remove from heat and let cool for at least 30 minutes.",
+        "Preheat a greased waffle iron. Pour \u00bd cup of waffle mix into the iron, then top with \u00bc cup of pecans and a few tablespoons of caramel. Cover that with another half cup of waffle mix. Close waffle iron and cook according to manufacturer directions.",
+        "When waffle is cooked to desired crispness, remove to a plate. Top with more pecans, a drizzle of caramel, a dollop of whipped cream, and a cherry on top.",
+        "Enjoy!"
+    ]
+}

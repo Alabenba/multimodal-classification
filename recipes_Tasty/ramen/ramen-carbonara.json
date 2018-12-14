@@ -1,0 +1,28 @@
+{
+    "id": "ramen-carbonara",
+    "link": "https://tasty.co/recipe/ramen-carbonara",
+    "name": "Ramen Carbonara Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/407fb60a4ce844ebb84a421b2fbd4029/BFV6427_RamenCarbonara-Thumb1080FB.jpg",
+    "description": "Here's what you need: egg, egg yolk, parmesan cheese, ground pepper, bacon, instant ramen, olive oil",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 egg",
+        "1 egg yolk",
+        "1/3 cup parmesan cheese",
+        "Some ground pepper",
+        "2 strips of bacon, sliced in",
+        "1 packet instant ramen",
+        "1-2 tablespoons of extra virgin olive oil"
+    ],
+    "recipeInstructionSteps": [
+        "In a small bowl, add one whole egg, one egg yolk, parmesan cheese, and pepper to taste. Whisk with fork until well combined.",
+        "Cut two strips of bacon crosswise into half-inch strips. Fry until cooked but not yet crispy.",
+        "Boil water and cook ramen very al dente, or just until it can be loosened from it\u2019s block form.",
+        "Add 1-2 tablespoons of olive oil to the bacon and stir, lifting any bacon bits that are stuck to the pan. Once the oil is hot, remove the pan from heat.",
+        "Pour a small amount of the water the ramen was cooked in and stir. Add the ramen noodles and stir some more, coating the noodles in the bacon/olive oil mixture.",
+        "Next, add the egg mixture, making sure to pour it onto the noodles and not straight onto the pan. Stir vigorously. The heat from the pan and ingredients need to turn the egg mixture into a creamy sauce. But, if the eggs get too hot they will cook too much and become scrabbled eggs. Add additional ramen water as needed to create a smooth but creamy sauce.",
+        "Plate and top with additional parmesan cheese and pepper.",
+        "Enjoy!"
+    ]
+}

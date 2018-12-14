@@ -1,0 +1,34 @@
+{
+    "id": "chicken-chow-mein-nests",
+    "link": "https://tasty.co/recipe/chicken-chow-mein-nests",
+    "name": "Chicken Chow Mein Nests Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/54bccf96eb3a4517ad5e7ed35f20b375/Video_Thumb.jpg",
+    "description": "Here's what you need: grated ginger, garlic, ketchup, soy sauce, oyster sauce, chicken breast, red bell pepper, spring onion, bean sprout, fresh egg noodle, muffin tin",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 tsp grated ginger",
+        "2 garlic cloves (minced)",
+        "3 tbsp ketchup",
+        "2 tbsp soy sauce",
+        "2 tbsp oyster sauce",
+        "2 chicken breasts (diced)",
+        "1 chopped red pepper",
+        "50g chopped spring onion",
+        "250g bean sprouts",
+        "1 pack fresh egg noodles",
+        "Muffin tin"
+    ],
+    "recipeInstructionSteps": [
+        "To make the sauce, mix the grated ginger, garlic, ketchup, soy sauce and oyster sauce in a small bowl until combined. Set aside",
+        "Fry the chicken until cooked through.",
+        "Add the red pepper and spring onion and fry for 2 minutes.",
+        "Add the beansprouts and fry for a further 3-4 minutes.",
+        "Add the sauce and fry for another minute or two.",
+        "Add noodles to each hole of the muffin tin and pat down to make a small indent.",
+        "Bake for 15 minutes at 180\u00b0C (350\u00b0F).",
+        "Remove nests from muffin tin.",
+        "Spoon the chow mien onto the baked noodles.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "checkerboard-cake",
+    "link": "https://tasty.co/recipe/checkerboard-cake",
+    "name": "Checkerboard Cake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/97608.jpg",
+    "description": "Here's what you need: chocolate cake, yellow cake, chocolate frosting",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 prepared chocolate cake, 9 inches",
+        "1 prepared yellow cake, 9 inches",
+        "Chocolate frosting"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the top of both cakes to create a flat surface.",
+        "Cut both cakes in half widthwise to create four cakes.",
+        "Place a small plate on top of the cake and cut around to create a smaller circle.",
+        "Place a glass in the middle of the cake and cut around to create an even smaller circle.",
+        "Assemble the first layer by placing the outside chocolate ring on a plate or cake stand. Insert the next yellow cake ring and then the inner chocolate cake ring.",
+        "Frost the cake with a thin layer of frosting in between each layer.",
+        "Continue forming layers alternating the colors on the outside.",
+        "After the fourth layer frost the entire cake and cool in the refrigerator.",
+        "Slice and serve.",
+        "Enjoy!"
+    ]
+}

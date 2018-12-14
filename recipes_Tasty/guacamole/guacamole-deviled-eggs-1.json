@@ -1,0 +1,35 @@
+{
+    "id": "guacamole-deviled-eggs-1",
+    "link": "https://tasty.co/recipe/guacamole-deviled-eggs-1",
+    "name": "Guacamole Deviled Eggs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/a4803d8582724758a399db0607877d4e/BFV11002_GuacamoleDeviledEggs_ThumbA.jpg",
+    "description": "Here's what you need: egg, avocado, lime juice, salt, pepper, tomato, red onion, fresh cilantro, garlic, jalape\u00f1o, tortilla chips, fresh cilantro",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "12 eggs",
+        "2 avocados",
+        "2 tablespoons lime juice",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 tomato, diced",
+        "\u00bd cup red onion, diced",
+        "2 tablespoons cilantro",
+        "1 tablespoon garlic, minced",
+        "1 tablespoon jalape\u00f1o, minced",
+        "Tortilla chips",
+        "Cilantro"
+    ],
+    "recipeInstructionSteps": [
+        "Place the eggs in a large pot and cover with 1 inch (2cm) of cold water. Cover with a lid.",
+        "Bring to a rolling boil, and remove from heat. Let the eggs sit, covered for 8-10 minutes.",
+        "Remove from water and immediately place in bath of ice water for a few minutes.",
+        "Remove shells and cut the egg in half, vertically.",
+        "Remove the yolk and place in a bowl.",
+        "Set the cooked whites aside on a serving tray.",
+        "In the bowl with the yolks, add all the ingredients for guacamole. Mash until well incorporated.",
+        "Spoon guacamole mixture into the bowls of the cooked egg whites.",
+        "Garnish with a broken piece of a tortilla chip and cilantro.",
+        "Enjoy!"
+    ]
+}

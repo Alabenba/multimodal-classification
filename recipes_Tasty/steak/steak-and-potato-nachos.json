@@ -1,0 +1,32 @@
+{
+    "id": "steak-and-potato-nachos",
+    "link": "https://tasty.co/recipe/steak-and-potato-nachos",
+    "name": "Steak And Potato Nachos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/58f5ac42d8424b009038f2ba425341d7/BFV34496Tasty-Facebook-1080x1080Final1.jpg",
+    "description": "Here's what you need: russet potato, skirt steak, olive oil, salt, pepper, paprika, shredded cheddar cheese, shredded monterey jack cheese, sour cream, salsa, green onion",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 russet potatoes, sliced",
+        "1 pound skirt steak",
+        "4 Tbsp. olive oil",
+        "Salt (to taste)",
+        "Pepper (to taste)",
+        "2 tsp paprika",
+        "1 cup shredded cheddar cheese",
+        "\u00bd cup shredded Monterey jack cheese",
+        "Sour cream",
+        "Salsa (optional)",
+        "2 minced green onions"
+    ],
+    "recipeInstructionSteps": [
+        "Place sliced potatoes in a large bowl. Toss with olive oil, salt, pepper, and paprika.",
+        "Lay the potatoes on a baking sheet and bake at 450\u02daF (230\u02daC) for 20 minutes.",
+        "Season skirt steak with salt and pepper. Cook on high heat for roughly three minutes each side, for medium-rare.",
+        "Let the steak rest for 10 minutes, then slice into cubes.",
+        "In a cast iron skillet or baking sheet, arrange cooked potatoes into a heap. Top with steak, then cheddar and monterey jack cheese. ",
+        "Broil for five minutes or until the cheese is melted.",
+        "Serve immediately with sour cream, salsa, green onions or any topping of choice.",
+        "Enjoy!"
+    ]
+}

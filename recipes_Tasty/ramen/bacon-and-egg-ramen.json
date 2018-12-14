@@ -1,0 +1,22 @@
+{
+    "id": "bacon-and-egg-ramen",
+    "link": "https://tasty.co/recipe/bacon-and-egg-ramen",
+    "name": "Bacon And Egg Ramen Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b11bef7b1dd54d55a13b44eda861a3d1/TastyFacebook1080x1080.jpg",
+    "description": "Here's what you need: instant ramen, egg, bacon, scallions, kosher salt, black pepper",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 package of instant ramen, prepared",
+        "1 egg, fried",
+        "3 slices of bacon, cooked and chopped",
+        "1 tablespoon thinly sliced scallions",
+        "Kosher salt, to taste",
+        "black pepper, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "To a pot with 2 cups (480 ml) of boiling water add the ramen seasoning packet and a tablespoon of butter. Stir until the butter melts and then add the ramen noodle cube and cook until the noodles become tender, 2 minutes. Pour the ramen into a bowl.",
+        "Top the prepared ramen with the fried egg, bacon, and scallions and season with salt and pepper.",
+        "Enjoy!"
+    ]
+}

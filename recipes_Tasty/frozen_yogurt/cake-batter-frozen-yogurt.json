@@ -1,0 +1,22 @@
+{
+    "id": "cake-batter-frozen-yogurt",
+    "link": "https://tasty.co/recipe/cake-batter-frozen-yogurt",
+    "name": "Cake Batter Frozen Yogurt Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/88ff37f29d0b41c7bde10d5509cb768a/frozenyogurt-final.jpg",
+    "description": "Here's what you need: cream cheese, vanilla yogurt, honey, almond extract, rainbow sprinkles",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "8 ounces cream cheese",
+        "1 cup vanilla yogurt",
+        "3 tablespoons honey",
+        "1 teaspoon almond extract",
+        "\u00bd cup rainbow sprinkles"
+    ],
+    "recipeInstructionSteps": [
+        "Combine all ingredients in a food processor until smooth. Stir in rainbow sprinkles.",
+        "Transfer to an 8x8-inch (20x20 cm) glass dish.",
+        "Freeze for at least 2 hours.",
+        "Enjoy!"
+    ]
+}

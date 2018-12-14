@@ -1,0 +1,25 @@
+{
+    "id": "spicy-peanut-ramen",
+    "link": "https://tasty.co/recipe/spicy-peanut-ramen",
+    "name": "Spicy Peanut Ramen Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/8bba1abe8b2142b4b85ae5456ed5deff/TastyFacebook1080x1080.jpg",
+    "description": "Here's what you need: instant ramen, creamy peanut butter,  sriracha, sesame oil, roasted peanut, fresh cilantro, jalape\u00f1o, lime",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 package of instant ramen, prepared",
+        "1 tablespoon creamy peanut butter",
+        "2 teaspoons Sriracha",
+        "1 teaspoon sesame oil",
+        "1 tablespoon roasted peanuts, chopped",
+        "1 tablespoon chopped fresh cilantro",
+        "3 slices of jalape\u00f1o",
+        "1 wedge of lime"
+    ],
+    "recipeInstructionSteps": [
+        "To a pot with 2 cups (480 ml) of boiling water add the ramen seasoning packet and a tablespoon of butter. Stir until the butter melts and then add the ramen noodle cube and cook until the noodles become tender, 2 minutes. Pour the ramen into a bowl.",
+        "To the prepared ramen, add the peanut butter, Sriracha, and sesame oil and stir to incorporate.",
+        "Garnish with the peanuts, cilantro, jalape\u00f1o, and a lime wedge.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "id": "pancake-parcels",
+    "link": "https://tasty.co/recipe/pancake-parcels",
+    "name": "Pancake Parcels Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/bf28bef942a44b4cb874e54a48f02166/BFV6458_PancakeParcels_MAIN_THUMB.jpg",
+    "description": "Here's what you need: flour, cocoa powder, icing sugar, salt, egg, milk, water, butter, frozen raspberry, vanilla ice cream, strawberry lace",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "100 grams plain flour",
+        "15 grams cocoa powder",
+        "15 grams icing sugar",
+        "Pinch of salt",
+        "2 eggs",
+        "225 milliliters milk",
+        "50 milliliters  water",
+        "30 grams butter, for cooking",
+        "100 grams frozen raspberries",
+        "Vanilla ice cream",
+        "Strawberry laces"
+    ],
+    "recipeInstructionSteps": [
+        "Sieve the flour, cocoa powder, icing sugar and salt into a large bowl",
+        "Make a well in the centre and whisk in the eggs",
+        "Combine the milk and water and slowly add it to the mixture while continuing to whisk.",
+        "Melt a small knob of butter in a large frying pan on a medium heat.",
+        "Spoon a ladle full of the mixture onto the pan and swirl it around to get a nice thin layer of batter.",
+        "Cook for approx. 2.5 minutes and flip the pancake once.",
+        "NOTE: You can go for it the cool way, or just use a spatula, we\u2019re not judging you. ;)",
+        "Cook further for 60 more seconds and remove from the heat.",
+        "Pour the frozen raspberries into a pot and cook, along with 3 tbsp of water on the lowest setting with the lid on for 5-6 minutes. (You can also use fresh raspberries with 5-6 tbsp of water.)",
+        "Spoon a dollop of ice cream into the center of the pancake, and pour over a few spoons of the raspberries.",
+        "Wrap the pancake up around the ice cream and use a strawberry lace to tie it all together.",
+        "Enjoy!"
+    ]
+}

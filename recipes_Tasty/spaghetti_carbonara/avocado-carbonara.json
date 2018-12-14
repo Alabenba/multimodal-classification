@@ -1,0 +1,30 @@
+{
+    "id": "avocado-carbonara",
+    "link": "https://tasty.co/recipe/avocado-carbonara",
+    "name": "Avocado Carbonara Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/c083af9f843e489b80d4bb2e2d3b6d42/thumbnail.jpg",
+    "description": "Here's what you need: avocado, egg yolk, heavy cream, garlic, lemon, parmesan cheese, bacon, spaghetti, olive oil",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 avocado",
+        "1 egg yolk",
+        "\u00bd cup heavy cream",
+        "1 clove garlic",
+        "\u00bd lemon, juiced",
+        "\u00bd cup parmesan cheese, grated",
+        "3 pieces bacon",
+        "\u00bd pound spaghetti",
+        "1 tablespoon olive oil"
+    ],
+    "recipeInstructionSteps": [
+        "Blend avocado, egg yolk, garlic, and lemon juice in a powerful blender or food processor.",
+        "Pulse to blend and add heavy cream gradually. Blend the sauce until smooth and set aside.",
+        "Cut up strips of bacon and cook in a large pan. Set aside.",
+        "In a large pot, bring water to a boil and cook the spaghetti according to the package instructions.",
+        "Drain and coat with olive oil.",
+        "Add sauce, bacon, parmesan, salt and pepper, stirring until well-combined.",
+        "Serve and sprinkle with parmesan.",
+        "Enjoy!"
+    ]
+}

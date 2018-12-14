@@ -1,0 +1,36 @@
+{
+    "id": "one-pot-hot-dog-pasta",
+    "link": "https://tasty.co/recipe/one-pot-hot-dog-pasta",
+    "name": "One-pot Hot Dog Pasta Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/72b96added7545efaa44f73b7563d860/BFV10548_MacarraoComSalsichaDeUmaPanelaSo_OnePotHotDogPasta-THUMB1080SQ-b.jpg",
+    "description": "Here's what you need: olive oil, garlic, onion, hot dog sausages, tomato, sugar, salt, pepper, heavy milk, penne pasta, water, green onion, parmesan cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 tbsp olive oil",
+        "2 garlic cloves, chopped",
+        "1/2 onion, chopped",
+        "6 hot dog sausages, chopped",
+        "4 tomatoes, chopped",
+        "1/2 tbsp sugar",
+        "1 tsp salt",
+        "1/2 tsp pepper",
+        "7oz heavy milk",
+        "\u00bdlb raw penne pasta",
+        "16oz water",
+        "2 tbsp green onion, chopped",
+        "Parmesan cheese"
+    ],
+    "recipeInstructionSteps": [
+        "In a big pot, add the olive oil, the garlic, the onion and mix it well.",
+        "Add the hot dog sausages and mix it well. Add the tomatoes and mix it well.",
+        "Add the seasoning: sugar, salt and pepper. Mix it well.",
+        "Add the heavy milk and mix it.",
+        "Add the raw penne pasta, the water and mix it well.",
+        "Let it cook for 15 minutes, stirring each 5 minutes for the pasta not to stick on the bottom.",
+        "Turn off the heat, add the green onions, mix it and close the pan lid.",
+        "Wait 5 minutes with the pan closed before serving.",
+        "Serve with parmesan cheese to taste.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "id": "strawberry-shortcake-milkshake",
+    "link": "https://tasty.co/recipe/strawberry-shortcake-milkshake",
+    "name": "Strawberry Shortcake Milkshake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/14c9c6381c964a318fdfdea409928bd2/final2.jpg",
+    "description": "Here's what you need: strawberry, vanilla wafer, brandy, strawberry ice cream, whipped cream",
+    "recipeCategory": "Drinks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1\u00bd cup strawberries, stems removed",
+        "1 cup vanilla wafers",
+        "2 ounce rum",
+        "2 cups strawberry ice cream",
+        "Whipped cream"
+    ],
+    "recipeInstructionSteps": [
+        "Combine the strawberries, vanilla waters, rum, and strawberry ice cream in a blender. Blend until smooth.",
+        "Top with whipped cream and a strawberry.",
+        "Enjoy!"
+    ]
+}

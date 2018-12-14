@@ -1,0 +1,34 @@
+{
+    "id": "brownie-tiramisu",
+    "link": "https://tasty.co/recipe/brownie-tiramisu",
+    "name": "Brownie Tiramisu Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/b74c7c033dc04bfbb25df251120bc09e/BFV9628_BrownieTiramisu-ThumbFB.jpg",
+    "description": "Here's what you need: brownie mix, espresso, vegetable oil, egg, heavy cream, powdered sugar, mascarpone cheese, espresso powder, vanilla extract",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 box brownie mix",
+        "1/3 cup espresso / strong coffee",
+        "1/3 cup vegetable oil",
+        "1 egg",
+        "1 cup heavy cream",
+        "1/2 cup powdered sugar",
+        "16 ounces mascarpone cheese",
+        "1 tablespoon espresso powder",
+        "1 teaspoon vanilla extract"
+    ],
+    "recipeInstructionSteps": [
+        "Pre-heat oven to 350\u00baF (180\u00b0C).",
+        "Combine brownie mix, egg, vegetable oil, and strong coffee into a large bowl. Mix well.",
+        "Pour batter into a parchment lined 10x15-inch (25x38 cm) baking sheet.",
+        "Bake for about 10 minutes.",
+        "While the brownie is baking and cooling, mix mascarpone cheese, espresso powder, and vanilla extract together in a bowl until smooth.",
+        "In a separate bowl, whip the heavy cream and gradually add in powdered sugar.",
+        "When the cream is whipped, add to the mascarpone cheese mixture and gently fold until homogenous.",
+        "Take the brownie out from the baking sheet put on a flat surface, then use either a mason jar lid or a cookie cutter to cut out as many circles as you can.",
+        "To assemble the tiramisu, alternate the cream and brownie, starting with the cream.",
+        "Chill tiramisu in the fridge for an hour.",
+        "To serve, dust with cocoa powder and/or espresso powder.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "banana-cornbread-pancakes",
+    "link": "https://tasty.co/recipe/banana-cornbread-pancakes",
+    "name": "Banana Cornbread Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/160036.jpg",
+    "description": "Here's what you need: banana, granulated sugar, brown sugar, vanilla extract, milk, cornmeal, salt, baking powder, cinnamon, butter, butter, honey",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 bananas",
+        "\u2153 cup granulated sugar",
+        "1 tablespoon brown sugar",
+        "2 teaspoons vanilla extract",
+        "1\u00bd cups milk",
+        "2 cups cornmeal",
+        "1 teaspoon salt",
+        "2 teaspoons baking powder",
+        "2 teaspoons cinnamon",
+        "1 teaspoon butter, for griddling",
+        "Butter, for serving",
+        "Honey, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, mash the bananas. Add the granulated sugar, brown sugar, and vanilla and whisk until evenly incorporated.",
+        "Add the milk and whisk to combine.",
+        "Sift in the cornmeal, salt, baking powder, and cinnamon and whisk until fully incorporated.",
+        "In a medium pan over medium heat, melt the butter and add \u2153 cup (40 g) of pancake batter.",
+        "Cook for 3-5 minutes, or until lightly golden brown, then flip. Cook for 2-3 minutes more on the other side, then remove from the pan. Repeat with the remaining batter.",
+        "Serve with honey and butter.",
+        "Enjoy!"
+    ]
+}

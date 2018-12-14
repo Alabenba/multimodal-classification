@@ -1,0 +1,32 @@
+{
+    "id": "strawberry-shortcake",
+    "link": "https://tasty.co/recipe/strawberry-shortcake",
+    "name": "Strawberry Shortcake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/42394974c2b24ba4b890f701f7ebfb94/BFV44628_AllTheRecipesYouNeedforaGreatBBQ_FB1080SQ.jpg",
+    "description": "Here's what you need: strawberry, granulated sugar, lemon zest, fine sea salt, all purpose flour, granulated sugar, baking powder, fine sea salt, unsalted butter, heavy cream, flaky sea salt, whipped cream",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1\u00bc pounds strawberries, cleaned, hulled, and quartered",
+        "3 tablespoons granulated sugar",
+        "1 teaspoon lemon zest",
+        "\u00bc teaspoon fine sea salt",
+        "2 cups all-purpose flour",
+        "4 tablespoons granulated sugar, divided",
+        "1 tablespoon baking powder",
+        "\u00be teaspoon fine sea salt",
+        "6 tablespoons cold unsalted butter, cubed",
+        "1 cup + 1\u00bd tablespoons heavy cream, divided",
+        "Flaky sea salt, for sprinkling",
+        "Whipped cream, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Marinate the strawberries: in a medium bowl, combine the strawberries, sugar, lemon zest, and salt. Set aside to marinate while you make the shortcakes.",
+        "Preheat the oven to 400\u00b0F (200\u00b0C).",
+        "In a large bowl, whisk together the flour, 3 tablespoons sugar, baking powder, and salt. Add the cubed butter and, using your fingers, cut in the butter until pea-sized pieces form and the mixture starts to clump together. Add 1 cup (240 ml) cream and mix just to combine.",
+        "Transfer the mixture to a clean work surface and pat into a \u00be-inch-thick (2 cm) rectangle. Cut into 8 squares. Use a pastry brush to brush the tops of each square with the remaining 1\u00bd tablespoons of heavy cream and sprinkle with the remaining tablespoon of sugar and flaky salt.",
+        "Bake for 20 minutes, until the shortcakes are cooked through and golden on top.",
+        "Cool the shortcakes, then split and serve with the marinated strawberries and whipped cream.",
+        "Enjoy!"
+    ]
+}

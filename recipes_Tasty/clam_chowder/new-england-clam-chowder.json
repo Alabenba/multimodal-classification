@@ -1,0 +1,36 @@
+{
+    "id": "new-england-clam-chowder",
+    "link": "https://tasty.co/recipe/new-england-clam-chowder",
+    "name": "New England Clam Chowder Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/97afa9665d6e44e785ce53fb38965c21/FB_2.jpg",
+    "description": "Here's what you need: bacon, onion, celery, carrot, all-purpose flour, black pepper, dried thyme, minced clam, chicken stock, potato, heavy cream, bay leaf, oyster cracker",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "4 slices bacon, about 4 ounces, chopped",
+        "2 cups onion, diced",
+        "1 cup celery, diced",
+        "1 cup carrots, diced",
+        "\u2153 cup all purpose flour",
+        "1 teaspoon black pepper",
+        "1 teaspoon thyme",
+        "4 cans minced clams with juice",
+        "1\u00bd cups chicken stock",
+        "2 potatoes, peeled and cubed",
+        "2 cups heavy cream",
+        "1 bay leaf",
+        "Oyster crackers for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "Place a fine mesh strainer over a medium bowl and strain the 4 cans of minced clams, separating the meat from the juices.",
+        "Using a 6-quart dutch oven or pot of similar size, fry bacon over medium-high heat until fat renders and the edges begin to crisp.",
+        "Add onion and saut\u00e9 until softened and translucent, about 3 to 5 minutes.",
+        "Reduce heat to low and add carrots, celery and flour, stirring constantly for 3-5 minutes to avoid lumps.",
+        "Add black pepper, thyme, reserved clam juices, chicken stock, diced potatoes, and bay leaf. Stir to incorporate, then cover and bring to a boil.",
+        "Reduce heat to a simmer and let cook until potatoes are tender, about 15 to 20 minutes.",
+        "Remove bay leaf and add cream. Allow chowder to simmer for an additional 10-20 minutes until soup has thickened to an appropriate consistency.",
+        "Add in reserved clam meat and cook for an additional 2-4 minutes.",
+        "Remove from heat and serve with oyster crackers",
+        "Enjoy!"
+    ]
+}

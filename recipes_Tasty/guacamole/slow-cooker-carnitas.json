@@ -1,0 +1,38 @@
+{
+    "id": "slow-cooker-carnitas",
+    "link": "https://tasty.co/recipe/slow-cooker-carnitas",
+    "name": "Slow Cooker Carnitas Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/ca9fc04b438c46769df94f954eb3813c/BFV11666_Carnitas-ThumbTextless1080.jpg",
+    "description": "Have you ever gone out for Mexican food, eaten carnitas, and thought \u201cgosh, I wish I could make this myself\u201d? Well, you can with the help of your slow cooker. Just add pork butt or shoulder to a slow cooker with citrus juice, garlic, onion, and some spices, then let it cook for about eight hours until it's tender and easy to shred with a fork. Then, you can enjoy your home-cooked carnitas in tacos, burritos, or on top of your favourite grains.",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "3 \u00bd - 4 pound boneless pork butt/shoulder, cut into six equal pieces",
+        "2 teaspoons salt",
+        "1 teaspoon pepper",
+        "1 tablespoon oregano",
+        "1 tablespoon cumin",
+        "8 cloves garlic, crushed",
+        "1 medium onion, quartered",
+        "3 bay leaves",
+        "1 lime, juiced",
+        "1 large orange, juiced (save the spent halves)",
+        "Tortillas/taco shells",
+        "Rice",
+        "Black beans",
+        "Salsa",
+        "Guacamole",
+        "Sour cream",
+        "Cilantro",
+        "Cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Cut pork into 6 equal pieces. Add it to the slow cooker.",
+        "Add salt, pepper, oregano, cumin, garlic, onion, bay leaves, lime juice and juice the orange. Add orange to the cooker as well. Mix together until the meat is well-coated.",
+        "Cover and cook on low for 8-10 hours, or until the meat pulls apart easily.",
+        "Remove the pork and transfer to a foil-lined baking sheet. Shred the pork and spread across the baking sheet in a single layer.",
+        "Pour about 1 cup (235 ml) of the liquid remaining in the slow cooker over the shredded pork. Broil for 5-10 minutes until the meat browns and crisps along the edges.",
+        "Serve immediately. Great as a filling in tacos, burritos, salads, or nachos!",
+        "Enjoy!"
+    ]
+}

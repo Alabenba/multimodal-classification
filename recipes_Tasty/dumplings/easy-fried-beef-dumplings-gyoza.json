@@ -1,0 +1,30 @@
+{
+    "id": "easy-fried-beef-dumplings-gyoza",
+    "link": "https://tasty.co/recipe/easy-fried-beef-dumplings-gyoza",
+    "name": "Easy Fried Beef Dumplings (Gyoza) Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/8bbaee23d3d94a6bbf6a565eeda9611d/BFV6494_Fried-Gyoza_Thumb.jpg",
+    "description": "Here's what you need: ground beef, onion, scallion, soy sauce, garlic, grated ginger, sesame oil, white pepper, egg wash, gyoza wrapper, sriracha sauce, scallion",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 lb of ground beef",
+        "1/2 cup of onions",
+        "1/2 cup of scallions",
+        "2 Tbsp. of soy sauce",
+        "2 garlic cloves",
+        "1/2 Tbsp. of grated ginger",
+        "1 Tbsp. of sesame oil",
+        "1 tsp of white pepper",
+        "Egg wash",
+        "Gyoza wrapper",
+        "Sriracha sauce",
+        "Chopped scallions"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together the ground beef, onions, scallions, soy sauce, garlic cloves, grated ginger, sesame oil, and white pepper.",
+        "Place a spoonful of the ground beef mix into the center of the gyoza wrapper, brush the edges with egg wash, fold over, and press to seal.",
+        "Fry the dumplings in oil until golden brown and crispy.",
+        "Garnish with Sriracha and chopped scallions.",
+        "Enjoy!"
+    ]
+}

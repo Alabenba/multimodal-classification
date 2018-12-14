@@ -1,0 +1,42 @@
+{
+    "id": "sweet-sour-pork",
+    "link": "https://tasty.co/recipe/sweet-sour-pork",
+    "name": "Sweet &amp; Sour Pork Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1831c6afb2314c78bdfab43835f1643b/FB_1.jpg",
+    "description": "Here's what you need: pork shoulder, garlic, black pepper, green onion, soy sauce, egg, cornstarch, vegetable oil, red bell pepper, green bell pepper, white onion, chopped pineapple with syrup, vinegar, soy sauce, ketchup, sugar, scallion, white rice",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Chinese",
+    "recipeIngredient": [
+        "2 pound pork shoulder or butt",
+        "2 cloves garlic, minced",
+        "1 teaspoon black pepper",
+        "\u00bc cup green onion",
+        "\u00bc cup soy sauce",
+        "3 eggs, beaten",
+        "1\u00bd  cups cornstarch",
+        "1 tablespoon vegetable oil",
+        "1 red bell pepper",
+        "1 green bell pepper",
+        "1 white onion, cut into wedges",
+        "1 8-ounce can chopped pineapple with syrup",
+        "\u00bc  cup vinegar",
+        "\u00bc cup soy sauce",
+        "\u00bc cup ketchup",
+        "\u00bc cup sugar",
+        "Scallions",
+        "White rice"
+    ],
+    "recipeInstructionSteps": [
+        "Cut pork into bite-sized pieces and place in a medium-sized bowl.",
+        "Season with pepper and add soy sauce, garlic, and green onion.",
+        "Cover and let marinate for 1-2 hours.",
+        "Coat pork pieces with egg, dip in cornstarch, and fry until crispy and golden (about 2 minutes).",
+        "Drain on paper towels.",
+        "Heat 1 tablespoon of vegetable oil in a skillet over medium-high heat. Add the onion and bell pepper.",
+        "Once the vegetables start to become tender, add pineapple with syrup.",
+        "Stir for 30 seconds before adding vinegar, soy sauce, ketchup, and sugar. Stir regularly over medium-high heat for 3-4 minutes as water evaporates and sauce thickens.",
+        "Add the pork to the pan once the sauce begins to thicken. Stir to coat evenly.",
+        "Garnish with additional green onions and a sprinkle of sesame seeds.",
+        "Enjoy!"
+    ]
+}

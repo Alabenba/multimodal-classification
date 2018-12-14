@@ -1,0 +1,27 @@
+{
+    "id": "blueberry-french-toast-in-a-mug",
+    "link": "https://tasty.co/recipe/blueberry-french-toast-in-a-mug",
+    "name": "Blueberry French Toast In A Mug Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/bf59c9256bcb4c6886e3a389061beb88/Breakfast_mug_4_way-FB_final.jpg",
+    "description": "Here's what you need: bread, egg, milk, cinnamon, vanilla extract, blueberry, maple syrup",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Slice of bread",
+        "1 egg",
+        "2 tablespoons milk",
+        "\u00bc teaspoon cinnamon",
+        "\u00bd teaspoon vanilla extract",
+        "Blueberries",
+        "Maple syrup"
+    ],
+    "recipeInstructionSteps": [
+        "Slice bread into cubes.",
+        "In a bowl, add egg, milk, cinnamon, and vanilla, and mix.",
+        "In a microwave-safe mug, place half of the cubed bread and desired amount of blueberries.",
+        "Place the rest of the bread, berries, and the egg mixture into the mug.",
+        "Microwave for 1\u00bd minutes or until egg is fully cooked.",
+        "Drizzle maple syrup.",
+        "Enjoy!"
+    ]
+}

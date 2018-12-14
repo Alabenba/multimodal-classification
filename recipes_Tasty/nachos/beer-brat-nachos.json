@@ -1,0 +1,35 @@
+{
+    "id": "beer-brat-nachos",
+    "link": "https://tasty.co/recipe/beer-brat-nachos",
+    "name": "Beer Brat Nachos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/9e740bc5468141feb898071ad5739c51/BFV11412_BeerBratNachos-ThumbTextless1080.jpg",
+    "description": "Here's what you need: bratwurst, lager, cream cheese, shredded cheddar cheese, cayenne pepper, brown mustard, torilla chip, green onion, white onion, pickled jalapenos, tomato",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 pound bratwurst",
+        "2 cans lager or pilsner beer",
+        "1 cup cream cheese",
+        "2 cups shredded cheddar cheese",
+        "1 tablespoon cayenne pepper",
+        "1 tablespoon brown mustard",
+        "1 bag corn tortilla chips",
+        "\u00bd cup sliced green onions",
+        "\u00bd cup diced white or yellow onions",
+        "\u00bd cup pickled jalape\u00f1os",
+        "\u00bd cup diced tomatoes"
+    ],
+    "recipeInstructionSteps": [
+        "In a large skillet, brown the bratwurst on both sides over medium high heat.",
+        "Add both cans of beer to the skillet. Simmer over medium-low heat for 20 minutes.",
+        "Remove bratwurst from skillet and set aside.",
+        "Continuing to simmer beer over medium low, add cream cheese and cheddar cheese to the skillet.",
+        "Stir occasionally until mixture is smooth, about 5 minutes.",
+        "Add cayenne and mustard to beer cheese, stirring to incorporate.",
+        "Remove beer cheese from heat.",
+        "Cover a large plate with a layer of tortilla chips. Top with beer cheese.",
+        "Slice bratwurst and arrange over nachos and add desired amount of nacho fixings.",
+        "Repeat with another layer of chips and fixings.",
+        "Enjoy!"
+    ]
+}

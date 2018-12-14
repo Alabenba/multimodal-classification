@@ -1,0 +1,23 @@
+{
+    "id": "bbq-bacon-onion-rings",
+    "link": "https://tasty.co/recipe/bbq-bacon-onion-rings",
+    "name": "BBQ Bacon Onion Rings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1955b83157c340f198280b4327d2a82c/BFV39634_OnionRings8Ways_FB.jpg",
+    "description": "Here's what you need: onion, bacon, BBQ sauce, honey",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "2 onions",
+        "20 slices bacon",
+        "\u00bd cup BBQ sauce",
+        "\u00bc cup honey"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u02daF (200\u02daC).",
+        "Peel and cut onions into \u00bd-inch (1 cm) rings. Separate the rings.",
+        "Wrap a piece of bacon around one onion ring. Repeat with remaining onion rings and place on a parchment paper-lined baking sheet.",
+        "Combine the BBQ sauce and honey in a bowl, and brush onto rings.",
+        "Bake for 20 minutes, or until golden brown.",
+        "Enjoy!"
+    ]
+}

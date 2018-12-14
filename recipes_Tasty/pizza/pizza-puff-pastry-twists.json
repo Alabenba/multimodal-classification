@@ -1,0 +1,25 @@
+{
+    "id": "pizza-puff-pastry-twists",
+    "link": "https://tasty.co/recipe/pizza-puff-pastry-twists",
+    "name": "Pizza Puff Pastry Twists Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/3f52600ceaa54ac99a0c776d12a50a8f/BFV5596_PizzaPuffPastryTwists_ThumbC.jpg",
+    "description": "Here's what you need: puff pastry, pizza sauce, shredded cheese, egg wash",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 sheets of puff pastry",
+        "pizza sauce",
+        "shredded cheese",
+        "egg wash"
+    ],
+    "recipeInstructionSteps": [
+        "Place the two sheets of puff pastry on a parchment paper lined baking tray.",
+        "Cut out equal size circles. Remove the top sheet.",
+        "On the bottom sheet, spread pizza sauce and shredded cheese. Place the other sheet of puff pastry on top.",
+        "Take a glass and place it in the center of the circle. Using a knife or scissors, cut strips away from the edge of the glass.",
+        "Take each strip and twist.",
+        "Brush egg wash over the top of the puff pastry.",
+        "Bake at 400\u00b0F (204\u00b0C) for 20-25 minutes.",
+        "Enjoy!"
+    ]
+}

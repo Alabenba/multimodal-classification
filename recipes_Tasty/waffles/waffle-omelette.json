@@ -1,0 +1,21 @@
+{
+    "id": "waffle-omelette",
+    "link": "https://tasty.co/recipe/waffle-omelette",
+    "name": "Waffle Omelette Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/4719bdcfc7e846d193c48868af66b45c/eggsfinalFB.jpg",
+    "description": "Here's what you need: egg, salt, pepper, nonstick cooking spray",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "2 eggs, beaten",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Nonstick cooking spray"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, add the beaten eggs, any of your favorite toppings, salt, and pepper. Mix well.",
+        "Grease a waffle iron with nonstick spray.  Add the egg mixture and cook according to machine instruction to until the eggs are fully set and slightly browned, 2 minutes.",
+        "Remove the egg from the waffle iron and serve.",
+        "Enjoy!"
+    ]
+}

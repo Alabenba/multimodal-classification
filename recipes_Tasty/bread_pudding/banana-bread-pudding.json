@@ -1,0 +1,30 @@
+{
+    "id": "banana-bread-pudding",
+    "link": "https://tasty.co/recipe/banana-bread-pudding",
+    "name": "Chocolate Banana Bread Pudding Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1ff73a01d151467295d1b297f0e0b770/Thumb_C.jpg",
+    "description": "Here's what you need: bread, ripe banana, egg, milk, cinnamon, vanilla extract, chocolate chips, ice cream, chocolate syrup, whipped cream",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "6\u20137 slices of bread (whatever is about to go stale)",
+        "4 ripe bananas",
+        "3 eggs",
+        "1 cup milk",
+        "1 tsp cinnamon",
+        "2 tsp vanilla extract",
+        "1 cup chocolate chips",
+        "n/a",
+        "n/a",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "On a cutting board, cut bread into small cubes. Place onto a baking sheet and bake at 350\u00b0F (175\u00b0C) for 5 minutes to help dry the bread out.",
+        "In a large mixing bowl, add ripe bananas and mush.",
+        "Add in beaten eggs, milk, cinnamon, and vanilla extract, and stir.",
+        "Once fully mixed, add bread and let it soak for 5 to 10 minutes.",
+        "Add in chocolate chips. Stir together, and spoon mix into a large muffin tin. Bake at 350\u00b0F (175\u00b0C) for 20 minutes.",
+        "Scoop your favorite ice cream or whipped cream and top with chocolate syrup.",
+        "Enjoy!"
+    ]
+}

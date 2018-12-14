@@ -1,0 +1,32 @@
+{
+    "id": "peruvian-lomo-saltado",
+    "link": "https://tasty.co/recipe/peruvian-lomo-saltado",
+    "name": "Peruvian Lomo Saltado Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d9673a70e9a2403b884df8eeec467b6b/Fries_FB.jpg",
+    "description": "Here's what you need: vegetable oil, sirloin steak, salt, black pepper, red onion, medium tomato, garlic, aji amarillo paste, soy sauce, white vinegar, fresh cilantro, french fries, white rice",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Latin American",
+    "recipeIngredient": [
+        "2 tablespoons vegetable oil, divided",
+        "1 pound sirloin steak, cut into strips",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "\u00bd red onion, sliced",
+        "1 medium tomato, sliced",
+        "2 cloves garlic, minced",
+        "1 tablespoon aji amarillo paste",
+        "2 tablespoons soy sauce",
+        "1 tablespoon white vinegar",
+        "1 tablespoons chopped fresh cilantro",
+        "1 pound cooked French fries, hot",
+        "Cooked white rice, for serving (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "Heat 1 tablespoon of oil in a large pan over high heat. Add the steak, season with salt and pepper, and cook until browned, 5-6 minutes. Remove from the pan.",
+        "Heat the remaining tablespoon of oil in the same pan, then add the red onion and cook for about 5 minutes, until softened and browned. Add the tomato, garlic, and aji amarillo paste, and cook for another 5-7 minutes, until the tomatoes have released some of their juices, but are still intact.",
+        "Add the soy sauce and vinegar and stir to combine, let cook for 1 minute.",
+        "Add the steak, fries, and cilantro. Toss gently to coat the fries in the sauce.",
+        "Serve with rice, if desired.",
+        "Enjoy!"
+    ]
+}

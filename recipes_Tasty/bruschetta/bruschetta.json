@@ -1,0 +1,24 @@
+{
+    "id": "bruschetta",
+    "link": "https://tasty.co/recipe/bruschetta",
+    "name": "Bruschetta Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b05188d608274eef8b5b5fe7910db0a7/BFV36474MakeVegetablesTasteGreatFBV4.jpg",
+    "description": "Here's what you need: tomato, garlic, fresh basil, olive oil, balsamic vinegar, salt, pepper, baguette",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "4 tomatoes, diced",
+        "1 clove garlic, minced",
+        "1 teaspoon basil",
+        "1 teaspoon olive oil",
+        "1 teaspoon balsamic vinegar",
+        "1 teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "Baguette, toasted, sliced"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium sized mixing bowl combine the tomatoes, garlic, basil, olive oil, balsamic, salt, and pepper, and stir until evenly incorporated.",
+        "Serve on toasted baguette.",
+        "Enjoy!"
+    ]
+}

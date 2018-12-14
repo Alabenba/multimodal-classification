@@ -1,0 +1,26 @@
+{
+    "id": "strawberry-chocolate-mousse",
+    "link": "https://tasty.co/recipe/strawberry-chocolate-mousse",
+    "name": "Strawberry Chocolate Mousse Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/21b9723a7320415e86e06f560aa1f5c7/BFV17225_3-CourseHealthyChickenDinner_V8.jpg",
+    "description": "Here's what you need: dark chocolate, low fat milk, pure vanilla extract, salt, greek yogurt, strawberry",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "6 ounces dark chocolate (72% is best)",
+        "\u00bd cup low-fat milk",
+        "1 teaspoon pure vanilla extract",
+        "Pinch salt",
+        "1 cup Greek yogurt",
+        "6-8 strawberries"
+    ],
+    "recipeInstructionSteps": [
+        "In a small saucepan, heat milk on medium-low heat until scalding around 180\u02daF (82\u02daC). Do not boil the milk.",
+        "Pour hot milk over chocolate.",
+        "Add vanilla and salt. Let it stand for 3 minutes to soften.",
+        "Whisk together until fully incorporated. Let cool.",
+        "Add yogurt. Whisk together until fully incorporated.",
+        "Layer chocolate in the bottom of 2 cups followed by strawberries. Repeat until the glasses are full.",
+        "Enjoy!"
+    ]
+}

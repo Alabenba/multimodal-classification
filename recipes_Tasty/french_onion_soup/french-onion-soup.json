@@ -1,0 +1,43 @@
+{
+    "id": "french-onion-soup",
+    "link": "https://tasty.co/recipe/french-onion-soup",
+    "name": "French Onion Soup Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1855f6dc23944bc0bf3498785432a2c0/BFV8673_FrenchOnionSoup_FB1080SQ.jpg",
+    "description": "Here's what you need: olive oil, butter, yellow onion, salt, sugar, flour, beef stock, white wine, ground sage, whole bay leaf, french bread, olive, onion, cognac, swiss cheese, salt, pepper, parmesan cheese",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "French",
+    "recipeIngredient": [
+        "4 Tbsp. olive oil",
+        "2 Tbsp. butter",
+        "6 cups yellow onions, thinly sliced",
+        "1 tsp salt",
+        "1/2 tsp sugar",
+        "3 Tbsp. flour",
+        "6 cups beef stock",
+        "1 cup white wine",
+        "1/2 tsp ground sage",
+        "1 whole bay leaf",
+        "1 loaf french bread, or baguette",
+        "2 Tbsp. olive oil",
+        "1/2 an onion, grated",
+        "3 Tbsp. cognac (optional)",
+        "12 oz swiss cheese, grated",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "4 oz parmesan cheese, grated"
+    ],
+    "recipeInstructionSteps": [
+        "In a large pot over medium-low heat, heat olive oil and add butter. Once the butter is melted, stir the onions and coat with oil and butter.",
+        "Cover and cook for 20 minutes, checking occasionally.",
+        "Turn up the heat to medium-high. Add \u00bd tsp salt and sugar. Stir and keep cooking until onions are brown and caramelized. (the bottom of the pan will develop some browning, it\u2019s very important!)",
+        "Stir in flour one tablespoon at a time and cook for about 30 seconds.",
+        "Preheat Oven To 325\u02daF (160\u02daC).",
+        "Add 1 cup (235 ml) of the beef broth. Use a whisk to scrape up (deglaze) the browned bits stuck on the bottom of the pan.",
+        "Add the remaining five cups of beef stock, wine, sage and bay leaf. Bring to a boil. Reduce heat and simmer, uncovered, for 40 minutes.",
+        "In the meantime, cut the french bread or baguette into \u00bd inch (10 mm) thick pieces. Brush with oil on both sides and bake at 325\u02daF (160\u02daC) for 30 minutes, flipping halfway. Once they are done, increase oven temperature to 350\u02daF (175\u02daC).",
+        "Add optional ingredients.",
+        "In an oven safe bowl, pour the onion soup, filling about \u00be of the way full. Top with a piece of baked french bread, and generously sprinkle swiss and parmesan on top.",
+        "Bake for two to three minutes or until the cheese has melted completely and become slightly golden.",
+        "Enjoy!"
+    ]
+}

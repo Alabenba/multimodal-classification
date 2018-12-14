@@ -1,0 +1,26 @@
+{
+    "id": "scrambled-egg-breakfast-tacos",
+    "link": "https://tasty.co/recipe/scrambled-egg-breakfast-tacos",
+    "name": "Scrambled Egg Breakfast Tacos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9a8e91cf3a7e4e4ca99c5d6feccd0501/BFV43066_TastyMakeAheadMealPlan_FB_V2.jpg",
+    "description": "Here's what you need: large egg, olive oil, kosher salt, black pepper, small corn tortilla, canned black bean, pico de gallo, fresh cilantro",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 large eggs",
+        "1 teaspoon olive oil",
+        "\u00bc teaspoon kosher salt",
+        "\u215b teaspoon black pepper",
+        "2 small corn tortillas",
+        "2 tablespoons canned black beans, drained and rinsed",
+        "\u00bc cup pico de gallo",
+        "2 tablespoons chopped, fresh cilantro"
+    ],
+    "recipeInstructionSteps": [
+        "Crack the eggs into a small bowl and whisk to combine.",
+        "Heat the olive oil in a medium nonstick pan over medium heat until shimmering and add the beaten eggs, salt, and pepper. Using a rubber spatula, stir the eggs often until firm, roughly 3 minutes.",
+        "Divide the eggs between the tortillas.",
+        "Top each taco with pico de gallo, black beans, and cilantro.",
+        "Enjoy!"
+    ]
+}

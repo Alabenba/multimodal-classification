@@ -1,0 +1,40 @@
+{
+    "id": "slow-cooker-nacho-soup",
+    "link": "https://tasty.co/recipe/slow-cooker-nacho-soup",
+    "name": "Slow Cooker Nacho Soup Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2926d579958a48afb79e7e0da7771c21/FB_1.jpg",
+    "description": "Here's what you need: boneless, skinless chicken breast, large onion, garlic, chili powder, cumin, paprika, salt, black pepper, chicken broth, diced tomato, black beans, heavy cream, cheddar cheese, monterey jack cheese, sour cream, cheese, tortilla chips, fresh cilantro, tomato",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 pounds chicken breast, boneless, skinless",
+        "1 large onion, diced",
+        "3 cloves garlic, minced",
+        "1 tablespoon chili powder",
+        "2 teaspoons cumin",
+        "1 teaspoon paprika",
+        "1 teaspoon salt",
+        "1 teaspoon black pepper",
+        "6 cups chicken broth",
+        "1 can diced tomatoes",
+        "1 can black beans",
+        "1 cup heavy cream",
+        "1 cup cheddar cheese",
+        "1 cup monterey jack cheese",
+        "sour cream",
+        "n/a",
+        "tortilla chips",
+        "cilantro",
+        "diced tomatoes"
+    ],
+    "recipeInstructionSteps": [
+        "Place chicken, onion, garlic and spices into a 6-quart slow cooker.",
+        "Using a set of tongs or a large spoon, mix the ingredients together. Once mixed, pour in chicken broth.",
+        "Set slow cooker to HIGH, cover and cook for 3 hours.",
+        "After 3 hours remove and shred the chicken into bite-sized pieces.",
+        "Return shredded chicken to the slow cooker and add tomatoes, beans, heavy cream and cheese.",
+        "Cover and set slow cooker to the LOW setting. Let soup cook for an additional 45 minutes.",
+        "Ladle soup into bowl and top with favorite nacho toppings. Serve with tortilla chips.",
+        "Enjoy!"
+    ]
+}

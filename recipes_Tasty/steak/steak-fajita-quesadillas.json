@@ -1,0 +1,40 @@
+{
+    "id": "steak-fajita-quesadillas",
+    "link": "https://tasty.co/recipe/steak-fajita-quesadillas",
+    "name": "Steak Fajita Quesadillas Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/456abef3ea9942339a9e90242f01852a/Thumb_A.jpg",
+    "description": "Here's what you need: skirt steak, olive oil, salt, pepper, chili powder, cumin, onion, garlic, bell pepper, jalape\u00f1o pepper, butter, large tortilla, mexican blend cheese, guacamole, sour cream, salsa",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 pound skirt steak",
+        "2 tablespoons olive oil",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 teaspoon chili powder",
+        "1 teaspoon cumin",
+        "1 onion, sliced",
+        "4 garlic cloves, sliced",
+        "3 bell peppers, sliced",
+        "1 jalape\u00f1o pepper, sliced",
+        "1 tablespoon butter",
+        "4 large tortillas",
+        "2 cups Mexican cheese blend",
+        "Guacamole",
+        "Sour cream",
+        "Salsa"
+    ],
+    "recipeInstructionSteps": [
+        "Season skirt steak with olive oil, salt, pepper, chili powder, and cumin.",
+        "Cook on high heat for roughly 3 minutes each side, for medium-rare.",
+        "Let the steak rest for 10 minutes.",
+        "While the steak is resting, saut\u00e9 onion and garlic until slightly translucent. Add bell peppers, jalape\u00f1o, salt, and pepper, cook slightly.",
+        "Slice the steak into strips.",
+        "Mix the steak into the pepper mix. Remove from heat and set aside.",
+        "In a clean pan, melt butter. Lay the tortilla on the buttered pan, add cheese, fajita mixture, more cheese, then top with another tortilla and pat it down.",
+        "Flip the quesadilla over and cook the other side until it\u2019s golden.",
+        "Remove from pan and cut into quarters or eighths. Repeat these steps with the remaining tortillas.",
+        "Serve immediately with sour cream, salsa, and guacamole.",
+        "Enjoy!"
+    ]
+}

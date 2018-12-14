@@ -1,0 +1,40 @@
+{
+    "id": "jalebi",
+    "link": "https://tasty.co/recipe/jalebi",
+    "name": "Jalebi Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/159992.jpg",
+    "description": "Here's what you need: all-purpose flour, baking powder, baking soda, plain yogurt, ground cardamom, water, turmeric powder, sugar, saffron, lemon juice, oil, rabri",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "Indian",
+    "recipeIngredient": [
+        "1 cup all-purpose flour",
+        "1 teaspoon baking powder",
+        "Pinch of baking soda",
+        "3 tablespoons plain yogurt",
+        "\u00bd teaspoon ground cardamom, divided",
+        "1 cup plus 1 tablespoon water, divided",
+        "2 drops of orange food coloring or \u00bc teaspoon turmeric powder, optional",
+        "1 cup sugar",
+        "3 strands of saffron",
+        "\u00bd teaspoon lemon juice",
+        "Oil, for frying",
+        "Rabri, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, whisk together the flour, baking powder, and baking soda.",
+        "Add the yogurt and \u00bc teaspoon of cardamom.",
+        "Add \u00bd cup (120 ml) of water and the orange food coloring. The batter should have the consistency of a thick pancake batter. Add more water if needed.",
+        "Cover and let rest in a warm place for 10-12 hours to ferment, or until small bubbles develop on top of the batter.",
+        "Once the batter has fermented, add the sugar and \u00bd cup (120 ml) of water to a small saucepan. Bring to a boil over medium heat.",
+        "Add the remaining \u00bc teaspoon of cardamom, the saffron strands, and lemon juice.",
+        "Simmer until a sticky syrup develops, about 5 minutes.",
+        "Whisk the batter and add a tablespoon of water if the batter looks too thick. Transfer to a squeeze bottle or piping bag.",
+        "Heat oil in a large skillet over medium-low until it reaches 350\u00b0F (180\u00b0C).",
+        "Squeeze the batter into the hot oil, making small circular spiral shapes.",
+        "Increase the heat to medium-high.",
+        "Fry the dough shapes until they are crispy on both sides, about 5 minutes.",
+        "Remove and immediately dip in the syrup mixture.",
+        "Serve with rabri, if desired.",
+        "Enjoy!"
+    ]
+}

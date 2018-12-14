@@ -1,0 +1,25 @@
+{
+    "id": "vanilla-panna-cotta",
+    "link": "https://tasty.co/recipe/vanilla-panna-cotta",
+    "name": "Vanilla Panna Cotta Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ac74951343614414ab4ef3a5484aec97/BFV16692_3-Course_Italian_Dinner_FB.jpg",
+    "description": "Here's what you need: unflavored gelatin, cold water, heavy cream, sugar, vanilla extract",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+        "1 teaspoon unflavored gelatin",
+        "1 tablespoon cold water",
+        "1\u00bd cup heavy cream",
+        "\u00bc cup sugar",
+        "\u00bc teaspoon vanilla extract"
+    ],
+    "recipeInstructionSteps": [
+        "Sprinkle gelatin over the water. The gelatin will absorb the water and dissolve, in a process called \u201cblooming.\u201d",
+        "In a small saucepan, combine heavy cream with sugar and cook over medium until it\u2019s at the scalding point, or just under a boil.",
+        "Once the cream has almost reached the boiling point, remove from heat and add vanilla extract and bloomed gelatin. Stir until fully dissolved.",
+        "Strain panna cotta mixture into desired serving tempered glasses. ",
+        "Allow cream to come to room temperature before chilling in the fridge for 2-4 hours, or until the cream is firm in texture.",
+        "Top with berries and honey.",
+        "Enjoy!"
+    ]
+}

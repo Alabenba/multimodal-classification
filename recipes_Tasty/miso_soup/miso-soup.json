@@ -1,0 +1,22 @@
+{
+    "id": "miso-soup",
+    "link": "https://tasty.co/recipe/miso-soup",
+    "name": "Miso Soup  Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e7e1ec2061f14cfeb025d2c3500c04ce/BFV43008_CookingJapaneseForAnEntireDay_FB_FINAL.jpg",
+    "description": "Here's what you need: tofu, snow pea, enoki mushroom, dashi, miso",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Japanese",
+    "recipeIngredient": [
+        "7 ounces tofu",
+        "\u00bd cup snow peas",
+        "2 ounces enoki mushrooms",
+        "1 \u00bd cups dashi",
+        "2 tablespoons miso"
+    ],
+    "recipeInstructionSteps": [
+        "Using extreme caution, cut the tofu into cubes, trim snow peas. Cut mushroom ends",
+        "In a medium size saucepan, Add dashi and bring it to a boil. Add tofu, snow peas, and enoki, for 3 minutes.",
+        "Turn of the heat. In a small dish, place miso. Add a small amount of dashi and dissolve the miso. Pour over dissolved miso into the pot. Turn back the heat and warm up the soup, right before it boils.",
+        "Enjoy!"
+    ]
+}
