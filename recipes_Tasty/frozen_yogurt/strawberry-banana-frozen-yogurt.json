@@ -1,0 +1,22 @@
+{
+    "id": "strawberry-banana-frozen-yogurt",
+    "link": "https://tasty.co/recipe/strawberry-banana-frozen-yogurt",
+    "name": "Strawberry Banana Frozen Yogurt Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/cb3aa54b991c43efbdae2d79c4ea5fac/BFV10405_StrawberryBananaFrozenYogurt-Thumb1080.jpg",
+    "description": "Here's what you need: strawberry, banana, plain greek yogurt, fresh strawberry ",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 cups frozen strawberries",
+        "3 frozen bananas",
+        "2/3 cup plain Greek yogurt",
+        "Chopped fresh strawberries (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "Combine frozen fruit and yogurt in a food processor.",
+        "Blend until smooth.",
+        "Spread mixture onto an 8x8 (20 x 20cm) glass baking dish, and sprinkle on fresh strawberries.",
+        "Cover and freeze for 2 hours.",
+        "Enjoy!"
+    ]
+}

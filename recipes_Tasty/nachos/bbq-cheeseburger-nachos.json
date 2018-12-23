@@ -1,0 +1,26 @@
+{
+    "id": "bbq-cheeseburger-nachos",
+    "link": "https://tasty.co/recipe/bbq-cheeseburger-nachos",
+    "name": "BBQ Cheeseburger Nachos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f085e5ce2a344e18ba5d8c274ed9bebf/BFV10314_Nachos4Ways.jpg",
+    "description": "Here's what you need: tortilla chips, ground beef, BBQ sauce, cheddar cheese, mozzarella cheese, tomato, red onion, bacon, fresh parsley",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "9 ounces tortilla chips",
+        "1 pound ground beef, cooked and drained",
+        "\u00bd cup BBQ sauce",
+        "2 cups cheddar",
+        "1 cup mozzarella",
+        "\u00bd tomato, diced",
+        "\u00bd red onion, sliced thinly",
+        "8 strips bacon, cooked and crumbled",
+        "\u00bd cup parsley, chopped"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (175\u00b0C).",
+        "In a large pan or skillet, lay down half of the tortilla chips, followed by half of the ground beef, bbq sauce, cheddar, mozzarella, tomato, red onion, bacon, and parsley. Repeat with the remaining half of the ingredients, followed by a drizzle of BBQ sauce on top.",
+        "Bake for 15 minutes, until cheese is melted.",
+        "Enjoy!"
+    ]
+}

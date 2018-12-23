@@ -1,0 +1,32 @@
+{
+    "id": "five-cheese-mac-and-cheese",
+    "link": "https://tasty.co/recipe/five-cheese-mac-and-cheese",
+    "name": "Five-cheese Mac and Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/d609b69530e943e0be57f137e4f1ef6f/BFV18599_LawrencePageMacCheese-ThumbA1080.jpg",
+    "description": "Here's what you need: elbow macaroni, evaporated milk, egg, unsalted butter, shredded cheddar cheese, shredded mozzarella cheese, feta cheese, provolone cheese, smoked gouda cheese, salt, black pepper",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 box of elbow macaroni",
+        "1 12-ounce can evaporated milk",
+        "3 eggs",
+        "\u00bd cup unsalted butter",
+        "2 cups cheddar cheese, shredded and divided",
+        "1 cup mozzarella cheese, shredded",
+        "2 tablespoons feta cheese, crumbled",
+        "1 cup provolone cheese, cut into small pieces",
+        "\u00bd cup smoked Gouda cheese, shredded",
+        "4 teaspoons salt, divided",
+        "2 teaspoons black pepper"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u02daF (180\u02daC).",
+        "In a large pot or dutch oven, cook macaroni according to package directions, salting the water with 2 teaspoons of salt. Drain and return to the warm pot.",
+        "Add butter to warm macaroni and mix until melted. Season with the remaining salt and pepper.",
+        "Add half of the cheddar cheese, mozzarella, provolone, gouda, and feta cheese. Mix well.",
+        "Add eggs and evaporated milk, mix until fully incorporated.",
+        "Transfer to a 9x13-inch (23 x 33 cm) baking dish and top with the remaining cheddar cheese.",
+        "Bake in a preheated oven for 40-45 minutes, until the top has nicely browned.",
+        "Enjoy!"
+    ]
+}

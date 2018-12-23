@@ -1,0 +1,32 @@
+{
+    "id": "bbq-chicken-quesadilla",
+    "link": "https://tasty.co/recipe/bbq-chicken-quesadilla",
+    "name": "BBQ Chicken Quesadilla Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/766c39ee65404376a2cbbbef58b37d3e/BFV12163_Quesadillas4Ways-FB1080SQ.jpg",
+    "description": "Here's what you need: chicken breast, salt, pepper, BBQ sauce, flour tortilla, red onion, monterey jack cheese, cheddar cheese, fresh parsley, BBQ sauce",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1/2 pound chicken breast, cut into strips",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "\u00bd cup BBQ sauce",
+        "2 flour tortillas",
+        "\u00bc cup red onion, julienned",
+        "1/2 cup monterey jack cheese (double for 2 quesadillas)",
+        "1/2 cup cheddar cheese (double for 2 quesadillas)",
+        "Parsley",
+        "BBQ sauce"
+    ],
+    "recipeInstructionSteps": [
+        "In a large skillet, add chicken breast and season both sides with salt and pepper.",
+        "Cook 15-18 minutes, flipping halfway and adding the onions when you flip the chicken. (Cooking times may vary depending on thickness of the chicken breast).",
+        "Remove the chicken from the pan and continue to stir onions.",
+        "Shred the chicken while onions are cooking.",
+        "Return the shredded chicken to the pan with the onions. Add the BBQ sauce and stir. Remove from the pan and set aside.",
+        "Place a tortilla in a pan and add a layer monterey jack and cheddar cheese on half of the tortilla.",
+        "Place cooked chicken and onions, and top with the rest of each cheese. Fold in half and cook 6 minutes, flipping halfway.",
+        "Serve with extra BBQ sauce and garnish with fresh parsley.",
+        "Enjoy!"
+    ]
+}

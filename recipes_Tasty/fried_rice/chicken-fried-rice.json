@@ -1,0 +1,32 @@
+{
+    "id": "chicken-fried-rice",
+    "link": "https://tasty.co/recipe/chicken-fried-rice",
+    "name": "Chicken Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5771490057ff462094b2e79260b2d9c0/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg",
+    "description": "Here's what you need: cooking oil, garlic, white onion, carrot, frozen corn, frozen peas, brown rice, rotisserie chicken, egg, soy sauce, sesame oil, salt, pepper, green onion, sesame seed",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 tablespoon preferred cooking oil",
+        "1 clove garlic, minced",
+        "\u00bc cup white onion, diced",
+        "1 carrot, sliced",
+        "\u00bc cup corn, frozen",
+        "\u00bc cup peas, frozen",
+        "1 cup brown rice, cooked",
+        "1 cup rotisserie chicken, shredded",
+        "1 egg, scrambled",
+        "1 tablespoon soy sauce",
+        "\u00bd tablespoon sesame oil",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Green onion, for garnish",
+        "Sesame seeds, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "In a large skillet heat oil over medium heat. Add garlic, onion, carrot, corn, and peas. Cook until carrots are tender, stirring occasionally.",
+        "Add brown rice, chicken, egg, soy sauce, sesame oil, salt, and pepper to taste, and stir. Cook for another minute, or until everything is heated thoroughly.",
+        "Serve with a sprinkle of sesame seeds and green onion.",
+        "Enjoy!"
+    ]
+}

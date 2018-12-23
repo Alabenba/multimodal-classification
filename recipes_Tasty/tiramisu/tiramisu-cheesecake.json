@@ -1,0 +1,34 @@
+{
+    "id": "tiramisu-cheesecake",
+    "link": "https://tasty.co/recipe/tiramisu-cheesecake",
+    "name": "Tiramisu Cheesecake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/130964.jpg",
+    "description": "Here's what you need: large ladyfinger, coffee, cream cheese, mascarpone cheese, vanilla extract, milk, sugar, gelatin, cocoa powder",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+        "20 large ladyfingers",
+        "1 cup coffee",
+        "16 ounces cream cheese",
+        "16 ounces mascarpone cheese",
+        "1 tablespoon vanilla extract",
+        "1 cup milk, hot",
+        "\u00bd cup sugar",
+        "4 teaspoon gelatin",
+        "2 tablespoons cocoa powder"
+    ],
+    "recipeInstructionSteps": [
+        "Dip the ladyfingers in coffee.",
+        "In two spring form pans lined with parchment paper, layer the coffee-dipped lady fingers in a single layer.",
+        "Freeze until the ladyfingers are frozen.",
+        "In a bowl, add the cream cheese, mascarpone cheese, and vanilla extract. Stir to combine.",
+        "Add the milk, sugar, and gelatin to a bowl and whisk until the gelatin has dissolved.",
+        "Pour the milk mixture through a sieve into the bowl of cream cheese.",
+        "Pour 1 cup (290 g) of cheesecake batter into a springform pan. Refrigerate until firm, about 2 hours",
+        "Add one layer of frozen ladyfingers on top of the refrigerated cheesecake layer.",
+        "Add another cup (290 g) of cheesecake batter on top. Refrigerate for two hours, and repeat with remaining batter and ladyfinger layer.",
+        "Refrigerate for 2 hours or until firm.",
+        "Dust the top with cocoa powder.",
+        "Enjoy!"
+    ]
+}

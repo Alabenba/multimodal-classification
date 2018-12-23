@@ -1,0 +1,28 @@
+{
+    "id": "healthier-fried-rice",
+    "link": "https://tasty.co/recipe/healthier-fried-rice",
+    "name": "Easy &amp; Healthy Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/059ac14e169d496c944b3536ba533321/thumb.jpg",
+    "description": "Here's what you need: sesame oil, garlic, chicken breast, salt, pepper, carrot, broccoli floret, brown rice, frozen peas, low sodium soy sauce",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 tablespoons sesame oil",
+        "3 cloves garlic, minced",
+        "2 chicken breasts, diced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 cup carrots, diced",
+        "1 cup broccoli florets",
+        "2 cups brown rice, cooked",
+        "\u00bd cup frozen peas",
+        "3 tablespoons low-sodium soy sauce"
+    ],
+    "recipeInstructionSteps": [
+        "Heat sesame oil in a skillet, and cook garlic until softened.",
+        "Add the chicken, salt, and pepper, and saut\u00e9 for 5 minutes.",
+        "Add the carrots and broccoli, and saut\u00e9 until tender.",
+        "Add the rice, soy sauce, and peas, and mix thoroughly.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "id": "baked-churro-bites",
+    "link": "https://tasty.co/recipe/baked-churro-bites",
+    "name": "Baked Churro Bites Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/cd31e7efcb684a9b9df38bc141a59849/BFV14089_EasyBakedChurrosThumb1080.jpg",
+    "description": "Here's what you need: water, butter, brown sugar, salt, flour, vanilla extract, egg, cinnamon sugar, chocolate",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 cup water",
+        "\u2153 cup butter",
+        "2 tablespoons brown sugar",
+        "Pinch of salt",
+        "1 cup flour",
+        "1 teaspoon vanilla",
+        "2 eggs",
+        "Cinnamon sugar",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u02daC).",
+        "In a saucepan over medium heat, melt the butter and brown sugar in the water and bring to a boil.",
+        "Turn off the heat and stir in the flour.",
+        "Take the pot off of the heat source, and mix in the vanilla, then the eggs one at a time.",
+        "Transfer mixture to a piping bag with a 5 point, or star, tip.",
+        "Pipe out thick 3-inch (8 cm) strips of churro batter onto a baking sheet covered with parchment, using a knife to release each piece from the piping tip, if needed.",
+        "Bake for 10 minutes, then broil until golden brown.",
+        "Dredge each churro in melted butter, then cinnamon sugar.",
+        "Serve with melted chocolate if desired.",
+        "Enjoy!"
+    ]
+}

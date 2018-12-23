@@ -1,0 +1,32 @@
+{
+    "id": "chicken-teriyaki-fried-rice",
+    "link": "https://tasty.co/recipe/chicken-teriyaki-fried-rice",
+    "name": "Chicken Teriyaki Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/19983b4a5a7643e4be6471e8012b18ca/BFV24904_FriedRice4Ways_FB1080SQ.jpg",
+    "description": "Here's what you need: boneless, skinless chicken breast, teriyaki sauce, oil, onion, garlic, carrot, broccoli floret, egg, brown rice, soy sauce, sesame oil, pepper",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 boneless, skinless chicken breasts, cubed",
+        "1 cup teriyaki sauce",
+        "2 teaspoons oil",
+        "\u00bd cup onion, diced",
+        "1 tablespoon garlic, minced",
+        "\u00bd cup carrots, diced",
+        "1 cup broccoli florets",
+        "3 eggs, beaten",
+        "3 cups cooked brown rice",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "Pepper, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "Marinate the chicken in teriyaki sauce in the refrigerator for at least an hour.",
+        "In a wok or deep skillet, add the chicken in the teriyaki marinade and cook thoroughly over high heat. Set aside.",
+        "In the same pan, add the oil and cook onions, garlic, and carrots until onions are translucent.",
+        "Add broccoli and cook an additional 3-4 minutes. Push all of the cooked vegetables to the side of the pan.",
+        "Beat the eggs and pour into the cleared half of the pan. Scramble the eggs and mix with the rest of the vegetables.",
+        "Add rice, cooked chicken, soy sauce, sesame oil, and pepper. Mix well and let the rice cook until slightly crispy.",
+        "Enjoy!"
+    ]
+}

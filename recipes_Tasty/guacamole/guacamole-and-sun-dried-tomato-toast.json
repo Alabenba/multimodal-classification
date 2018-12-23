@@ -1,0 +1,19 @@
+{
+    "id": "guacamole-and-sun-dried-tomato-toast",
+    "link": "https://tasty.co/recipe/guacamole-and-sun-dried-tomato-toast",
+    "name": "Guacamole And Sun-dried Tomato Toast Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/33ac240e9453486ca351c065bf08d7c6/BFV23736_Breakfast_Toasts_9_Ways-FB1080.jpg",
+    "description": "Here's what you need: bread, guacamole, sun-dried tomato, feta cheese",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 slice bread, toasted",
+        "Guacamole, to taste",
+        "Sun-dried tomatoes, to taste",
+        "Feta, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "Spread guacamole on toast and sprinkle sun-dried tomatoes and feta on top.",
+        "Enjoy!"
+    ]
+}

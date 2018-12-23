@@ -1,0 +1,32 @@
+{
+    "id": "strawberry-french-toast-bake",
+    "link": "https://tasty.co/recipe/strawberry-french-toast-bake",
+    "name": "Strawberry French Toast Bake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/4637884755dc45e98536911b10a701d8/BFV18066_StrawberryFrenchToastBake-ThumbTextless.jpg",
+    "description": "Here's what you need: biscuit, strawberry, strawberry, sugar, egg, milk, maple syrup, vanilla extract, cinnamon, whipped cream",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "8 biscuits (or 1 can biscuit dough)",
+        "1 cup strawberries, quartered",
+        "2 cups strawberries, finely diced",
+        "\u00bd cup sugar",
+        "2 eggs",
+        "\u00bd cup milk",
+        "\u00bd cup maple syrup",
+        "1 teaspoon vanilla extract",
+        "\u00bd teaspoon cinnamon",
+        "Whipped cream"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven 350\u02daF (180\u02daC).",
+        "Slice each biscuit into 8 pieces and place in a greased baking dish.",
+        "In a saucepan on medium heat, combine strawberry filling ingredients and cook until it reaches a boil. Reduce heat to a simmer and continue to cook until filling reaches a smooth consistency. Remove from heat and set aside.",
+        "Combine egg mixture ingredients in a large bowl until well-incorporated.",
+        "Place biscuits in a greased baking dish and spread the egg mixture evenly on top.",
+        "Top with strawberry filling and the fresh quartered strawberries.",
+        "Bake for 40-50 minutes, or until golden brown.",
+        "Slice and serve with whipped cream.",
+        "Enjoy!"
+    ]
+}

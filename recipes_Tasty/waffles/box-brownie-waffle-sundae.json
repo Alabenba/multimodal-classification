@@ -1,0 +1,20 @@
+{
+    "id": "box-brownie-waffle-sundae",
+    "link": "https://tasty.co/recipe/box-brownie-waffle-sundae",
+    "name": "Box Brownie Waffle Sundae Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e4492b88bece4795982668d72bc448cf/BFV6941_Waffles_4_Ways-FB1080.jpg",
+    "description": "Here's what you need: brownie mix, vanilla ice cream, caramel sauce",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 box brownie mix, prepared according to package instructions",
+        "Vanilla ice cream",
+        "Caramel sauce"
+    ],
+    "recipeInstructionSteps": [
+        "Place 4 large dollops of brownie batter in a preheated, greased waffle iron.",
+        "Cook for 2-3 minutes, until brownies are semi-firm to the touch.",
+        "Serve with vanilla ice cream and caramel sauce.",
+        "Enjoy!"
+    ]
+}

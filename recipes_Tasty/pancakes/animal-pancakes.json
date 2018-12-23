@@ -1,0 +1,28 @@
+{
+    "id": "animal-pancakes",
+    "link": "https://tasty.co/recipe/animal-pancakes",
+    "name": "Animal Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ed301e5a5e664878b95c91b15ecb64cb/FBfinal.jpg",
+    "description": "Here's what you need: pancake mix, strawberry, blueberry, banana, chocolate chips, maple syrup",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "6 cups prepared pancake batter",
+        "Strawberries, for decoration",
+        "Blueberries, for decoration",
+        "Bananas, for decoration",
+        "Chocolate Chips, for decoration",
+        "Syrup to top (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "Prepare pancake mix per box instructions.",
+        "Heat a nonstick pan or pancake griddle on medium heat. For large pancakes, pour 1 cup (235 ml) of batter onto the pan. For small pancakes, pour a little less than \u00bc cup (60 ml) of batter onto the pan. For medium pancakes, pour \u2153 cup (80 ml) of batter onto the pan.",
+        "Allow to cook until bubbles form and begin to pop all around the pancake. The pancake will also lose its shiny sheen and begin to look more matte. Flip and cook on the other side for 2-3 minutes, or until the bottom is lightly browned.",
+        "For the lion pancake, you\u2019ll need 1 large pancake, 1 small pancake, sliced strawberries for the mane and nose, blueberries for the eyes, and chocolate chips for the mouth.",
+        "For the monkey pancake, you\u2019ll need 1 large pancake, 2 small pancakes, 1 medium pancake, blueberries for the eyes and nose, and chocolate chips for the mouth.",
+        "For the owl pancake, you\u2019ll need 1 large pancake, sliced bananas for the eyes and feathers, blueberries for the eyes, and sliced strawberries for the beak and wings.",
+        "For the pig pancake, you\u2019ll need 1 large pancake, 1 small pancake, chocolate chips for the snout, blueberries for the eyes, and sliced strawberries for the ears.",
+        "Make your favorite animal pancakes and top with syrup, or another favorite pancake topping.",
+        "Enjoy!"
+    ]
+}

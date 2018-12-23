@@ -1,0 +1,28 @@
+{
+    "id": "lobster-roll",
+    "link": "https://tasty.co/recipe/lobster-roll",
+    "name": "Lobster Roll Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/60b8817384bd433badb2791f96f5184c/seafoodfinalFB.jpg",
+    "description": "Here's what you need: celery, mayonnaise, lemon, lemon zest, fresh chives, fine sea salt, freshly ground black pepper, lobster meat, hot dog bun",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Seafood",
+    "recipeIngredient": [
+        "2 small celery stalks, chopped",
+        "\u2153 cup + 2 tablespoons mayonnaise, divided",
+        "2 lemons, juiced",
+        "1 teaspoon lemon zest",
+        "2 tablespoons finely chopped chives",
+        "Fine sea salt",
+        "Freshly ground black pepper",
+        "1\u00bc pounds lobster meat, coarsely chopped (from 4-5 large cooked lobster tails)",
+        "4 hot dog buns"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, combine the celery, \u2153 cup (80 g) of the mayonnaise, lemon zest, lemon juice, and chives.",
+        "Season with salt and pepper.",
+        "Stir in the lobster meat just to combine.",
+        "Brush the inside of the hotdog buns with the remaining 2 tablespoons mayonnaise.",
+        "Toast in a large skillet set over medium heat.",
+        "Enjoy!"
+    ]
+}

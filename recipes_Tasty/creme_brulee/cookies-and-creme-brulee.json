@@ -1,0 +1,31 @@
+{
+    "id": "cookies-and-creme-brulee",
+    "link": "https://tasty.co/recipe/cookies-and-creme-brulee",
+    "name": "Cookies and Cr\u00e8me Br\u00fbl\u00e9e Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2959d6d634444274be972b6d0ba6bdaa/ThumbA.jpg",
+    "description": "Here's what you need: heavy cream, chocolate sandwich cookie, vanilla extract, egg yolk, sugar",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "4 cups heavy cream",
+        "16 chocolate sandwich cookies",
+        "2 teaspoons vanilla",
+        "6 egg yolks",
+        "1 cup sugar"
+    ],
+    "recipeInstructionSteps": [
+        "Separate sandwich cookies by gently twisting them apart. Put the cookies in one bowl and the filling in another.",
+        "In a saucepan over medium heat, heat heavy cream and cream filling, whisking until the filling has melted but stopping just before boil.",
+        "Add vanilla and remove from heat. Cover and set aside.",
+        "In a bowl, whisk egg yolks and half of the sugar. Add the cream mixture a little at a time, tempering the egg yolks until all incorporated.",
+        "Preheat oven to 300\u00b0F (150\u00b0C).",
+        "Place ramekins on a baking pan and fill to the top with cream mixture.",
+        "In a ziplock bag, crush the cookies until fine.",
+        "Sprinkle 1 tablespoon of the cookie crumbs over each ramekin.",
+        "Fill the pan with boiling water.",
+        "Bake for 45 minutes.",
+        "Cover and refrigerate for 2 hours.",
+        "When set, add 2 teaspoons of sugar to the tops of the ramekins. Shake to make even, and broil or torch until the sugar is caramelized.",
+        "Enjoy!"
+    ]
+}

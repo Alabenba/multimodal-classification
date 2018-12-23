@@ -1,0 +1,29 @@
+{
+    "id": "hot-cheeto-fries",
+    "link": "https://tasty.co/recipe/hot-cheeto-fries",
+    "name": "Hot Cheeto Fries Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c2087eff354d44aba0b5c43c541e1fad/BFV35429_FlamingHotCheetoBurrito_FB.jpg",
+    "description": "Here's what you need: canola oil, flank steak, taco seasoning, lime juice, salt, avocado, frozen french fries, mexican sour cream, flaming hot cheetos",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "Canola oil, to fry",
+        "1 pound flank steak",
+        "1 teaspoon taco seasoning",
+        "2 teaspoons lime juice, divided",
+        "2 teaspoons salt, divided",
+        "2 avocados",
+        "1 bag frozen french fries",
+        "\u00bc cup Mexican sour cream",
+        "1 8 ounce bags of flaming hot cheetos"
+    ],
+    "recipeInstructionSteps": [
+        "Cut flank steak into fajita size pieces and place in bowl. Add the taco seasoning, 1 teaspoon lime juice and salt. Let marinate for 30 minutes.",
+        "Scoop avocado with a spoon and place in a bowl. Add 1 teaspoon lime juice, salt and mash with a fork until soft enough to whisk.",
+        "In a frying pan, add 1 tablespoon of canola oil and let heat for 30 seconds. Add marinated meat and let cook for 20 minutes, stirring until meat is browned.",
+        "In a small saucepan heat condensed cheddar cheese for 3 minutes, stir throughout.",
+        "Heat a pot with oil and heat to 350\u00baF (180\u00baF). Add frozen french fries and let fry until they rise to the surface. Sprinkle with salt and let oil drain from fries and set on a plate.",
+        "Add the rest of the guacamole, cooked meat, sour cream, hot cheetos, and warm cheddar cheese.",
+        "Enjoy!"
+    ]
+}

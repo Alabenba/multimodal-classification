@@ -1,0 +1,27 @@
+{
+    "id": "churro-puff-pastry-muffin",
+    "link": "https://tasty.co/recipe/churro-puff-pastry-muffin",
+    "name": "Churro Puff Pastry Muffin Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/129787.jpg",
+    "description": "Here's what you need: puff pastry, butter, egg, granulated sugar, cinnamon",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "2 sheets puff pastry",
+        "\u00bd cup butter, softened",
+        "1 egg",
+        "1 cup granulated sugar",
+        "1 tablespoon cinnamon"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 350\u00b0F (180\u00b0C).",
+        "Cut the puff pastry sheets in half, then use a rolling pin to roll each half out to 24 inches long x 8 inches (60x20 cm) wide.",
+        "Brush the puff pastry sheets with the softened butter, then carefully roll them up into tight logs. Cut the logs in half lengthwise.",
+        "Take each half and fold the smooth part of the dough inward to create a spiral shape.",
+        "Place the spirals in a muffin tin and brush the tops with egg wash.",
+        "Bake for 15 minutes on the top rack, then transfer to the bottom rack and bake for another 15 minutes.",
+        "Combine the sugar and cinnamon in a small bowl.",
+        "Remove the muffins from the oven. Once cool enough to handle, roll in the cinnamon sugar mixture.",
+        "Enjoy!"
+    ]
+}

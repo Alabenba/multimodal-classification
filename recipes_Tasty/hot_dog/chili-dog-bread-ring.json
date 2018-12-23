@@ -1,0 +1,40 @@
+{
+    "id": "chili-dog-bread-ring",
+    "link": "https://tasty.co/recipe/chili-dog-bread-ring",
+    "name": "Chili Dog Bread Ring Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/6fbef31071504256babfa10fcb8cc803/BFV15699_thumb_a.jpg",
+    "description": "Here's what you need: hot dog, crescent roll dough, small onion, ground beef, salt, pepper, tomato sauce, ketchup, cumin, chili powder, sugar, shredded cheddar cheese, green onion, cast iron pan",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "12 hot dogs",
+        "2-3 packages crescent roll dough",
+        "1 small onion, diced",
+        "1 pound ground beef",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "\u00bd cup tomato sauce",
+        "\u00bd cup ketchup",
+        "\u00bd teaspoon cumin",
+        "2  teaspoon chili powder",
+        "\u00bd teaspoon sugar",
+        "\u00bd cup shredded cheddar cheese",
+        "\u00bc cup finely sliced green onion",
+        "(for a 10 inch skillet)"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 375\u00baF (190\u00baC).",
+        "Cut hot dogs into thirds.",
+        "Cut crescent roll triangles in half lengthwise so you have roughly 1-inch (2 \u00bd cm) by 5-inch (13 cm) triangle slices.",
+        "Roll crescent dough around hot dog thirds, starting with the wider end of the dough closest to the hot dogs, making \u201cpigs in blankets.\u201d",
+        "Arrange pigs in blankets around a 10-inch (25 cm) skillet in two tight circles, leaving a hole in the center of the skillet.",
+        "Bake 15-20 minutes, until dough puffs up and becomes golden.",
+        "In another large skillet, saut\u00e9 onions until translucent.",
+        "Add the ground beef to the onions, then season with salt and pepper. Continue stirring ground beef until mostly cooked.",
+        "Add the tomato sauce, ketchup, cumin, chili powder, and sugar to the ground beef and onions. Stir until everything is well mixed. Simmer 10 minutes.",
+        "When chili and the pigs-in-blankets skillet are both ready, spoon chili to fill the hole in center of the skillet. Top with shredded cheddar cheese.",
+        "Bake another 5-10 minutes until cheese is well melted.",
+        "Top with diced green onion and serve.",
+        "Enjoy!"
+    ]
+}

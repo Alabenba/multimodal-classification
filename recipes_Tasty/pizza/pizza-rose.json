@@ -1,0 +1,28 @@
+{
+    "id": "pizza-rose",
+    "link": "https://tasty.co/recipe/pizza-rose",
+    "name": "Pizza Rose Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/80d1b920f187417493324b8281582624/BFV4672_PizzaRose-BeautyShot02.jpg",
+    "description": "Here's what you need: pepperoni, tomato skin slice, pizza sauce, pizza dough, shredded low moisture mozzarella cheese, fresh basil leaf",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Aprox 5 oz of Pepperoni slices (6 - 8 Pepperoni per rose)",
+        "*vegetarian option- tomato skin slices*",
+        "3 oz Pizza sauce",
+        "4 oz Pizza dough",
+        "1/4 cup Low moisture mozzarella cheese, shredded",
+        "*optional* Basil leaves"
+    ],
+    "recipeInstructionSteps": [
+        "Cut off a piece of pizza dough and roll out over a floured surface until it&#x27;s about 8 inches (20 cm) long. Try to get the dough as thin as possible.",
+        "Cover lightly in pizza sauce.",
+        "Place pepperoni at one end, so that the pepperoni aligns with the bottom of the dough. Place the second pepperoni piece so that it overlaps with the first piece, and is placed sightly higher than the bottom line of the dough. Continue layering pepperoni so that each one overlaps a bit less than the previous piece, and follows an upward angle.",
+        "Sprinkle the bottom half with low moisture mozzarella cheese, and beginning from the end with the most pepperoni, roll the dough into a lose coil.",
+        "Place in a muffin tin, with the pepperoni facing up.",
+        "If opting for the vegetarian version, peel long strips of skin off a tomato. (Video shows center ring being cut but you can peel strips from top to bottom to use more of the tomato)",
+        "Bake at 400\u00b0F (204\u00b0C) for 20-25 minutes, or until pepperoni edges are crispy and the dough is fully cooked through.",
+        "Remove from the oven and let cool. Lay over a bed of basil leaves (for taste and presentation).",
+        "Enjoy!"
+    ]
+}

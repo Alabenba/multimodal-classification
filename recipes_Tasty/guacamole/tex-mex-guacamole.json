@@ -1,0 +1,25 @@
+{
+    "id": "tex-mex-guacamole",
+    "link": "https://tasty.co/recipe/tex-mex-guacamole",
+    "name": "Tex Mex Guacamole Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7ee50f4319da4c0288dd17d835e5b733/FB_04fopkg.jpg",
+    "description": "Here's what you need: avocado, corn, red onion, jalape\u00f1o, canned black bean, lime, salt, pepper, tortilla chips",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "2 avocados, pitted, peeled, and diced",
+        "\u00bd cup cooked corn",
+        "\u00bd red onion, minced",
+        "\u00bd jalape\u00f1o, seeded and minced",
+        "\u00bd cup canned black beans, drained",
+        "1 lime, juiced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Tortilla chips, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, combine the avocado, corn, red onion, jalape\u00f1o, black beans, lime juice, salt, and pepper. Mix together until fully incorporated.",
+        "Serve with tortilla chips.",
+        "Enjoy!"
+    ]
+}

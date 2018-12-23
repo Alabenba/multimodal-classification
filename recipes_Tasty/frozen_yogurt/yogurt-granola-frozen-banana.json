@@ -1,0 +1,22 @@
+{
+    "id": "yogurt-granola-frozen-banana",
+    "link": "https://tasty.co/recipe/yogurt-granola-frozen-banana",
+    "name": "Yogurt Granola Frozen Banana Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/642cd58568984be7831809ac262d92d9/FB_Final_3.jpg",
+    "description": "Here's what you need: finger banana, vanilla yogurt, granola, popsicle stick",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 10 finger bushel of bananas",
+        "1 cup vanilla yogurt",
+        "1 cup granola",
+        "20 popsicle sticks"
+    ],
+    "recipeInstructionSteps": [
+        "Peel bananas and cut in half.  Place popsicle sticks inside bananas and put on tray with parchment paper.",
+        "Freeze for 1 to 3 hours depending on how firm you want your bananas to be.",
+        "When bananas are ready, coat in yogurt and sprinkle with granola.",
+        "Set aside and freeze for an additional 20 minutes.",
+        "Enjoy!"
+    ]
+}

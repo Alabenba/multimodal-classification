@@ -1,0 +1,23 @@
+{
+    "id": "healthy-banana-pancakes",
+    "link": "https://tasty.co/recipe/healthy-banana-pancakes",
+    "name": "Healthy Banana Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5f6e823f41bb4779829a1486cbbbfa12/BFV18275_HealthyPancakes4Ways_FB1080SQ.jpg",
+    "description": "Here's what you need: ripe banana, egg, vanilla extract, quick-cook oats, cinnamon",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 ripe bananas",
+        "2 eggs",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup quick oats",
+        "1 teaspoon cinnamon"
+    ],
+    "recipeInstructionSteps": [
+        "Mash bananas in a large bowl until smooth. Mix in eggs and vanilla until well combined, then mix in oats and cinnamon.",
+        "Heat a skillet to medium and add in a scoop* of the pancake batter. Smooth out to form an even layer. Cook for about 2-3 minutes until you start to see bubbles releasing from the top of the batter. Flip and cook until the other side is golden brown, about 1-2 minutes.",
+        "Garnish your pancakes with your favorite toppings! We used banana slices, chopped walnuts &amp; maple syrup.",
+        "Enjoy!",
+        "*Note: Use \u00bd cup for scooping the batter to yield 4 thicker pancakes; Use \u2153 cup to yield 6 smaller pancakes."
+    ]
+}

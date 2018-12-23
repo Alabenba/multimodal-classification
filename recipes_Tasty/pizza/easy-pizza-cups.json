@@ -1,0 +1,23 @@
+{
+    "id": "easy-pizza-cups",
+    "link": "https://tasty.co/recipe/easy-pizza-cups",
+    "name": "Easy Pizza Cups Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/febb86f4b36b44459c6e79b9c0ae7d53/BFV18472_PizzaCupsTastyJr_ThumbFB.jpg",
+    "description": "Here's what you need: pizza dough, pizza sauce, mozzarella cheese, desired pizza topping",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 tube pizza dough",
+        "1 cup pizza sauce",
+        "1\u00bd cups mozzarella cheese",
+        "Desired pizza toppings"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u02daF (200\u02daC).",
+        "Cut pizza dough into 12 square pieces and place in a greased muffin tin.",
+        "Place a spoonful of pizza sauce and some cheese into the bottom of each cup.",
+        "Fill with your favorite pizza toppings and combinations!",
+        "Bake for 20-25 minutes or until fully baked. If the tops are getting too brown too quickly, cover the pan with foil and put back into the oven for the remainder of the cooking time.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "sheet-pan-bruschetta",
+    "link": "https://tasty.co/recipe/sheet-pan-bruschetta",
+    "name": "Sheet-Pan Bruschetta Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/81fdddc6fcaf48d986da589b9ac46fe8/BFV29639_4YummySnacksForaGirlsNightIn-FB_05.jpg",
+    "description": "Here's what you need: pizza dough, olive oil, tomato, fresh basil, fresh parsley, garlic, salt, pepper, fresh mozzarella cheese, balsamic glaze",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 package pizza dough",
+        "1 tablespoon olive oil",
+        "2 cups tomatoes, chopped",
+        "\u00bc cup basil, chopped",
+        "\u00bc cup parsley, chopped",
+        "3 cloves garlic, minced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "\u00bd pound fresh mozzarella, sliced",
+        "Balsamic glaze, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 425\u00b0F (220\u00b0C).",
+        "Onto a greased and parchment paper-lined sheet tray, place the pizza dough and spread into the corners of the tray.",
+        "Sprinkle the dough with olive oil, salt, and pepper.",
+        "Bake in the oven for 20 minutes or until the crust is golden brown. Remove from the oven and let cool.",
+        "In a mixing bowl, add the tomatoes, garlic, basil, parsley, olive oil, salt, and pepper and stir to combine.",
+        "Pour the tomato mixture over the cooked pizza dough and spread to the corners.",
+        "Add the sliced mozzarella cheese and drizzle with balsamic glaze.",
+        "Enjoy!"
+    ]
+}

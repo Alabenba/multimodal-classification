@@ -1,0 +1,26 @@
+{
+    "id": "chicken-salad-sandwich",
+    "link": "https://tasty.co/recipe/chicken-salad-sandwich",
+    "name": "Chicken Salad Sandwich Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b2f4d9f6423f4c04be7a626aa5ddd51c/BFV21597_1RotisserieChicken4Lunches_FB1080SQ.jpg",
+    "description": "Here's what you need: shredded chicken, celery, white onion, cherry tomato, apple, greek yogurt, salt, pepper, whole wheat bread, romaine lettuce",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd cup shredded chicken",
+        "2 tablespoons celery, diced",
+        "1 tablespoon white onion, finely diced",
+        "6 cherry tomatoes, sliced in half",
+        "2 tablespoons apple, diced",
+        "3 tablespoons Greek yogurt",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "2 pieces whole wheat bread",
+        "1 leaf romaine lettuce"
+    ],
+    "recipeInstructionSteps": [
+        "In a bowl, combine chicken, celery, onion, sliced tomatoes, apple, yogurt, salt and pepper.",
+        "Spread the chicken salad on one of the pieces of bread and place the lettuce on the other piece. Top with desired condiments and bring the two pieces of bread together. Cut in half and place in a reusable container with some fruits and veggies.",
+        "Enjoy!"
+    ]
+}

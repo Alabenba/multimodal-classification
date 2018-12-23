@@ -1,0 +1,37 @@
+{
+    "id": "green-mac-n-cheese",
+    "link": "https://tasty.co/recipe/green-mac-n-cheese",
+    "name": "Green Mac \u2018n\u2019 Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2f97ae8d0af84fd8a7acbcfb18c1eb12/IMG_5876_fb2.jpg",
+    "description": "Here's what you need: fresh spinach, fresh parsley, milk, water, salt, elbow macaroni, butter, flour, garlic powder, onion powder, paprika, pepper, salt, white cheddar cheese, mozzarella cheese",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "4 cups spinach, packed",
+        "\u00bd cup parsley",
+        "2\u00bd cups milk, divided",
+        "5 quarts water",
+        "1 tablespoon salt",
+        "1 pound macaroni elbows",
+        "\u00bc cup butter",
+        "\u00bc cup flour",
+        "2 teaspoons garlic powder",
+        "2 teaspoons onion powder",
+        "1 teaspoon paprika",
+        "1 teaspoon pepper",
+        "1 teaspoon salt",
+        "16 ounces white cheddar",
+        "\u00bd cup mozzarella"
+    ],
+    "recipeInstructionSteps": [
+        "In a food processor, combine the spinach, parsley, and \u00bd cup (120 ml) milk, and process until evenly mixed.",
+        "In a large pot, bring water and 1 tbsp salt to a boil over high heat. Add the elbows and cook until al dente, roughly 6-7 minutes. Rinse with cold water and drain.",
+        "In a large pot, combine the butter and flour on medium-high heat, and stir until the mixture has become golden brown.",
+        "Add 2 cups (470 ml) milk, garlic powder, onion powder, paprika, pepper, and salt to the pot and stir until well incorporated.",
+        "Add in the cheddar cheese and mix until well incorporated.",
+        "Add in the spinach mixture and stir until fully incorporated and the green color is consistent.",
+        "Mix in the pasta and pour into a casserole dish.",
+        "Top the macaroni with mozzarella and broil for 5 minutes.",
+        "Enjoy!"
+    ]
+}

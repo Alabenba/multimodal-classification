@@ -1,0 +1,20 @@
+{
+    "id": "cookies-n-cream-ice-cream",
+    "link": "https://tasty.co/recipe/cookies-n-cream-ice-cream",
+    "name": "Cookies \u2018n\u2019 Cream Ice Cream Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f06cec9a84e54730adb8d5a7ddf272a7/BFV21242_Ice_Cream_4_Ways_FB.jpg",
+    "description": "Here's what you need: heavy cream, condensed milk, chocolate sandwich cookie",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 cups heavy cream",
+        "1 14-ounce can condensed milk",
+        "12 chocolate sandwich cookies, crumbled (additional cookies for topping if desired)"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, add the cream and condensed milk, then whip until soft peaks form.",
+        "Add the cookies and gently fold to combine.",
+        "Transfer mixture to a baking pan. Top with additional cookies if desired, then freeze for 3-4 hours.",
+        "Enjoy!"
+    ]
+}

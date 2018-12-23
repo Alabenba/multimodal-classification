@@ -1,0 +1,32 @@
+{
+    "id": "bacon-and-egg-fried-rice",
+    "link": "https://tasty.co/recipe/bacon-and-egg-fried-rice",
+    "name": "Bacon And Egg Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/8980272815ac45b1b101c3bab3113e24/BFV10428_BaconAngEggFriedRice-ThumbFB1080SQ.jpg",
+    "description": "Here's what you need: large egg, bacon, medium onion, vegetable oil, rice, salt, black pepper, sugar, soy sauce, green onion",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "3 large eggs",
+        "8 ounces bacon",
+        "1 medium onion",
+        "1 tablespoon vegetable oil",
+        "5 cups cooked rice",
+        "Salt, to taste",
+        "Black pepper, to taste",
+        "1 teaspoon sugar",
+        "2 tablespoons soy sauce",
+        "Green onions, chopped"
+    ],
+    "recipeInstructionSteps": [
+        "Beat three eggs in an empty bowl and add a bit of salt until well-combined.",
+        "Cut bacon into 1-inch pieces and finely dice the onion.",
+        "Heat oil in either a wok or nonstick frying pan over medium heat and add beaten eggs. Gently scramble the eggs; when they are almost done, remove from wok and set aside.",
+        "Add bacon to the wok and allow it to render down and become crisp. Once the bacon is done, take it out of the wok and set aside, along with the scrambled eggs.",
+        "Add the diced onion to the wok and stir-fry until translucent. Then add the cooked rice, make sure the rice is fluffed and cooled, and stir-fry for 2 to 5 minutes. Use spatula to break up any clumps.",
+        "Add the salt, pepper, sugar, and soy sauce. Stir for another minute or so.",
+        "Once there is steam coming off the rice and it is completely heated through, add scrambled eggs and cooked bacon.",
+        "Sprinkle with green onion, as desired.",
+        "Enjoy!"
+    ]
+}

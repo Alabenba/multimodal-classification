@@ -1,0 +1,41 @@
+{
+    "id": "apple-pie-cheesecake",
+    "link": "https://tasty.co/recipe/apple-pie-cheesecake",
+    "name": "Apple Pie Cheesecake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/109214.jpg",
+    "description": "Here's what you need: pie crust, cream cheese, sugar, sour cream, vanilla extract, ground cinnamon, ground nutmeg, egg, medium apple, water, sugar, ground cinnamon, ground nutmeg, cornstarch",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 pie crusts",
+        "24 ounces cream cheese",
+        "1 cup sugar",
+        "1 cup sour cream",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bd teaspoon ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "3 eggs",
+        "3 medium apples, peeled, cored and cubed",
+        "1 cup water",
+        "\u2153 cup sugar",
+        "1 teaspoon ground cinnamon",
+        "\u00bd teaspoon ground nutmeg",
+        "2 tablespoons cornstarch"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 300\u02daF (150\u02daC).",
+        "Line a springform pan with a pie crust, pressing it around the sides of the pan until smooth.",
+        "In a medium bowl, beat the cream cheese, sugar, vanilla, cinnamon, and nutmeg until smooth.",
+        "Add the sour cream and mix together.  Add in one egg at a time, whisking until smooth.",
+        "Pour mixture into the springform pan and bake for 1 hour and 15 minutes.",
+        "After baking, turn off the oven and let the cheesecake cool inside for 1 hour without opening the oven door.",
+        "Turn up the oven temperature to 425\u02daF (220\u02daC).",
+        "In a saucepan, add the apples, sugar, cinnamon, nutmeg, cornstarch, and water over medium-low heat. Stir occasionally until apples are soft (about 10 minutes), then remove from heat. Let cool.",
+        "Once cool, spread apple pie filling over cheesecake.",
+        "Cut the other pie crust in to \u00bc-inch (6 mm) strips and make a lattice pattern across the top.",
+        "Brush with egg wash.",
+        "Bake for 25 minutes, until golden brown.",
+        "Chill until set then serve.",
+        "Enjoy!"
+    ]
+}

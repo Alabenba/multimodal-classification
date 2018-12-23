@@ -1,0 +1,33 @@
+{
+    "id": "leftover-turkey-sandwich",
+    "link": "https://tasty.co/recipe/leftover-turkey-sandwich",
+    "name": "Leftover Turkey Sandwich Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/120596.jpg",
+    "description": "Here's what you need: large white onion, white wine vinegar, lemon juice, dijon mustard, fine sea salt, black pepper, olive oil, fresh dill, sour cream, leftover turkey, swiss cheese, little gem lettuce, pullman loaf",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd large white onion, finely chopped",
+        "2 tablespoons white wine vinegar",
+        "2 tablespoons lemon juice",
+        "4 teaspoons Dijon mustard, divided",
+        "Fine sea salt, to taste",
+        "Black pepper, to taste",
+        "\u2153 cup olive oil",
+        "1 tablespoon dill, finely chopped",
+        "\u00bc cup sour cream",
+        "1 pound leftover turkey, chopped into \u00bd-inch pieces",
+        "8 slices Swiss cheese",
+        "1 small head little gem lettuce, leaves separated, cleaned, and dried",
+        "8 slices Pullman loaf or white bread"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, stir together the onion, vinegar, lemon juice, and 2 teaspoons of the mustard. Season with salt and pepper and set aside for 10 minutes.",
+        "Begin to add the olive oil drop by drop, whisking constantly, until the mixture is emulsified. Add the dill and stir to combine.",
+        "Transfer 3 tablespoons of the vinaigrette to another medium bowl and whisk the sour cream into the remaining vinaigrette. Add the chopped turkey and mix to combine.",
+        "Gently toss the lettuce leaves in the reserved dressing.",
+        "Spread four slices of the bread with \u00bd teaspoon mustard each.",
+        "Divide the turkey between all four slices and top with the sliced cheese, dressed lettuce leaves, and the remaining bread slices.",
+        "Enjoy!"
+    ]
+}

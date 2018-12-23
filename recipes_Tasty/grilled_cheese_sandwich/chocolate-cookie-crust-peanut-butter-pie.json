@@ -1,0 +1,32 @@
+{
+    "id": "chocolate-cookie-crust-peanut-butter-pie",
+    "link": "https://tasty.co/recipe/chocolate-cookie-crust-peanut-butter-pie",
+    "name": "Chocolate Cookie Crust Peanut Butter Pie Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/a0bce94c14b04695a15f6c659b49a89f/FB.jpg",
+    "description": "Here's what you need: chocolate sandwich cookie, butter, cream cheese, creamy peanut butter, whipped cream, powdered sugar, cookie crumb",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "24 chocolate sandwich cookies, crushed into crumbs",
+        "4 tablespoons butter, melted",
+        "8 ounces cream cheese",
+        "1 cup creamy peanut butter",
+        "8 ounces whipped cream",
+        "1 \u00bc cups powdered sugar",
+        "Cookie crumbs for top"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u00b0C).",
+        "Crush cookies into crumbs, setting aside some crumbs for garnish.",
+        "Add crushed cookies into a bowl and mix with melted butter.",
+        "Pour crumbs into pie dish and pat down to form a crust.",
+        "Bake crust for 5 minutes or until set.",
+        "In a bowl mix the cream cheese and peanut butter until smooth.",
+        "Add in the whipped cream and powdered sugar, mix again until smooth.",
+        "Pour mixture over crust and smooth out the top.",
+        "Refrigerate or freeze until set, about 1 hour.",
+        "Sprinkle the top with remaining cookie crumbs.",
+        "Slice and serve.",
+        "Enjoy!"
+    ]
+}

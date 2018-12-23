@@ -1,0 +1,32 @@
+{
+    "id": "slow-cooker-steak-and-veggies",
+    "link": "https://tasty.co/recipe/slow-cooker-steak-and-veggies",
+    "name": "Slow Cooker Steak and Veggies Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/0e7f469039424c9e80b74170a5cfc340/BFV14393_SlowCookerSteakAndVeggiesThumb.jpg",
+    "description": "Here's what you need: lean top sirloin steak, large white onion, low sodium soy sauce, sesame oil, fresh ginger, garlic, brussels sprouts, red bell pepper, large carrot, brown rice",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 pounds lean top sirloin steak",
+        "1 large white onion, quartered",
+        "\u00bd cup low-sodium soy sauce",
+        "\u00bc cup sesame oil",
+        "2 tablespoons fresh ginger, minced",
+        "4 cloves garlic, minced",
+        "1 pound Brussels sprouts, hulled and halved",
+        "2 red bell peppers, diced",
+        "2 large carrots, diced",
+        "2 cups cooked brown rice"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the top sirloin steaks into half-inch (1 \u00bc cm) thick strips.",
+        "Place soy sauce, sesame oil, ginger, garlic, onion and meat in a large slow cooker and mix thoroughly.",
+        "Place the lid on top.",
+        "Set the slow cooker on the low setting for 3 hours.",
+        "Remove the onions from the slow cooker.",
+        "Pour in the Brussels sprouts, bell pepper, and carrots. Mix thoroughly.",
+        "Cook on low for 1 more hour.",
+        "Serve with a portion of brown rice.",
+        "Enjoy!"
+    ]
+}

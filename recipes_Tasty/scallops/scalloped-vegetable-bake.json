@@ -1,0 +1,37 @@
+{
+    "id": "scalloped-vegetable-bake",
+    "link": "https://tasty.co/recipe/scalloped-vegetable-bake",
+    "name": "Scalloped Vegetable Bake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/64fefab234a34574a3653c362e18ef0f/1530556663_00001.jpg",
+    "description": "Here's what you need: medium zucchini, medium potato, medium carrot, medium egg, butter, milk, nutmeg, dried basil, dried thyme, salt, pepper, all-purpose flour, shredded cheddar cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "2 medium zucchini, washed",
+        "3 medium potatoes, washed and peeled",
+        "5 medium carrots, washed and peeled",
+        "4 medium eggs",
+        "\u2153 cup melted butter",
+        "\u2154 cup milk",
+        "\u215b teaspoon nutmeg",
+        "\u00bd teaspoon dried basil",
+        "\u00bd teaspoon dried thyme",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 cup all-purpose flour",
+        "1\u00bd cup shredded cheddar cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 350\u00baF (180\u00baC). Line a 10-inch (25-cm) springform pan with parchment paper.",
+        "Carefully slice the zucchini, potatoes, and carrots very thinly with a mandoline or a sharp knife. Watch your fingers!",
+        "In a large bowl, combine the eggs, melted butter, and milk, and whisk until combined.",
+        "Add the nutmeg, basil, thyme, salt, pepper, and flour, and whisk well.",
+        "Add the sliced veggies to the batter and stir well until the slices are well-coated.",
+        "Add half of the vegetables slices to the prepared pan and flatten with a spoon.",
+        "Sprinkle the cheese over the vegetables.",
+        "Top with the rest of the vegetables and cover the pan with aluminum foil.",
+        "Bake for about 1\u00bd hours, until the vegetables are fully cooked and tender.",
+        "Let cool for at least 10 minutes, and release the springform, slice, and serve.",
+        "Enjoy!"
+    ]
+}

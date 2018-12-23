@@ -1,0 +1,36 @@
+{
+    "id": "chicken-fajita-quesadilla",
+    "link": "https://tasty.co/recipe/chicken-fajita-quesadilla",
+    "name": "Chicken Fajita Quesadilla Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f1182555e42147cd8327f93661ef6cc6/BFV12163_Quesadillas4Ways-FB1080SQ.jpg",
+    "description": "Here's what you need: chicken breast, salt, pepper, chili powder, cumin, cayenne, garlic powder, bell pepper, white onion, large flour tortilla, shredded cheddar cheese, shredded monterey jack cheese, fresh cilantro, guacamole, sour cream, pico de gallo",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "\u00bd pound chicken breast, cut into thin strips",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "\u00bd tablespoon chili powder",
+        "\u00bd teaspoon cumin",
+        "\u00bc teaspoon cayenne",
+        "\u00bc teaspoon garlic powder",
+        "\u00bd cup green/red/yellow bell pepper, julienned",
+        "\u00bd cup white onion, julienned",
+        "2 large flour tortillas",
+        "1 cup cheddar cheese, shredded (double for 2 quesadillas)",
+        "1 cup monterey jack cheese, shredded (double for 2 quesadillas)",
+        "Cilantro",
+        "Guacamole",
+        "Sour Cream",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "In a large skillet, coat chicken with salt, pepper, chili powder, cumin, cayenne, and garlic powder. Cook 5-7 minutes.",
+        "Add the peppers and onions and cook for 5-7 minutes, or until they are soft. Remove chicken, onions and peppers from the pan and set aside.",
+        "Place the tortilla in the skillet and add a layer of cheese on half of the tortilla.",
+        "Add cooked chicken, peppers and onions. Top with more cheese and fold the tortilla in half.",
+        "Cook for 6 minutes over medium heat, flipping half way.",
+        "Garnish with fresh cilantro and serve with pico de gallo, guacamole, and sour cream on the side.",
+        "Enjoy!"
+    ]
+}

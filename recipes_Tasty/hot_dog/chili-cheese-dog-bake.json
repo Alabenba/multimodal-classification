@@ -1,0 +1,31 @@
+{
+    "id": "chili-cheese-dog-bake",
+    "link": "https://tasty.co/recipe/chili-cheese-dog-bake",
+    "name": "Chili Cheese Dog Bake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/121175.jpg",
+    "description": "Here's what you need: canned chili, refrigerated pizza dough, cheddar cheese stick, hot dog, butter, garlic powder, parsley",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 14 ounce can chili, heated",
+        "1 can Pillsbury\u2122 refrigerated classic pizza crust",
+        "4 cheddar cheese sticks",
+        "4 all-beef hot dogs",
+        "1 tablespoon butter",
+        "\u00bc teaspoon garlic powder",
+        "\u00bc teaspoon parsley flakes"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 375\u02daF (190\u02daC).",
+        "Spread chili into a greased 11x7-inch (28 x 18 cm) glass baking dish.",
+        "Unroll the dough and cut into four even strips.",
+        "Cut the cheese sticks in half lengthwise.",
+        "Place a hot dog in the center of a piece of dough. Place each half of the cheese stick on either side of the hot dog.",
+        "Wrap the dough around the cheese and hot dog, overlapping slightly in the center. Repeat with remaining dough, hot dogs, and cheese.",
+        "Place the wrapped hot dogs on top of the chili.",
+        "Bake 15-20 minutes, until the dough is light golden.",
+        "Add the butter to a microwave-safe bowl and microwave on high until melted. Stir in the garlic powder and parsley.",
+        "Brush over the wrapped hot dogs.",
+        "Enjoy!"
+    ]
+}

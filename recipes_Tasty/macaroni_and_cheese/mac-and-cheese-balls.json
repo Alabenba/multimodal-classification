@@ -1,0 +1,35 @@
+{
+    "id": "mac-and-cheese-balls",
+    "link": "https://tasty.co/recipe/mac-and-cheese-balls",
+    "name": "Mac and Cheese Balls Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/051bed27bd124aaab499e99a8b86baff/Thumb_A.jpg",
+    "description": "Here's what you need: macaroni, butter, flour, milk, cheddar cheese, red leicester, salt, pepper, egg, breadcrumb",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "500g macaroni",
+        "30g butter",
+        "Flour",
+        "400ml milk",
+        "250g cheddar",
+        "250g red leicester",
+        "Salt and pepper to season",
+        "n/a",
+        "2 eggs for egg wash",
+        "Breadcrumbs"
+    ],
+    "recipeInstructionSteps": [
+        "Boil water, add macaroni and cook until al dente",
+        "Melt butter in a pan and mix 2 tsp flour into it.",
+        "Add the milk gradually.",
+        "Add both cheeses and cook until melted and the sauce is thick",
+        "Season with salt and pepper.",
+        "Add cooked macaroni and thoroughly cover.",
+        "Refrigerate mixture for one hour.",
+        "Take mixture out and form into balls on another plate.",
+        "Refrigerate for 2 hours.",
+        "Dip the solid balls in egg wash, then breadcrumbs.",
+        "Fry in hot pan of oil until golden brown on both sides.",
+        "Enjoy!"
+    ]
+}

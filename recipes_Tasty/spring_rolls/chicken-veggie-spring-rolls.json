@@ -1,0 +1,32 @@
+{
+    "id": "chicken-veggie-spring-rolls",
+    "link": "https://tasty.co/recipe/chicken-veggie-spring-rolls",
+    "name": "Chicken &amp; Veggie Spring Rolls Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/d7e8f82d80cf4e4b8f6df314ebeff596/Thumb_C_-_FB.jpg",
+    "description": "Here's what you need: garlic, ginger, chicken breast, salt, black pepper, shiitake mushrooms, cabbage, carrot, scallions, egg roll wrappers, egg, oil, hoisin sauce",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 cloves garlic",
+        "1 Tbsp. ginger",
+        "2 chicken breasts",
+        "Salt to taste",
+        "Black pepper to taste",
+        "1 cup shiitake mushrooms",
+        "1 cup cabbage",
+        "1 cup carrots",
+        "1/4 cup scallions",
+        "1 packet of egg roll wrappers",
+        "1 egg, for egg wash",
+        "Oil for frying",
+        "Hoisin sauce for dipping *optional"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium pan, saut\u00e9 minced garlic and ginger until fragrant. Add in diced chicken, salt and pepper to taste, then cook until about 80% done.",
+        "Add mushrooms and cook off the moisture.",
+        "Add cabbage until soft, then toss in carrots and scallions. Remove from heat.",
+        "Fill egg roll wrapper with filling, fold and seal with egg wash, then deep fry until golden brown.",
+        "Serve immediately with hoisin sauce or sauce of choice.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "mushroom-risotto",
+    "link": "https://tasty.co/recipe/mushroom-risotto",
+    "name": "How To Cook A Perfect Risotto Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d9e73830340c4d2fb0ec5075d8d7d26c/BFV38271_CC2017_11.1.2_FINAL.jpg",
+    "description": "Here's what you need: low-sodium chicken stock, olive oil, shallot, shiitake mushroom, unsalted butter, garlic, fresh thyme, salt, pepper, arborio rice, white wine, grated parmesan cheese, fresh parsley",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+        "6 cups low-sodium chicken stock or vegetable stock",
+        "2 tablespoons olive oil",
+        "1 shallot, finely chopped",
+        "1 pound shiitake mushrooms, stemmed and thinly sliced",
+        "2 tablespoons unsalted butter",
+        "2 cloves garlic, minced",
+        "1 teaspoon fresh thyme, finely chopped",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1\u00bd cups arborio rice",
+        "\u00bd cup white wine",
+        "1 cup grated Parmesan cheese, plus more for serving",
+        "\u00bc cup chopped fresh parsley, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Add the stock to a medium pot and bring to a boil over high heat. Once the stock is boiling, reduce the heat to low or remove the pan from the heat and keep nearby.",
+        "Heat the olive oil in a wide, tall pot over medium heat. Once the oil begins to shimmer, add the shallot and cook, stirring frequently, until translucent.",
+        "Add the shiitake mushrooms and butter. Cook, stirring occasionally, until the mushrooms have cooked down.",
+        "Add the garlic, thyme, salt, and pepper, stir, and cook for 1 minute, until the butter has melted and the garlic is aromatic.",
+        "Add the rice and stir until fully coated in the mushroom mixture. Let the rice toast for 1-2 minutes, until fragrant.",
+        "Add the white wine and cook until the wine has evaporated, stirring occasionally.",
+        "Add 1 cup (240 ml) of the hot stock and stir to combine. Cook, stirring frequently, until the stock is fully absorbed.",
+        "Continue to add the stock, \u00bd cup (120 ml) at a time, stirring continuously, until the broth is fully absorbed, for 15-20 minutes. Depending on how fast the rice cooks, there may be leftover stock.",
+        "Once the rice is al dente, remove from the heat. Add the Parmesan and stir to combine.",
+        "Top with parsley, Parmesan, salt, and pepper.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "slow-cooker-ribs",
+    "link": "https://tasty.co/recipe/slow-cooker-ribs",
+    "name": "Slow Cooker Ribs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/81733b053eaf4e6c851a676b20798932/BFV6085_Slow-Cooker-Ribs_Thumb.jpg",
+    "description": "Here's what you need: BBQ sauce, brown sugar, apple cider vinegar, dried oregano, worcestershire sauce, cayenne pepper, chili powder, baby back pork rib, salt, pepper, pepper",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "2 cups of bbq sauce",
+        "1/4 cup of brown sugar",
+        "4 Tbsp. of cider vinegar",
+        "3 tsp of oregano",
+        "1 tsp of Worcestershire sauce",
+        "1 Tbsp. of cayenne pepper",
+        "1 Tbsp. of chili powder",
+        "3 lbs of baby back pork ribs",
+        "Salt &amp; pepper",
+        "n/a",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Combine bbq sauce, brown sugar, cider vinegar, oregano, Worcestershire sauce, cayenne pepper, and chili powder in a small bowl.",
+        "Salt and pepper the ribs. Place ribs in slow cooker, and cover in sauce.",
+        "Cook low and slow for eight hours or high for four hours.",
+        "After the ribs are done, spoon the bbq sauce in the slow cooker over the ribs before removing.",
+        "Cut the ribs, serve with bbq sauce.",
+        "Enjoy!"
+    ]
+}

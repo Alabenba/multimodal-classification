@@ -1,0 +1,31 @@
+{
+    "id": "scalloped-potatoes",
+    "link": "https://tasty.co/recipe/scalloped-potatoes",
+    "name": "Scalloped Potatoes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/05a07209a87849729d88fdc9275e98b9/BFV15870_SteakDinnerForTwo2.jpg",
+    "description": "Here's what you need: butter, garlic, flour, milk, salt, pepper, yukon potato, grated parmesan cheese, fresh parsley",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 tablespoon butter",
+        "2 cloves garlic",
+        "1 tablespoon flour",
+        "1 cup milk",
+        "1 teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "3-4 Yukon gold potatoes, peeled",
+        "2 tablespoons grated parmesan",
+        "Chopped parsley, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u00b0C).",
+        "In a small pot, melt the butter and fry the garlic until it\u2019s just starting to brown. Add the flour, salt and pepper. whisk until there are no lumps.",
+        "Slowly drizzle in the milk while constantly whisking to make sure the mixture is smooth.",
+        "Bring to a boil, then remove from heat.",
+        "Slice the potatoes into about \u215b-inch (3 mm) thick slices, then fan them out in a small baking dish.",
+        "Pour the sauce on top of the potatoes, then sprinkle with parmesan.",
+        "Bake for about 1 hour, until the top is bubbly and golden brown.",
+        "Sprinkle chopped parsley on top, then serve.",
+        "Enjoy!"
+    ]
+}

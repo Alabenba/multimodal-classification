@@ -1,0 +1,36 @@
+{
+    "id": "thai-quinoa-salad",
+    "link": "https://tasty.co/recipe/thai-quinoa-salad",
+    "name": "Thai Quinoa Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/61aa2abf778445899106c03e8ee6daef/Facebook.jpg",
+    "description": "Here's what you need: water, vegetable stock, quinoa, carrot, red bell pepper, cucumber, red cabbage, small red onion, edamame, green onion, crushed peanut, water, sesame oil, soy sauce, ginger, olive oil, honey, peanut butter",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 cup water",
+        "1 cup vegetable stock",
+        "1 cup quinoa",
+        "2 carrots, shredded",
+        "1 red bell pepper, diced",
+        "1 cucumber, quartered",
+        "1-2 cups shredded red cabbage",
+        "\u00bd small red onion, diced",
+        "\u00bd cup edamame",
+        "Green onion, to serve",
+        "Crushed peanuts, to serve",
+        "\u00bd cup water",
+        "1 teaspoon sesame oil",
+        "1 tablespoon soy sauce",
+        "1 tablespoon ginger, grated",
+        "2 teaspoons olive oil",
+        "1 tablespoon honey",
+        "\u00bc cup peanut butter"
+    ],
+    "recipeInstructionSteps": [
+        "In a small saucepan, bring water and vegetable stock to a boil, then add quinoa. Cover and simmer for 12-15 minutes.",
+        "In a bowl, combine quinoa, carrots, red pepper, cucumber, purple cabbage, and edamame.",
+        "In a small bowl, mix water, sesame oil, soy sauce, ginger, olive oil, honey, and peanut butter. Drizzle dressing over the quinoa.",
+        "Top with green onions and crushed peanuts.",
+        "Enjoy!"
+    ]
+}

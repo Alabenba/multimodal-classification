@@ -1,0 +1,21 @@
+{
+    "id": "tamagoyaki-bento",
+    "link": "https://tasty.co/recipe/tamagoyaki-bento",
+    "name": "Tamagoyaki (Bento) Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3366f160c3e840c491a0091e0210e583/BFV43008_CookingJapaneseForAnEntireDay_FB_FINAL.jpg",
+    "description": "Here's what you need: egg, soy sauce, edamame",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Japanese",
+    "recipeIngredient": [
+        "1 egg",
+        "1 teaspoon soy sauce",
+        "20 pieces edamame"
+    ],
+    "recipeInstructionSteps": [
+        "Beat the eggs in a small bowl. Add edamame and soy sauce.",
+        "Pour the egg mixture into a nonstick pan over low heat, and swirl the egg around the pan into a perfect circle. When the egg is cooking through, fold both side and roll.",
+        "Wrap with plastic and arrange the shape. Cool in the fridge.",
+        "Cut into half. Place into the bento box.",
+        "Enjoy!"
+    ]
+}

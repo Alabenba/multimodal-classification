@@ -1,0 +1,31 @@
+{
+    "id": "slow-cooker-thai-green-curry",
+    "link": "https://tasty.co/recipe/slow-cooker-thai-green-curry",
+    "name": "Slow-Cooker Thai Green Curry Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/0ebb1479229b4bffb071c6e52204afeb/IMG_1490-thumb.jpg",
+    "description": "Here's what you need: bone-in, skin-on chicken thighs, thai green curry paste, soy sauce, red bell pepper, green beans, red chili, coconut milk, salt, pepper, oil, rice",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Thai",
+    "recipeIngredient": [
+        "1 kilogram skin-on, bone-in chicken thighs",
+        "2-5 tablespoons Thai green curry paste (depending on how spicy you like it!)",
+        "2 tablespoons soy sauce",
+        "300 grams (2 small ones) red pepper, sliced",
+        "200 grams green beans, topped and tailed",
+        "1 chilli, chopped and deseeded",
+        "1 can (400 grams) coconut milk",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Oil, for frying",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Sear the chicken in batches in a few tablespoons of oil, seasoning with salt and pepper as you go.",
+        "Transfer to the slow cooker and spoon over the Thai green curry paste and drizzle over the soy sauce.",
+        "Cook on high for 2.5 hours.",
+        "Stir in the peppers, green beans, chilli, and coconut milk.",
+        "Cook for a further 30 minutes.",
+        "Serve over rice.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "tater-tot-breakfast-bake",
+    "link": "https://tasty.co/recipe/tater-tot-breakfast-bake",
+    "name": "Tater Tot Breakfast Bake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/edf4b8950b7b48f8ad7f87fd02f23c40/BFV6912_TaterTotBreakfastBake-Thumb1080SQ.jpg",
+    "description": "Here's what you need: egg, milk, salt, pepper, breakfast sausage, condensed french onion soup, cheddar cheese, frozen tater tots",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "4 eggs",
+        "1 cup milk",
+        "salt &amp; pepper",
+        "n/a",
+        "2 lb breakfast sausage, crumbled and cooked",
+        "1 can condensed french onion soup",
+        "2 cups shredded cheddar cheese",
+        "1 bag frozen tater tots"
+    ],
+    "recipeInstructionSteps": [
+        "In a bowl, beat the eggs with milk, salt, and pepper. Set aside.",
+        "Spread the sausage over the bottom of a glass 9\u00d713-inch (35 cm x 25 cm) baking dish. Pour on the onion soup, and mix with the sausage.",
+        "Sprinkle the cheddar cheese evenly over the top.",
+        "Cover with the lined up tater tots, and pour the egg mixture over everything.",
+        "Bake uncovered at 350\u00b0F (180\u00b0C) for one hour.",
+        "Enjoy!"
+    ]
+}

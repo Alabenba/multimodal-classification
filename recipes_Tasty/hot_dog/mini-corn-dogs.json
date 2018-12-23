@@ -1,0 +1,33 @@
+{
+    "id": "mini-corn-dogs",
+    "link": "https://tasty.co/recipe/mini-corn-dogs",
+    "name": "Mini Corn Dogs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/b454f156c1c1422788927aa0ead9ce81/mini_corn_dog_FB_thumb.jpg",
+    "description": "Here's what you need: cornmeal, flour, sugar, baking powder, salt, pepper, egg, milk, hot dog, flour, vegetable oil",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 cup cornmeal",
+        "1 cup flour",
+        "\u00bc cup sugar",
+        "4 tablespoons baking powder",
+        "\u00bc teaspoon salt",
+        "\u215b teaspoon pepper",
+        "1 egg",
+        "1 cup milk",
+        "5 hotdogs",
+        "1 tablespoon flour",
+        "1 quart vegetable oil for frying"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium sized mixing bowl, whisk together dry ingredients.",
+        "Then add the egg and milk. Stir until batter is smooth with no lumps and chill in refrigerator for 25 minutes.",
+        "Cut the hot dogs into \u2153 pieces and coat in flour to help batter to stick to the dogs.",
+        "Preheat oil to 350\u00baF (180\u00baC).",
+        "Dunk flour battered hot dogs into corn dog batter by using a fork. Make sure to fully coat the dogs before frying in the oil.",
+        "Fry at 350\u00baF (180\u00baC) for 3-4 minutes or until golden brown. For even cooking use a slotted steel spoon or a pair of tongs to rotate the floating corn dogs.",
+        "Dry off excess oil with paper towels.",
+        "Serve with side of veggies or fruit.",
+        "Enjoy!"
+    ]
+}

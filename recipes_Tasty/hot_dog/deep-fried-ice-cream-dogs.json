@@ -1,0 +1,23 @@
+{
+    "id": "deep-fried-ice-cream-dogs",
+    "link": "https://tasty.co/recipe/deep-fried-ice-cream-dogs",
+    "name": "Deep Fried Ice Cream Dogs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/f9d2e77da399447797c957e16de127a9/BFV6859_Deep-Fried_Ice_Cream_Dogs_THUMB_A.jpg",
+    "description": "Here's what you need: vegetable oil, hot dog bun, sugar, ice cream, your choice of toppings",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "vegetable or Sunflower Oil",
+        "2 Hot Dog Buns",
+        "200 grams Sugar",
+        "400 grams Ice Cream",
+        "Extra Toppings - Like sauce or sprinkles!"
+    ],
+    "recipeInstructionSteps": [
+        "Cut the hot dog bun in half, keeping it together a little if you can.",
+        "Roll the bun in sugar.",
+        "Fry in hot oil for about 30 seconds each side,",
+        "Allow to cool for 30 seconds, then fill with ice cream and cover in sauce!",
+        "Enjoy!"
+    ]
+}

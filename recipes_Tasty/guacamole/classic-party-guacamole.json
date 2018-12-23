@@ -1,0 +1,25 @@
+{
+    "id": "classic-party-guacamole",
+    "link": "https://tasty.co/recipe/classic-party-guacamole",
+    "name": "Classic Party Guacamole Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/bb8909db228242368177f6ceaa567d36/FB_04fopkg.jpg",
+    "description": "Here's what you need: large avocado, medium roma tomato, red onion, jalape\u00f1o, lime, salt, pepper, fresh cilantro, tortilla chips",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "2 large avocados, pitted, peeled, and diced",
+        "1 medium Roma tomato, seeded and diced",
+        "\u00bd red onion, minced",
+        "\u00bd jalape\u00f1o, seeded and minced",
+        "1 lime, juiced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Chopped fresh cilantro, optional",
+        "Tortilla chips, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, combine the avocado, tomato, red onion, jalape\u00f1o, lime juice, salt, and pepper. Mix together until fully incorporated. Top with cilantro, if using.",
+        "Serve with tortilla chips.",
+        "Enjoy!"
+    ]
+}

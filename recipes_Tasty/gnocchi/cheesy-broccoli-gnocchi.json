@@ -1,0 +1,27 @@
+{
+    "id": "cheesy-broccoli-gnocchi",
+    "link": "https://tasty.co/recipe/cheesy-broccoli-gnocchi",
+    "name": "Cheesy Broccoli Gnocchi Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/aa4944fcfadd453bb8c6a3000d3c6d6b/BFV13617_CheesyBroccoliGnocchi-ThumbTextless1080.jpg",
+    "description": "Here's what you need: runner bean, broccoli, gnocchi, grated mozzarella cheese, grated parmesan cheese, single cream, pepper",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "100 grams runner beans",
+        "100 grams broccoli",
+        "500 grams gnocchi",
+        "100 grams grated mozzarella",
+        "100 grams grated parmesan",
+        "50 millilitres single cream",
+        "1 teaspoon pepper"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 180\u00b0C (350\u00b0F).",
+        "Bring some water to the boil in a saucepan and boil the runner beans and broccoli for 2-3 minutes.",
+        "Take them out of the water and set aside.",
+        "In the same boiling water, cook the gnocchi for 2 minutes (or, until it floats to the top of the water). Drain.",
+        "In the same saucepan, mix together the drained gnocchi, runner beans, broccoli, mozzarella, parmesan, cream, and pepper.",
+        "Pour into an ovenproof dish and bake for 5 minutes at 180\u00b0C (350\u00b0F), until the cheese bubbles.",
+        "Enjoy!"
+    ]
+}

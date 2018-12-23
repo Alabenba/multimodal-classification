@@ -1,0 +1,29 @@
+{
+    "id": "crunchy-taco-cups",
+    "link": "https://tasty.co/recipe/crunchy-taco-cups",
+    "name": "Crunchy Taco Cups Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/49d1fdda10fe4ab5805db230c4b6d00d/BFV9179_CrunchyTacoCups-ThumbFB1080SQ.jpg",
+    "description": "Here's what you need: lean ground beef, taco seasoning, diced tomato, diced green chilies, shredded sharp cheddar cheese, large flour tortilla",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 pound lean ground beef",
+        "1 envelope (3 tablespoons) taco seasoning",
+        "6 ounces diced tomatoes",
+        "1 (4 ounce) can diced green chiles",
+        "1 1/2 cups shredded sharp cheddar cheese",
+        "6 large flour tortillas"
+    ],
+    "recipeInstructionSteps": [
+        "In a large skillet, brown the ground beef and drain any remaining fat. Transfer to a bowl.",
+        "Add taco seasoning, tomatoes and green chiles to the ground beef and stir to combine.",
+        "Preheat oven to 375\u00baF (190\u00baC).",
+        "Cut flour tortillas into a square shape and cut each into 4 smaller equally sized square pieces.",
+        "Generously coat a standard size muffin tin with nonstick cooking spray.",
+        "Line each cup of prepared muffin tin with a tortilla sheet.",
+        "Add 1.5 tablespoons taco mixture. Top with 1 tablespoon of cheese. Press down and add another layer of tortilla sheet, taco mixture, and a final layer of cheese.",
+        "Lightly brush the top edges of the tortilla with cooking oil.",
+        "Bake 18-20 minutes until cups are heated through and edges are golden brown.",
+        "Enjoy!"
+    ]
+}

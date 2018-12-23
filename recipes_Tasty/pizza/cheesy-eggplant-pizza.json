@@ -1,0 +1,36 @@
+{
+    "id": "cheesy-eggplant-pizza",
+    "link": "https://tasty.co/recipe/cheesy-eggplant-pizza",
+    "name": "Cheesy Eggplant Pizza Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/c321adf27795489b943b4df7254cf04a/BFV11659_EggplantPizza-ThumbTextless1080.jpg",
+    "description": "Here's what you need: large globe eggplant, salt, olive oil, mozzarella cheese, cheddar cheese, marinara sauce, parmesan cheese, fresh basil, garlic powder, salt, pepper, red pepper flakes",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 large globe eggplant",
+        "Salt",
+        "Olive oil",
+        "2 cups mozzarella cheese",
+        "1 cup cheddar cheese",
+        "1 jar marinara sauce",
+        "\u00bd cup parmesan cheese",
+        "\u00bc cup fresh basil",
+        "1 tablespoon garlic powder",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "\u00bd teaspoon red pepper flake"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the eggplant into \u00bd-inch (1 cm) pieces.",
+        "Salt the slices and leave them to \u201csweat\u201d for 20 minutes then wipe them off.",
+        "Preheat oven to 350\u00b0F (180\u02daC).",
+        "Slather each slice with olive  oil.",
+        "Bake for 25 minutes.",
+        "In a medium bowl, combine all pizza sauce ingredients and stir until homogenous.",
+        "Remove eggplant slices from the oven and pour about 2 tablespoons of the sauce mixture onto each one.",
+        "Sprinkle mozzarella and cheddar on each slice.",
+        "Put the slices back in the oven for 1-2 minutes to melt the cheese.",
+        "Allow to cool before serving.",
+        "Enjoy!"
+    ]
+}

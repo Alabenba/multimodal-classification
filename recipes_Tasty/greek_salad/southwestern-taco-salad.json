@@ -1,0 +1,36 @@
+{
+    "id": "southwestern-taco-salad",
+    "link": "https://tasty.co/recipe/southwestern-taco-salad",
+    "name": "Southwestern Taco Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/56b04e3dd03a4150ae4cb5e53b41e7aa/BFV5626_SouthwesternTacoSalad_FBthumb1080sq.jpg",
+    "description": "Here's what you need: avocado, cilantro, lime juice, low-fat greek yogurt, water, salt, garlic, cumin, olive oil, chicken breast, taco seasoning, romaine lettuce, cheddar jack, black beans, avocado, corn, cherry tomatoes, tortilla strips",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1/2 an avocado",
+        "1/2 cup chopped cilantro",
+        "1 Tablespoon lime juice",
+        "1/2 cup plain low fat greek yogurt",
+        "1/3 cup water",
+        "1/2 tsp salt",
+        "1/2 Tablespoon garlic",
+        "1/2 Tablespoon cumin",
+        "1 tbsp olive oil",
+        "1 chicken breast, diced",
+        "1/2 packet of taco seasoning",
+        "1 head Romaine Lettuce, chopped",
+        "1 cup shredded cheddar jack cheese",
+        "1 cup black beans",
+        "1 avocado, diced",
+        "1 cup corn",
+        "1 cup cherry tomatoes, halved",
+        "1 cup tortilla strips"
+    ],
+    "recipeInstructionSteps": [
+        "To make the avocado cilantro lime salad dressing, combine all the ingredients for the dressing (avocado, cilantro, lime juice, greek yogurt, water, salt, garlic, and cumin) in a blender or food processor until smooth. Set aside.",
+        "Pour 1 tbsp of oil into a pan and bring up to medium heat. Add the diced chicken breast and taco seasoning, stirring until all pieces are well-coated with the seasoning. Cook through and set aside.",
+        "Assemble your salad with a bed of chopped romaine lettuce on the bottom. Then, lay out each topping (chicken, cheddar jack cheese, black beans, avocado, corn, cherry tomatoes, and tortilla strips) in rows or blend it all together. ",
+        "Top off with the avocado salad dressing and cilantro then serve immediately.",
+        "Enjoy!"
+    ]
+}

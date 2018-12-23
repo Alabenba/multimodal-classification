@@ -1,0 +1,23 @@
+{
+    "id": "loaded-sweet-potato",
+    "link": "https://tasty.co/recipe/loaded-sweet-potato",
+    "name": "Loaded Sweet Potato Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b77563774e98457fba147ad7ad52b88d/HowToGetProteinWithoutMeatOrDairyFBNEW.jpg",
+    "description": "Here's what you need: large sweet potato, black beans, broccoli, corn, guacamole, tomato, fresh cilantro",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 large sweet potato",
+        "\u00be cups black beans, drained and rinsed",
+        "1 cup broccoli, steamed",
+        "\u00bd cup corn",
+        "2 tablespoon guacamole",
+        "\u00bd cup tomatoes, diced",
+        "Cilantro, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "Pierce air sweet potato with a fork and microwave on high for 9-12 minutes until fully cooked.",
+        "Top with black beans, broccoli, corn, guacamole, tomatoes, and cilantro.",
+        "Enjoy!"
+    ]
+}

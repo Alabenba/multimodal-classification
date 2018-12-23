@@ -1,0 +1,30 @@
+{
+    "id": "bbq-cheeseburger-onion-ring",
+    "link": "https://tasty.co/recipe/bbq-cheeseburger-onion-ring",
+    "name": "BBQ Cheeseburger Onion Rings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/87c1b04a083e4e8c94d8f471df01a63a/FB.jpg",
+    "description": "Here's what you need: ground beef, salt, black pepper, garlic powder, BBQ sauce, onion, cheddar cheese, flour, egg, panko breadcrumbs, oil",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "1 pound ground beef",
+        "1 teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "1 teaspoon garlic powder",
+        "\u00bd cup BBQ sauce",
+        "1 onion",
+        "8-10 cheddar cheese, cubed",
+        "2 cups flour",
+        "5 eggs",
+        "3 cups panko",
+        "Oil, for frying"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, add ground beef, salt, pepper, garlic powder, and BBQ sauce. Mix well.",
+        "Slice onions into \u00bd-inch (1 \u00bc-cm) thick slices. Take the outer layer off and separate each layer of the rings.",
+        "Fill the onion slice with a spoonful of meat. Place cheese cube in the middle and add a little more meat to cover the cheese.",
+        "Dredge the onion ring and fry in oil heated at 325\u00b0F (160\u00b0C) for 3-5 minutes or until fully cooked and golden brown.",
+        "Serve with your favorite sauce.",
+        "Enjoy!"
+    ]
+}

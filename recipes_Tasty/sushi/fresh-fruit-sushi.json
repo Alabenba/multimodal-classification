@@ -1,0 +1,38 @@
+{
+    "id": "fresh-fruit-sushi",
+    "link": "https://tasty.co/recipe/fresh-fruit-sushi",
+    "name": "Fresh Fruit Sushi Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/c6d538ec666243598818c09a6bde1a54/Thumb2.jpg",
+    "description": "Here's what you need: short grain rice, water, sugar, salt, coconut milk, vanilla, pineapple, strawberry, mango, kiwi, blackberry, raspberry",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 1/2 cups short grain rice",
+        "2 cups water",
+        "3 Tbsp sugar",
+        "1/4 tsp salt",
+        "1 cup coconut milk",
+        "1 1/2 tsp vanilla",
+        "pineapple",
+        "strawberries",
+        "mango",
+        "kiwi",
+        "blackberries",
+        "raspberries"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium pot combine the rice, water, sugar and salt. Cook on low heat for about 20 minutes or until all the rice absorbs the water.",
+        "Add the coconut milk and vanilla. The mixture should be moldable. Cook a few minutes longer if it\u2019s too runny.",
+        "Slice fruit of choice into long pieces.",
+        "*Note: Use a potato peeler to shave thin slices off the mango.",
+        "Lay a bamboo rolling pad on a counter top, and place a square of wax paper over top. Spread the rice about \u00bd inch (1 cm) thick over the paper into approximately a 7x5 inch (17x12 cm) rectangle.",
+        "Toast a \u00bc cup (25g) of coconut shreds for 3 minutes.",
+        "Lay the fruit pieces on the rice, and roll up carefully. If rice sticks to the paper too much, try spreading it a little thicker.",
+        "Coat the rolls with either the mango slices, or the toasted coconut.",
+        "Slice each roll into 6 pieces.",
+        "With the rest of the rice, roll into balls (like nigiri).",
+        "Place thin slices of kiki or strawberries over top with half a blackberry on top to look like fish eggs.",
+        "Blend \u00bc cup (25 g) raspberries with \u00bc cup (60 ml) water to make a dipping sauce.",
+        "Enjoy!"
+    ]
+}

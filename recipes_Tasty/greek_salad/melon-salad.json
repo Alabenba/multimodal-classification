@@ -1,0 +1,25 @@
+{
+    "id": "melon-salad",
+    "link": "https://tasty.co/recipe/melon-salad",
+    "name": "Melon Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7e174b09d7744b18b5781467e50629f5/FB_FINAL.jpg",
+    "description": "Here's what you need: small seedless watermelon, small cantaloupe, salt, greek yogurt, olive oil, water, lemon juice, fresh mint leaf",
+    "recipeCategory": "",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "\u00bd small seedless watermelon",
+        "\u00bd small cantaloupe",
+        "Salt, to taste",
+        "\u00bd cup Greek yogurt",
+        "2 tablespoons olive oil",
+        "1 tablespoon water",
+        "2 tablespoons lemon juice",
+        "Fresh mint leaves, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Using a melon baller or a teaspoon, scoop out rounds of watermelon and cantaloupe and place in a large bowl. Season with a pinch of salt.",
+        "In a liquid measuring cup or small bowl, combine the Greek yogurt, olive oil, water, and lemon juice. Stir until smooth.",
+        "Serve the melon in bowls and top with the dressing and fresh mint leaves.",
+        "Enjoy!"
+    ]
+}

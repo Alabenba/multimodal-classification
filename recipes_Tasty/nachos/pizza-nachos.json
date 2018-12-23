@@ -1,0 +1,26 @@
+{
+    "id": "pizza-nachos",
+    "link": "https://tasty.co/recipe/pizza-nachos",
+    "name": "Pizza Nachos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/1029702ae1614012b2d9c562ba1f0c6e/BFV10314_Nachos4Ways.jpg",
+    "description": "Here's what you need: tortilla chips, marinara suce, mozzarella cheese, musghrooms, green pepper, red onion, sausage, pepperoni slices, pepperoni slices",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "9 ounces tortilla chips",
+        "\u00bd cup marinara sauce",
+        "2 cups mozzarella",
+        "1 cup mushrooms, sliced",
+        "1 green pepper, sliced",
+        "\u00bd red onion, sliced thinly",
+        "1 cup cooked sausage, diced",
+        "1 cup pepperoni slices, diced",
+        "6 pepperoni slices, whole"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (175\u00b0C).",
+        "In a large pan or skillet, lay down half of the tortilla chips, followed by the marinara, mozzarella, mushrooms, green pepper, red onion, sausage, and diced pepperoni.",
+        "Bake for 15 minutes, until cheese is melted.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "id": "carrot-cake-granola-balls",
+    "link": "https://tasty.co/recipe/carrot-cake-granola-balls",
+    "name": "Carrot Cake Granola Balls Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1b442d4d8ee34507b5aa90077add5127/BFV5732_Carrot_Cake_Granola_Balls_FacebookThumb.jpg",
+    "description": "Here's what you need: oats, walnuts, almond, peanut butter, honey, cinnamon, carrot, raisin",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "125g oats",
+        "40g walnuts",
+        "1 tsp ground almonds",
+        "190g peanut butter",
+        "3 tsp honey",
+        "1 tsp cinnamon",
+        "40g grated carrot",
+        "50g raisins"
+    ],
+    "recipeInstructionSteps": [
+        "Add oats, walnuts and ground almonds to a large bowl and mix together.",
+        "Add peanut butter, honey and cinnamon and mix.",
+        "Add carrot and raisins to the mixture and mix until a everything has stuck together.",
+        "Form into 12 balls and place on baking paper.",
+        "Refrigerate for 1 hour.",
+        "Enjoy!"
+    ]
+}

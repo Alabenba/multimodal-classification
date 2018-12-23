@@ -1,0 +1,39 @@
+{
+    "id": "crab-cakes",
+    "link": "https://tasty.co/recipe/crab-cakes",
+    "name": "Crab Cakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c406c620449c4ea0a89e19e8accf0aa6/seafoodfinalFB.jpg",
+    "description": "Here's what you need: small shallot, fresh parsley, fresh chives, egg, mayonnaise, dijon mustard, fresh lemon juice, worcestershire sauce, cayenne pepper, fresh lump crab meat, fine sea salt, freshly ground black pepper, panko breadcrumbs, all purpose flour, unsalted butter, tartar sauce, lemon wedges",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Seafood",
+    "recipeIngredient": [
+        "1 small shallot, finely chopped",
+        "2 tablespoons finely chopped parsley",
+        "1 tablespoon finely chopped chives",
+        "1 egg",
+        "2 tablespoons mayonnaise",
+        "2 teaspoons Dijon mustard",
+        "2 teaspoons fresh lemon juice",
+        "\u00bd teaspoon Worcestershire sauce",
+        "Pinch cayenne pepper, optional",
+        "1 pound lump crabmeat, picked over",
+        "Fine sea salt",
+        "Freshly ground black pepper",
+        "1 cup panko bread crumbs",
+        "All-purpose flour, for dusting",
+        "2 tablespoons unsalted butter",
+        "Tartar sauce, recipe follows",
+        "Lemon wedges"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, whisk together the shallot, parsley, chives, egg, mayonnaise, Dijon mustard, lemon juice, Worcestershire sauce, and cayenne if using.",
+        "Add the crabmeat, season with salt and pepper and stir to combine.",
+        "Add the breadcrumbs and mix just to combine.",
+        "Form into 6 equal patties and place on a plate. Chill in the refrigerator for at least 15 minutes, up to 1 hour.",
+        "Coat the cakes lightly with flour, and shake off any excess.",
+        "In a large skillet set over medium heat, melt the butter.",
+        "Fry the crab cakes until golden and crisp, 3-4 minutes per side. Transfer to a paper towel-lined plate to drain slightly. ",
+        "Serve warm with tartar sauce and lemon wedges.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "naan-breakfast-pizza",
+    "link": "https://tasty.co/recipe/naan-breakfast-pizza",
+    "name": "Naan Breakfast Pizza Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/d32a9f4e4f6a467ebc05da4dcf6196b6/BFV5838_NaanBreakfastPizza_FacebookThumb.jpg",
+    "description": "Here's what you need: naan bread, baked beans, tikka masala sauce, cheddar cheese, egg",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "Naan Bread",
+        "Baked beans",
+        "Jar of tikka masala sauce",
+        "Cheddar cheese",
+        "Egg"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together baked beans and tikka masala sauce and pour evenly on naan bread.",
+        "Add grated cheese on top.",
+        "Bake for 10 mins at 190\u00b0C (375\u00b0F).",
+        "Make a dent in the melted cheese with an egg, then crack into the dent.",
+        "Bake for another ten mins at 190\u00b0C (375\u00b0F).",
+        "Cut into four pieces.",
+        "Enjoy!"
+    ]
+}

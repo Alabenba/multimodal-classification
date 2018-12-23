@@ -1,0 +1,33 @@
+{
+    "id": "peking-duck-inspired-burrito",
+    "link": "https://tasty.co/recipe/peking-duck-inspired-burrito",
+    "name": "Peking Duck-Inspired Burrito Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/159e36686b184e28b76fe5d5ac880d5e/BFV6450_Peking_Duck-Inspired_Burrito_Thumb.jpg",
+    "description": "Here's what you need: duck breast, oil, salt, garlic, soy sauce, rice wine, five-spice powder, rice, cucumber, scallion, hoisin sauce, flour tortilla",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "4 duck breasts",
+        "1 Tbsp. of oil",
+        "1/4 tsp of salt",
+        "2 cloves of garlic",
+        "1 tsp of soy sauce",
+        "1 tsp of rice wine",
+        "1 tsp of five-spice powder",
+        "Cooked rice",
+        "Cucumbers",
+        "Scallions",
+        "Hoisin sauce",
+        "Flour tortillas"
+    ],
+    "recipeInstructionSteps": [
+        "Place duck breast in pan to marinate.",
+        "Rub oil, salt, garlic, soy sauce, rice wine, and five-spice powder into the duck breasts. Let it marinate for 30 minutes.",
+        "Add one Tbsp. of oil to a hot skillet over medium heat. Add the duck breasts skin side down, cook until the skin is browned and crispy (can take up to 8-10 minutes, depending on your heat).",
+        "Flip the duck so skin side is up. Place the skillet under the broiler for five minutes to further crisp the skin. Be careful not to burn the skin.",
+        "Remove from oven and let it rest for five minutes before slicing.",
+        "Spread hoisin sauce over the flour tortilla, layer on the rice, duck slices, cucumbers, and scallions.",
+        "Wrap it all up.",
+        "Enjoy!"
+    ]
+}
