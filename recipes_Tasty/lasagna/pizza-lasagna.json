@@ -1,0 +1,30 @@
+{
+    "id": "pizza-lasagna",
+    "link": "https://tasty.co/recipe/pizza-lasagna",
+    "name": "Pizza Lasagna Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/7c867775a3f340609d3128e8175b1ddd/BFV15949_Pizza_Lasagna_thumb_A.jpg",
+    "description": "Here's what you need: Italian sausage, yellow onion, bell pepper, garlic, marinara sauce, lasagna noodle, pepperoni, fresh basil leaf, mozzarella cheese, ricotta cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 pound (500 grams) Italian sausage",
+        "1 yellow onion, sliced",
+        "1\u00bd cups bell peppers, diced",
+        "3 cloves garlic, minced",
+        "3 cups marinara or pizza sauce",
+        "12 lasagna noodles, cooked",
+        "6 ounces (180 grams) sliced pepperoni",
+        "1 cup basil, packed",
+        "3 cups mozzarella",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Over medium-high heat, cook Italian sausage until browned, then remove from pan and set aside.",
+        "In the same pan, cook onion until translucent, then add bell peppers and garlic. Cook until the veggies are soft, about 10 minutes. Set aside.",
+        "Preheat oven to 375\u00baF (190\u00baC).",
+        "In a 9 x13-inch (23cm x 33cm) baking dish, begin to assemble the lasagna by spreading a thin layer of sauce on the bottom of the pan.",
+        "Then, layer ingredients in the following order: noodles, ricotta, sausage, veggies, mozzarella, sauce, noodles, ricotta, pepperoni, basil, mozzarella, sauce, noodles, marinara, mozzarella, veggies, sausage, and pepperoni.",
+        "Place pan on a sheet tray and bake for 45-55 minutes, or until bubbling and starting to brown around the edges.",
+        "Enjoy!"
+    ]
+}

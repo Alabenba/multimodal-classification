@@ -1,0 +1,34 @@
+{
+    "id": "cobb-salad-deviled-eggs",
+    "link": "https://tasty.co/recipe/cobb-salad-deviled-eggs",
+    "name": "Cobb Salad Deviled Eggs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2352f110682845b387ce0d35f341855e/BFV16776_CobbSaladDeviledEggs_ThumbC.jpg",
+    "description": "Here's what you need: egg, salt, pepper, tomato, cooked chicken, bacon, mayonnaise, dijon mustard, avocado, blue cheese, bacon",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 dozen eggs",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "\u00bd cup tomatoes, diced",
+        "\u00bd cup cooked chicken, fine chopped",
+        "\u00bd cup bacon, crumbled",
+        "3 tablespoons mayonnaise",
+        "2 tablespoons dijon mustard",
+        "\u00bd cup avocado, diced",
+        "Blue cheese",
+        "Bacon, sliced into strips"
+    ],
+    "recipeInstructionSteps": [
+        "Place the eggs in a large pot and cover with 1 inch (2 cm) of cold water.",
+        "Bring to a rolling boil, cover with the lid, and remove from heat. Let the eggs sit, covered for 8-10 minutes.",
+        "Remove from water and immediately place in bath of ice water for a few minutes.",
+        "Remove shells and cut the egg in half, vertically.",
+        "Remove the yolk and place in a bowl. Set the cooked whites aside on a serving tray.",
+        "In the bowl with the yolks, add salt, pepper, tomatoes, chicken, bacon, mayonnaise, and mustard.",
+        "Mash until everything is well incorporated.",
+        "Gently fold in the diced avocado.",
+        "Fill each cooked egg white with the mixture, and if you would like to get fancy, garnish with blue cheese and a small strip of bacon.",
+        "Enjoy!"
+    ]
+}

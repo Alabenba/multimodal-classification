@@ -1,0 +1,28 @@
+{
+    "id": "chocolate-peanut-butter-cup-cheesecakes",
+    "link": "https://tasty.co/recipe/chocolate-peanut-butter-cup-cheesecakes",
+    "name": "Chocolate Peanut Butter Cup Cheesecakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/3a28d6703079478a9a72b88e258893c5/ThumbA.jpg",
+    "description": "Here's what you need: cream cheese, sugar, flour, egg, chocolate chips, vanilla extract, chocolate peanut butter cup",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "16 ounces cream cheese, softened",
+        "\u00bd cup sugar",
+        "2 tablespoons flour",
+        "2 eggs, lightly beaten",
+        "1 cup chocolate chips, melted and cooled",
+        "1 teaspoon vanilla extract",
+        "12 chocolate peanut butter cups"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u00b0C).",
+        "In a bowl, beat cream cheese, sugar, and flour until smooth.",
+        "Add eggs and mix until combined.",
+        "Fold in melted chocolate and vanilla extract.",
+        "Line a muffin tin with muffin liners. Place a peanut butter cup upside down in each cup.",
+        "Fill cups \u00be-full with cheesecake mixture.",
+        "Bake 20 minutes, cool completely, and refrigerate for 3 hours.",
+        "Enjoy!"
+    ]
+}

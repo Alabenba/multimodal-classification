@@ -1,0 +1,36 @@
+{
+    "id": "meatless-sloppy-joes",
+    "link": "https://tasty.co/recipe/meatless-sloppy-joes",
+    "name": "Meatless Sloppy Joes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/166493.jpg",
+    "description": "Here's what you need: olive oil, medium yellow onion, green bell pepper, garlic, chili powder, cumin, paprika, salt, textured vegetable protein, vegetable broth, tomato sauce, vegan worcestershire sauce, soy sauce, brown sugar, yellow mustard, hamburger bun",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Olive oil, to taste",
+        "\u00bd medium yellow onion, diced",
+        "\u00bd green bell pepper, diced",
+        "2 cloves garlic, minced",
+        "\u00bd teaspoon chili powder",
+        "\u00bd teaspoon cumin",
+        "\u00bd teaspoon paprika",
+        "Salt, to taste",
+        "1 cup textured vegetable protein",
+        "1 cup low-sodium vegetable broth",
+        "1 15-ounce can of tomato sauce",
+        "1 teaspoon vegan Worcestershire sauce",
+        "1 tablespoon soy sauce",
+        "1 teaspoon brown sugar",
+        "2 teaspoons yellow mustard",
+        "4 hamburger buns"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium skillet, heat a drizzle of olive oil over medium heat. Once the oil begins to shimmer, add the onion and cook for 2-3 minutes, until semi-translucent.",
+        "Add the bell pepper and cook for another 2-3 minutes, until the onion is translucent.",
+        "Add the garlic, chili powder, cumin, paprika, and salt and cook 2-3 minutes more, until the garlic is soft and fragrant. Season with salt.",
+        "Add the textured vegetable protein, vegetable broth, and tomato sauce and stir well until combined. Cover and cook for 15 minutes, until most of the liquid has been absorbed.",
+        "Remove the lid and add the Worcestershire sauce, soy sauce, brown sugar, and yellow mustard. Mix to combine and cook for 3-4 more minutes, until the remaining liquid has been absorbed.",
+        "Serve on hamburger buns.",
+        "Enjoy!"
+    ]
+}

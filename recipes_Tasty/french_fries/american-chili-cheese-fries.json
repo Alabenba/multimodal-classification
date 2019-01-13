@@ -1,0 +1,40 @@
+{
+    "id": "american-chili-cheese-fries",
+    "link": "https://tasty.co/recipe/american-chili-cheese-fries",
+    "name": "American Chili Cheese Fries Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d5a4dbbe37924db9b6f55d57a8572708/Fries_FB.jpg",
+    "description": "Here's what you need: oil, ground beef, kosher salt, black pepper, ground cumin, chili powder, smoked paprika, cayenne, large yellow onion, red bell pepper, garlic, chipotle pepper in adobo sauce, tomato paste, chopped tomato, beef broth, black beans, red kidney bean, french fries, shredded cheddar cheese, sour cream, green onion",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 tablespoons oil",
+        "1 pound ground beef",
+        "1 tablespoon kosher salt, plus more to taste",
+        "1 teaspoon black pepper",
+        "1 tablespoon ground cumin",
+        "1 tablespoon chili powder",
+        "1 tablespoon smoked paprika",
+        "1 teaspoon cayenne",
+        "1 large yellow onion, chopped",
+        "1 red bell pepper, seeded and chopped",
+        "6 cloves garlic, minced",
+        "2 chipotle peppers in adobo, chopped",
+        "12 ounces tomato paste",
+        "1 12-ounce can of chopped tomatoes",
+        "2 cups beef broth",
+        "1 15-ounce can of black beans, drained and rinsed",
+        "1 15-ounce can of red kidney beans, drained and rinsed",
+        "1 pound cooked French fries, hot",
+        "Shredded cheddar cheese, for serving",
+        "Sour cream, for serving",
+        "Sliced green onion, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Heat the oil in a large pot over medium-high heat. Add the beef and stir to break up. Season with the salt, pepper, cumin, chili powder, paprika, and cayenne. Stir and cook until deep brown in color, 10-15 minutes.",
+        "Add the onion, bell pepper, garlic, chipotles, and a pinch of salt. Cook until the vegetables are softened, about 10 minutes.",
+        "Add the tomato paste and cook until it darkens, becomes aromatic, and starts sticking to the bottom of the pan, 10 minutes.",
+        "Add the chopped tomatoes, beef broth, black beans, and kidney beans. Stir to incorporate, then bring to a boil. Cover, reduce the heat to low, and simmer for at least 30 minutes or up to 2 hours.",
+        "Ladle the chili over the fries and top with cheddar cheese, sour cream, and green onions.",
+        "Enjoy!"
+    ]
+}

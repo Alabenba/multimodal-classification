@@ -1,0 +1,30 @@
+{
+    "id": "french-onion-burger",
+    "link": "https://tasty.co/recipe/french-onion-burger",
+    "name": "French Onion Burger Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ed2bf9cee8344e719d45cd5682da3367/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg",
+    "description": "Here's what you need: ground beef, salt, pepper, oil, hamburger bun, comt\u00e9 cheese, caramelized onion, fresh arugula, mustard",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "French",
+    "recipeIngredient": [
+        "1 pound ground beef, 80% lean",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "1 tablespoon oil",
+        "3 hamburger buns",
+        "3 ounces comt\u00e9 cheese, sliced",
+        "1 cup caramelized onions",
+        "1 cup arugula",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together the patty ingredients until evenly combined.",
+        "Form the beef into a round patty.",
+        "Repeat with the remaining beef.",
+        "Heat oil in a pan over medium heat.",
+        "Cook the burgers for 3 minutes on the first side, flip, and place the slice of comt\u00e9 on top.",
+        "Cook for 6 more minutes.",
+        "Assemble the burgers on the buns with caramelized onions and arugula.",
+        "Enjoy!"
+    ]
+}

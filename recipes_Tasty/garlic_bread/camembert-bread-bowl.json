@@ -1,0 +1,23 @@
+{
+    "id": "camembert-bread-bowl",
+    "link": "https://tasty.co/recipe/camembert-bread-bowl",
+    "name": "Camembert Bread Bowl Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/bc1e5786c62b40488ae775f245756d6f/Bread_Bowl_Still_3.jpg",
+    "description": "Here's what you need: camembert cheese, garlic paste, butter, bread",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "1 camembert",
+        "1 tablespoon garlic paste",
+        "2 tablespoons butter",
+        "1 circular bread loaf"
+    ],
+    "recipeInstructionSteps": [
+        "Cut off the top of the bread loaf, and scoop out a hole large enough to fit the camembert.",
+        "Microwave butter and garlic to create the garlic butter.",
+        "Butter the inside of the bread bowl and lid with the garlic butter.",
+        "Cut the top off of the camembert and place in bowl. Bake for 15 minutes at 180\u00b0C (350\u00b0F).",
+        "Serve with the loaf innards.",
+        "Enjoy!"
+    ]
+}

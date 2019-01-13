@@ -1,0 +1,31 @@
+{
+    "id": "spicy-slow-cooker-bbq",
+    "link": "https://tasty.co/recipe/spicy-slow-cooker-bbq",
+    "name": "Spicy Slow Cooker BBQ Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/cc08d256babe46c286bc9aee9cb8e4c1/BFV13828_SpicySlowCookerBBQ-ThumbTextless1080.jpg",
+    "description": "Here's what you need: ketchup, yellow mustard, apricot preserve, chipotle pepper, garlic, ginger, worcestershire sauce, apple cider vinegar, salt, ground black pepper, pork shoulder, sausage link, baby back ribs",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 cup ketchup",
+        "\u00bc cup yellow mustard",
+        "\u2153 cup apricot preserves",
+        "\u00bd cup chipotle peppers, canned and diced",
+        "6 cloves garlic, diced",
+        "1 tablespoon ginger, diced",
+        "1 tablespoon Worcestershire sauce",
+        "2 tablespoon apple cider vinegar",
+        "1 teaspoon salt",
+        "\u00bd teaspoon ground black pepper",
+        "2 pounds pork shoulder, or butt",
+        "1 pound sausage link",
+        "\u00bd pound baby back ribs"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, mix all ingredients for the sweet \u2018n\u2019 spicy sauce.",
+        "In a slow cooker, place all protein and pour sauce over until evenly coated.",
+        "On high, cook for 4 hours, or on low for 8 hours.",
+        "Portion any meat with a side of veggies and the spicy sauce.",
+        "Enjoy!"
+    ]
+}

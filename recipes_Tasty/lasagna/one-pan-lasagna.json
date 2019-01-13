@@ -1,0 +1,35 @@
+{
+    "id": "one-pan-lasagna",
+    "link": "https://tasty.co/recipe/one-pan-lasagna",
+    "name": "One-pan Lasagna Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5b435429c1864149af15e80376cffe41/bfv7338_Skillet_Lasagna-FB1080.jpg",
+    "description": "Here's what you need: canola oil, ground beef, kosher salt, ground black pepper, garlic, medium onion, marinara sauce, lasagna sheet, ricotta cheese, mozzarella cheese, fresh basil",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 tablespoon canola oil",
+        "1 pound ground beef",
+        "1 teaspoon kosher salt",
+        "1 teaspoon freshly ground black pepper",
+        "2 garlic cloves, finely chopped",
+        "1 medium onion, chopped",
+        "2 cups marinara sauce, divided",
+        "6-7 oven-ready lasagna sheets",
+        "1 cup ricotta cheese",
+        "1 cup mozzarella cheese",
+        "2 tablespoons basil, chopped"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0 F (180\u00b0C).",
+        "Heat the oil in a cast-iron skillet over high heat.",
+        "Cook the beef, salt, and pepper until the moisture has evaporated and the beef is starting to brown.",
+        "Add the garlic and onion and cook until onions are starting to become translucent.",
+        "Add one cup (260 g) of the marinara sauce and cook until the sauce has reduced to a paste.",
+        "Using a large spoon or a spatula, push some of the beef mixture toward the side of the pan, creating a gap that allows you to slide lasagna sheets underneath the beef. Break about two lasagna sheets in order to fill in the cracks.",
+        "Top the beef mixture with the rest of the lasagna sheets. Spread the rest of the marinara sauce on top of the sheets. Dollop the ricotta on top of the sauce and spread evenly.",
+        "Sprinkle the mozzarella cheese over the ricotta, and top with the basil.",
+        "Bake for 25 minutes until cheese is bubbly and golden brown.",
+        "Cool, slice, then serve.",
+        "Enjoy!"
+    ]
+}

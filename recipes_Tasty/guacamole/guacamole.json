@@ -1,0 +1,23 @@
+{
+    "id": "guacamole",
+    "link": "https://tasty.co/recipe/guacamole",
+    "name": "Guacamole Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/17ee632c119f45e19860505f6a651dbd/FB_FINAL.jpg",
+    "description": "Here's what you need: avocado, small red onion, jalape\u00f1o, fresh cilantro, lime juice, kosher salt, freshly ground black pepper",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "4 avocados, halved, pitted, and diced",
+        "\u00bc small red onion, finely chopped",
+        "\u00bd jalape\u00f1o, seeded and finely chopped",
+        "\u00bc cup finely chopped cilantro",
+        "2 tablespoons lime juice",
+        "Kosher salt, to taste",
+        "Freshly ground pepper, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, mash the avocados until desired consistency is reached.",
+        "Add the onion, jalape\u00f1o, cilantro, and lime juice, and season with salt and pepper. Stir to combine.",
+        "Enjoy!"
+    ]
+}

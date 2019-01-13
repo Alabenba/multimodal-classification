@@ -1,0 +1,28 @@
+{
+    "id": "mini-peanut-butter-cheesecakes",
+    "link": "https://tasty.co/recipe/mini-peanut-butter-cheesecakes",
+    "name": "Mini Peanut Butter Cheesecakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/b792919fc298404e8458c7a77d6e6bdf/BFV5132_MiniPeanutButterCheesecakes-thumbnail.jpg",
+    "description": "Here's what you need: ritz crackers, cream cheese, sugar, peanut butter, sour cream, vanilla, egg",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Ritz crackers",
+        "16 ounces cream cheese",
+        "1/2 cup sugar",
+        "1/2 cup peanut butter",
+        "1/2 cup sour cream",
+        "1 teaspoon vanilla",
+        "2 eggs"
+    ],
+    "recipeInstructionSteps": [
+        "Form peanut butter sandwiches with Ritz crackers.",
+        "Place them in the bottom of each cup of a muffin tin.",
+        "In a large bowl beat together cream cheese and sugar.",
+        "Then add peanut butter, sour cream, vanilla, 2 eggs, and beat again.",
+        "Pour mixture over each peanut butter sandwich until each cup is \u00be full.",
+        "Top with crushed Ritz cracker.",
+        "Bake for 22 minutes at 275\u00b0F (135\u00b0C). Let cool completely and then refrigerate 2 hours.",
+        "Enjoy!"
+    ]
+}

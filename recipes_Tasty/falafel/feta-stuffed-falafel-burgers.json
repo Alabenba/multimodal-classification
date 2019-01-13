@@ -1,0 +1,33 @@
+{
+    "id": "feta-stuffed-falafel-burgers",
+    "link": "https://tasty.co/recipe/feta-stuffed-falafel-burgers",
+    "name": "Feta-stuffed Falafel Burgers Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/97de44174496441c8dff073c2ddd6f83/BFV13316_Feta-StuffedFalafelBurgers-ThumbTextless1080.jpg",
+    "description": "Here's what you need: chickpeas, garlic, red onion, ground cumin, harissa paste, plain flour, fresh parsley, fresh coriander, feta cheese, brioche  bun, gem lettuce, tomato, salsa, coriander",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "400 grams skinned chickpeas",
+        "2 garlic cloves, chopped",
+        "1 red onion, roughly chopped",
+        "1 teaspoon ground cumin",
+        "1 teaspoon harissa paste",
+        "2 tablespoons plain flour",
+        "Handful fresh parsley",
+        "Handful fresh coriander",
+        "50 grams feta cheese",
+        "Brioche bun",
+        "Gem lettuce",
+        "Tomato slices",
+        "Salsa",
+        "Coriander"
+    ],
+    "recipeInstructionSteps": [
+        "Add all the burger ingredients, except for the feta, to a blender and blend until smooth. (Make sure your chickpeas are very dry first!)",
+        "Divide mixture into four balls, then make an indent in the middle.",
+        "Place a small block of feta in each indent and roll up again until the feta is completely covered.",
+        "Fry in sunflower oil for 5 minutes until brown on each side.",
+        "Add to a burger bun with lettuce, tomato, salsa, and coriander.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "grilled-salmon",
+    "link": "https://tasty.co/recipe/grilled-salmon",
+    "name": "Grilled Salmon Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/a85715addab441fb9af4c0de2c14352b/seafoodfinalFB.jpg",
+    "description": "Here's what you need: skin-on salmon, fine sea salt, freshly ground black pepper, lemon",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Seafood",
+    "recipeIngredient": [
+        "4 8-ounce salmon fillets, skin-on",
+        "Fine sea salt",
+        "Freshly ground black pepper",
+        "2 lemons, halved crosswise"
+    ],
+    "recipeInstructionSteps": [
+        "Heat a grill to medium-high heat.",
+        "Season the salmon with salt and pepper.",
+        "Brush the grill grates with oil and place the salmon, skin side down on the oiled grates.",
+        "Grill until lightly browned, 3-5 minutes, then gently flip and continue to cook until just opaque in center.",
+        "Add the lemon halves to the grill, cut side down and grill until lightly charred, about 2 minutes.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "id": "banana-bread-ice-cream-cake",
+    "link": "https://tasty.co/recipe/banana-bread-ice-cream-cake",
+    "name": "Banana Bread Ice Cream Cake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/55f4645feac949a5b2e39797c0803dba/Thumb.jpg",
+    "description": "Here's what you need: banana, butter, egg, sugar, vanilla, flour, baking soda, salt, vanilla ice cream, chocolate ice cream",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 bananas",
+        "\u00bc cup butter, melted",
+        "1 egg",
+        "\u00bd cup sugar",
+        "1 teaspoon vanilla",
+        "1 \u00bd cups flour",
+        "1 teaspoon baking soda",
+        "Pinch of salt",
+        "2 cups vanilla Ice cream, softened",
+        "2 cups chocolate ice cream, softened"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven to 350\u00b0F (180\u00b0C).",
+        "In a bowl, mash the bananas with a fork.",
+        "Add in the melted butter, egg, sugar, and vanilla  and mix until combined.",
+        "Add in the flour, baking soda, and salt and mix again until just combined.",
+        "Pour the batter into a loaf pan.",
+        "Bake for 50 minutes, or until cooked through.",
+        "Once cool, take the banana bread out of the pan and slice into three horizontal layers, widthwise.",
+        "Line the loaf pan with plastic wrap and place the bottom layer of bread in the pan.",
+        "Top the bread with the softened vanilla ice cream and spread evenly with a spoon.",
+        "Place the middle layer of bread on top of the vanilla ice cream.",
+        "Top the middle layer with chocolate ice cream and spread evenly with a spoon.",
+        "Place the top of the banana bread on top and cover with the plastic wrap.",
+        "Freeze for one hour or or overnight.",
+        "Slice and serve.",
+        "Enjoy!"
+    ]
+}

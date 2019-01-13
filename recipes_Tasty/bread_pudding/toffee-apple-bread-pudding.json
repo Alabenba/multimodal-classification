@@ -1,0 +1,31 @@
+{
+    "id": "toffee-apple-bread-pudding",
+    "link": "https://tasty.co/recipe/toffee-apple-bread-pudding",
+    "name": "Toffee Apple Bread Pudding Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2fda99b03ba349cfa2ef8cd4bf124cb2/BFV13327_ToffeeAppleBreadPudding-ThumbTextless1080.jpg",
+    "description": "Here's what you need: vanilla ice cream, brown sugar, butter, apple, bread, double cream, milk, egg",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "Vanilla ice cream, to serve",
+        "100 grams brown sugar",
+        "100 grams butter",
+        "6 apples, sliced",
+        "1/2 loaf bread (400 grams), cut into chunks",
+        "200 millilitres double cream",
+        "200 millilitres milk",
+        "2 eggs"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the oven at 180\u00b0C (350\u02daF).",
+        "Prepare the toffee by gently heating the brown sugar and butter together over a low heat in a saucepan.",
+        "Once bubbling, stir in the apple slices for a few minutes and take off the heat just as they start to soften.",
+        "Lay out half of the apple slices in a oven-proof dish and then throw the bread chunks on top.",
+        "Lay the rest of the apple slices on top and set the remaining toffee mixture aside.",
+        "In a jug, mix together the cream, milk, and eggs. Pour all over the apple slices and bread.",
+        "Bake for 1 hour.",
+        "Reheat the toffee mixture and then pour over the bread pudding.",
+        "Serve with vanilla ice cream.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "lasagna-soup",
+    "link": "https://tasty.co/recipe/lasagna-soup",
+    "name": "Lasagna Soup Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7041188b99254834baa326731d068eb0/One-PotVeganDinnersFBFinal.jpg",
+    "description": "Here's what you need: olive oil, onion, garlic, tomato paste, dried basil, dried oregano, crushed tomato, vegetable broth, green lentil, lasagna noodle, spinach, fresh basil",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 tablespoon olive oil",
+        "1 onion, diced",
+        "3 cloves garlic, minced",
+        "2 tablespoons tomato paste",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "28 ounces crushed tomatoes",
+        "6 cups vegetable broth",
+        "\u2153 cup green lentils, rinsed",
+        "8 ounces lasagna noodles, uncooked",
+        "3 cups spinach",
+        "Chiffonade basil, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a large pot, heat the olive oil over medium heat. Once the oil begins to shimmer, add the onion and cook for 3-4 minutes, until semi-translucent.",
+        "Add the garlic, tomato paste, basil, and oregano, and cook for 2-3 more minutes, or until the onions are translucent and herbs are fragrant.",
+        "Add the crushed tomatoes, vegetable broth, and lentils, and bring to a boil. Increase heat to medium-high and cook for 10 minutes or until lentils are halfway tender.",
+        "Break apart the lasagna noodles into about 2-inch-long (5-cm) pieces and add to the pot. Let the soup cook for another 10-15 minutes, or until the pasta is al dente and the lentils are tender.",
+        "Stir in the spinach and let wilt, then serve immediately.",
+        "Enjoy!"
+    ]
+}

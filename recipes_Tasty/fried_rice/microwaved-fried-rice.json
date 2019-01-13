@@ -1,0 +1,29 @@
+{
+    "id": "microwaved-fried-rice",
+    "link": "https://tasty.co/recipe/microwaved-fried-rice",
+    "name": "Microwaved \u201cFried\u201d Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/24c1158e71bd420f9ff43e24dd1c3125/BFV30901_HealthierDorm-FriendlyMeals_FB.jpg",
+    "description": "Here's what you need: rice, water, soy sauce, sesame oil, frozen vegetable, egg, salt, scallion",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd cup rice",
+        "2 cups water",
+        "1 tablespoon soy sauce",
+        "1 teaspoon sesame oil",
+        "\u00bd cup frozen vegetables",
+        "2 eggs",
+        "Salt, to taste",
+        "Scallions, chopped, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "In a bowl, combine the rice, water, sesame oil, and soy sauce.",
+        "Stir, then microwave, covered, for approximately 6-8 minutes until the rice is fully cooked.",
+        "Mix the frozen vegetables into the rice.",
+        "In a microwaveable mug, beat the eggs.",
+        "Microwave the eggs and the rice again for approximately 1-2 minutes, until the eggs are fully cooked.",
+        "Break up the egg into small bits, then mix it in with the rice.",
+        "Top with scallions, and serve.",
+        "Enjoy!"
+    ]
+}

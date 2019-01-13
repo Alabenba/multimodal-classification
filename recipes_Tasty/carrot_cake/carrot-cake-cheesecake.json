@@ -1,0 +1,38 @@
+{
+    "id": "carrot-cake-cheesecake",
+    "link": "https://tasty.co/recipe/carrot-cake-cheesecake",
+    "name": "Carrot Cake Cheesecake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1a4306e0a4d2433bbcf0d984c67f4d2f/Thumb1.jpg",
+    "description": "Here's what you need: carrot, all-purpose flour, baking powder, salt, ground cinnamon, ground nutmeg, canola oil, powdered sugar, light brown sugar, large egg, vanilla extract, cream cheese, powdered sugar, large egg, vanilla extract, sour cream",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 \u00bd cups carrots, shredded (2-3 carrots)",
+        "1 \u00bc cups all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/4 teaspoon salt",
+        "1 teaspoon ground cinnamon",
+        "\u215b teaspoon ground nutmeg",
+        "\u00bd cup canola oil",
+        "\u2154 cup powdered sugar",
+        "\u2153 cup packed light-brown sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "16 ounces cream cheese, softened",
+        "\u2154 cup powdered sugar",
+        "2 large eggs",
+        "1 teaspoon vanilla extract",
+        "\u00bd cup sour cream"
+    ],
+    "recipeInstructionSteps": [
+        "Shred carrots by hand or in a food processor then set aside in a small bowl.",
+        "In a large bowl combine brown and powdered sugars with eggs, whisk until smooth.",
+        "Add oil and mix.",
+        "Add remaining carrot cake ingredients and stir until blended, set aside.",
+        "In a large bowl, whisk cream cheese and powdered sugar until smooth to start the cheesecake.",
+        "Mix in eggs one at a time. Add in remaining ingredients and mix until well blended.",
+        "In a greased 8-inch (20 cm) springform pan, pour \u00be of the carrot cake mixture and smooth it out, followed by \u00bd of the cheesecake mixture, then repeat with remaining mixtures.",
+        "Bake in for 45 minutes at 180\u00b0C (350\u00b0F). Remove from oven and let cool to room temperature, about 1 hour. Refrigerate for 4 hours, or overnight.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "id": "double-decker-potato-tacos",
+    "link": "https://tasty.co/recipe/double-decker-potato-tacos",
+    "name": "Double-Decker Potato Tacos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/7d5becf29f764eac8160f213260f0ea2/PotatoTacos-FinalFB.jpg",
+    "description": "Here's what you need: fingerling potato, butter, garlic, heavy cream, salt, white pepper, flour tortilla, pepper jack cheese, fried corn taco shell, lime juice, pico de gallo",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 pounds fingerling or small Yukon Gold Potatoes, cooked with skin on",
+        "\u00be cup (1\u00bd sticks) butter, melted",
+        "8 cloves garlic, finely chopped",
+        "1 cup heavy cream, warmed",
+        "Salt",
+        "White pepper",
+        "16 6-inch flour tortillas",
+        "Shredded pepper jack cheese",
+        "16 fried corn taco shells",
+        "Lime juice",
+        "Carrot Pico de Gallo"
+    ],
+    "recipeInstructionSteps": [
+        "Cover the potatoes with cold water and simmer until tender, about 20\u201325 minutes.",
+        "Warm the chopped garlic in the butter over low heat until softened but not browned, about 10 minutes. Add the cream and bring to a boil.",
+        "Coarsely mash the potato mixture and fold in the warm garlic mixture while the potatoes are still warm.",
+        "Season to taste with salt and white pepper. Keep warm.",
+        "Make the double-decker taco shell: on a griddle over low heat, sprinkle a tortilla with about 2 tablespoons shredded pepper jack cheese. Once the cheese melts, place the fried corn taco shell on the cheesy tortilla and press the tortillas together to create the double decker taco.",
+        "Mix the warm potatoes with lime juice and place in the double decker taco. Top with 2\u20133 tablespoons of Carrot Pico de Gallo.",
+        "Enjoy!"
+    ]
+}

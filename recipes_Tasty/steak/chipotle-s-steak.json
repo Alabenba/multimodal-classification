@@ -1,0 +1,25 @@
+{
+    "id": "chipotle-s-steak",
+    "link": "https://tasty.co/recipe/chipotle-s-steak",
+    "name": "Chipotle&#x27;s Steak Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e313a417aa564ba5b2df50866c062671/FB_FINAL.jpg",
+    "description": "Here's what you need: top sirloin steak, kosher salt, freshly ground black pepper, chipotle pepper in adobo sauce, vegetable oil",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 \u00bd pounds top sirloin steak, \u00bd-inch thick (about 2 small steaks or 1 large steak)",
+        "Kosher salt, to taste",
+        "Freshly ground black pepper, to taste",
+        "2 canned chipotles in adobo, finely chopped",
+        "1 tablespoon vegetable oil"
+    ],
+    "recipeInstructionSteps": [
+        "On a cutting board, season the steak with salt and pepper on both sides.",
+        "Place the steak in a zip-top bag and add the chipotle peppers, then toss to coat.",
+        "Refrigerate for at least 2 hours, up to overnight.",
+        "Heat the oil in a large skillet over medium-high heat.",
+        "Add the steak to the pan and cook for 5 minutes per side.",
+        "Remove the steak from the pan and rest on a cutting board for 10 minutes. Cut into bite-size pieces.",
+        "Enjoy!"
+    ]
+}

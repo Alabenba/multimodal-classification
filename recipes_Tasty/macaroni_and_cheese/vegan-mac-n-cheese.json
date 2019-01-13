@@ -1,0 +1,29 @@
+{
+    "id": "vegan-mac-n-cheese",
+    "link": "https://tasty.co/recipe/vegan-mac-n-cheese",
+    "name": "Vegan Mac \u2018n\u2019 Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/d9fd07cb667d47288c03a873c76a3445/FB_1.jpg",
+    "description": "Here's what you need: yellow potato, medium carrot, medium onion, cashews, garlic powder, onion powder, salt, nutritional yeast, elbow macaroni, paprika",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 yellow potatoes, peeled and cubed",
+        "1 medium carrot, peeled and cut into 1-inch pieces",
+        "1 medium onion, peeled and quartered",
+        "\u00bd cup cashews",
+        "1 teaspoon garlic powder",
+        "1 teaspoon onion powder",
+        "1 teaspoon salt",
+        "2 tablespoon nutritional yeast",
+        "n/a",
+        "Paprika"
+    ],
+    "recipeInstructionSteps": [
+        "Peel and cube the potatoes. Peel and chop the carrot. Peel and quarter the onion.",
+        "Add the vegetables to a large pot or Dutch oven of boiling salted water. Cover and simmer for 10 minutes, until the potatoes are fork-tender. Remove the boiled vegetables and save about 1 \u00bd cups of the cooking water.",
+        "Add the cashews, boiled vegetables, garlic powder, onion powder,  salt, reserved cooking water, and nutritional yeast to a blender. Blend until smooth.",
+        "Pour the sauce over the macaroni and stir to coat. ",
+        "Sprinkle with paprika and serve immediately.",
+        "Enjoy!"
+    ]
+}

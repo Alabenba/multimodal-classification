@@ -1,0 +1,30 @@
+{
+    "id": "bacon-cheddar-loaded-cheeseburger",
+    "link": "https://tasty.co/recipe/bacon-cheddar-loaded-cheeseburger",
+    "name": "Bacon Cheddar Loaded Cheeseburger  Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/108100.jpg",
+    "description": "Here's what you need: bacon, cream cheese, green onion, shredded sharp cheddar cheese, ground beef, salt, pepper, cheddar cheese, hamburger bun",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "5 bacon strips",
+        "4 ounces cream cheese, at room temperature",
+        "\u00bc cup green onions, thinly sliced",
+        "1 cup shredded sharp cheddar cheese",
+        "1 pound ground beef",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "4 slices cheddar cheese",
+        "4 hamburger buns, toasted"
+    ],
+    "recipeInstructionSteps": [
+        "In a pan over medium-high heat, add the bacon, and cook until crispy. Transfer to a cutting board and roughly chop.",
+        "In a bowl, add the bacon, cream cheese, green onions, and shredded cheddar. Mix well.",
+        "Divide the ground beef into four even portions and shape into balls. Form a well into the center of each, large enough for the cheese mixture.",
+        "Place a quarter of the cheese mixture into the center of each ball, and enclose inside the ground beef. Gently press each ball into a patty shape, and season both sides generously with salt and pepper.",
+        "Heat a cast-iron pan over medium-high heat. Once hot, add the burgers and cook for 4-5 minutes on one side.",
+        "Flip the burgers, and cook for 2 minutes. Add a slice of cheese on each burger and cook for an additional 2 minutes, until the burger is cooked through and the cheese is melted.",
+        "Remove burgers from pan, and place on top a toasted burger bun. Top with condiments of your choice.",
+        "Enjoy!"
+    ]
+}

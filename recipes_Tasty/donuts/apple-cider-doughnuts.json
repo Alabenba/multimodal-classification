@@ -1,0 +1,39 @@
+{
+    "id": "apple-cider-doughnuts",
+    "link": "https://tasty.co/recipe/apple-cider-doughnuts",
+    "name": "Apple Cider Doughnuts Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/87e93f6391744454bf373a7196de207f/BFV13800_AppleCiderDonuts-ThumbTextless1080.jpg",
+    "description": "Here's what you need: apple cider, butter, granulated sugar, light brown sugar, large egg, vanilla extract, sour cream, flour, salt, baking powder, cinnamon, nutmeg, canola oil, cinnamon sugar",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 \u00bd cups apple cider, (reduced down to \u00bd cup)",
+        "\u00bc cup butter",
+        "1 cup granulated sugar",
+        "\u00bd cup light brown sugar",
+        "2 large eggs",
+        "1 tablespoon vanilla extract",
+        "\u00be cup sour cream",
+        "4 cups flour",
+        "1 \u00bd teaspoons salt",
+        "2 teaspoons baking powder",
+        "2 teaspoons cinnamon",
+        "1 teaspoon nutmeg",
+        "Canola oil for frying",
+        "Cinnamon sugar for coating"
+    ],
+    "recipeInstructionSteps": [
+        "Bring apple cider to a boil over medium-high heat. Reduce down to \u00bd cup (120 ml) (takes about 20-25 minutes). ",
+        "Pour into a large glass measuring cup.",
+        "Add butter to hot cider and stir to melt. Set aside, cool.",
+        "In a large bowl, whisk together eggs with white and brown sugar. Add cooled cider/butter mixture, sour cream, and vanilla extract.",
+        "In a large bowl or in a fine mesh strainer set over the wet ingredients, sift together flour, baking powder, salt, cinnamon, and nutmeg.",
+        "Using a wooden spoon, mix dry ingredients into the wet until just incorporated. ",
+        "Cover and chill for 1 hour.",
+        "On a very well-floured surface, roll out the cooled dough to about \u00be-inch (2 cm) thickness and cut into donut shapes using pastry cutters or a mason jar/cup and a bottle cap/shot glass. Chill cut donuts 10 minutes more if necessary.",
+        "Heat oil to 350\u02daF (180\u02daC).",
+        "Fry donuts, 3-4 at a time, flipping occasionally until golden on both sides.",
+        "Remove to a paper towel lined baking sheet to drain. Roll in cinnamon sugar while still warm.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "id": "chicken-caesar-pasta-salad",
+    "link": "https://tasty.co/recipe/chicken-caesar-pasta-salad",
+    "name": "Chicken Caesar Pasta Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/17e772d89ae14f249b09a40be151cc5f/BFV7224_GRILLEDCHICKENCEASARPASTASALAD_THUMBD.jpg",
+    "description": "Here's what you need: farfalle pasta, chicken, olive oil, salt, pepper, romaine lettuce, grape tomatoes, crouton, parmesan cheese, caesar dressing",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "10 oz farfalle pasta (&quot;bow-tie&quot; pasta)",
+        "3 chicken breasts",
+        "3 Tbsp. olive oil",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "2 heads romaine lettuce, cut in 1-2 inch pieces",
+        "1 cup grape Tomatoes, cut in half",
+        "1 cup croutons",
+        "Parmesan, to taste",
+        "3/4 cup caesar salad dressing"
+    ],
+    "recipeInstructionSteps": [
+        "Boil water, add the pasta, and cook according to package instructions. Drain water, and let the pasta chill.",
+        "Meanwhile, season each of the chicken breasts with 1 Tbsp. olive oil, salt, and pepper.",
+        "Grill for six to eight minutes on each side. Cut the chicken into bite-size pieces.",
+        "In a large bowl combine pasta, romaine lettuce, tomatoes, chicken, croutons, parmesan, and Caesar dressing. Toss gently.",
+        "Enjoy!"
+    ]
+}

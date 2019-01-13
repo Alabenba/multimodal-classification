@@ -1,0 +1,32 @@
+{
+    "id": "sweet-potato-gnocchi",
+    "link": "https://tasty.co/recipe/sweet-potato-gnocchi",
+    "name": "Sweet Potato Gnocchi Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/125259.jpg",
+    "description": "Here's what you need: sweet potato, vegetarian parmesan cheese, egg, flour, butter, fresh sage",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 sweet potato",
+        "\u00bd cup grated vegetarian parmesan cheese",
+        "1 egg",
+        "2 cups flour, plus more to dust",
+        "2 tablespoons butter",
+        "2-3 leaves of sage"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u00ba F (200\u00ba C).",
+        "Prick the sweet potato with a fork several times and bake for 40 minutes (or microwave for 5 minutes).",
+        "Allow potato to cool at least 5 minutes before peeling skin off.",
+        "In a large bowl, mash potato with masher or fork until smooth.",
+        "Add parmesan cheese, egg, and flour. Knead the dough until it is firm and no longer sticky, adding flour as needed, forming a ball with the dough.",
+        "Divide the dough into four equal parts. Take one part and roll it out into a long rope, about a 1-inch (2 \u00bd cm) wide.",
+        "Slice into \u00bd-inch (1 cm) rectangles and set aside.",
+        "Using an overturned fork, slide each gnocchi over the fork prongs so they become serrated in a corkscrew shape.",
+        "Bring a large pot of water to a boil and add the gnocchi. Boil until the gnocchi float to the top, about 1-2  minutes. Drain in a colander.",
+        "In a pan over medium heat, melt butter and add sage. Simmer for 1 minute without letting butter burn.",
+        "Add gnocchi to pan with the sage and butter, tossing until lightly golden.",
+        "Top with more Parmesan cheese.",
+        "Enjoy!"
+    ]
+}

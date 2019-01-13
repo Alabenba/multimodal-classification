@@ -1,0 +1,33 @@
+{
+    "id": "mini-gingerbread-cheesecakes",
+    "link": "https://tasty.co/recipe/mini-gingerbread-cheesecakes",
+    "name": "Mini Gingerbread Cheesecakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/9309f647ac26461c9466785eb67183a8/BFV15462_Mini_Gingerbread_Cheesecakes-FB_Thumb.jpg",
+    "description": "Here's what you need: cream cheese, sour cream, sugar, vanilla, egg, molasses, ground ginger, cinnamon, nutmeg, gingersnaps, cupcake liner",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "16 ounces (2 packages) cream cheese, softened",
+        "\u00bd cup sour cream",
+        "\u2153 cup sugar",
+        "1 teaspoon vanilla",
+        "2 eggs",
+        "2 tablespoons molasses",
+        "\u00bd teaspoon ground ginger",
+        "\u00bd teaspoon cinnamon",
+        "\u00bd teaspoon nutmeg",
+        "Gingersnaps",
+        "Cupcake liners"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 300\u02daF (150\u02daC).",
+        "Place gingersnaps in bottom of each liner, then set aside.",
+        "Beat cream cheese, sugar, and vanilla until fluffy.",
+        "Add eggs one at a time.",
+        "Add in the sour cream, molasses, and spices.",
+        "Pour mixture over gingersnaps.",
+        "Bake for 20 minutes.",
+        "Sprinkle with crushed gingersnaps.",
+        "Enjoy!"
+    ]
+}

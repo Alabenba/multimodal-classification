@@ -1,0 +1,22 @@
+{
+    "id": "pizza-bread-boat",
+    "link": "https://tasty.co/recipe/pizza-bread-boat",
+    "name": "Pizza Bread Boat Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/7a8e5e06b873495ca7e95821700ba0dd/.jpg",
+    "description": "Here's what you need: baguette, mozzarella cheese, pizza sauce, presliced pepperoni",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 Baguette",
+        "8 oz Mozzarella Cheese",
+        "1/2 (14 oz) jar of pizza sauce",
+        "10 - 15 presliced pepperoni"
+    ],
+    "recipeInstructionSteps": [
+        "Cut a long rectangle through the top of the baguette and partially unstuff the baguette.",
+        "Line the bottom of the inside with Mozzarella cheese, spoon pizza sauce on top of the cheese, add another layer of cheese, then lay the pepperoni slices on top and tuck the edges inside the bread.",
+        "Bake for 25 minutes at 350\u02daF (175\u02daC).",
+        "Cut and serve while still warm.",
+        "Enjoy!"
+    ]
+}

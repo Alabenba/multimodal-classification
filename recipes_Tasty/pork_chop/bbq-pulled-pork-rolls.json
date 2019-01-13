@@ -1,0 +1,42 @@
+{
+    "id": "bbq-pulled-pork-rolls",
+    "link": "https://tasty.co/recipe/bbq-pulled-pork-rolls",
+    "name": "BBQ Pulled Pork Rolls Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/114821.jpg",
+    "description": "Here's what you need: ketchup, molasses, apple cider vinegar, yellow mustard, worcestershire sauce, garlic, pepper, boneless pork loin chop, salt, pepper, paprika, onion, pizza dough, fresh chives",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "\u00bd cup ketchup",
+        "\u00bd cup molasses",
+        "\u00bc cup apple cider vinegar",
+        "\u00bc cup yellow mustard",
+        "2 tablespoons Worcestershire sauce",
+        "1 clove garlic, minced",
+        "\u00bc teaspoon pepper",
+        "2 pounds boneless pork loin chops",
+        "2 teaspoons salt",
+        "1 teaspoon pepper",
+        "1 tablespoon paprika",
+        "\u00bd onion, sliced",
+        "1 pound pizza dough",
+        "Chives, chopped, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Add the ketchup, molasses, apple cider vinegar, yellow mustard, Worcestershire sauce, garlic, and pepper in a saucepan over medium heat, whisking to combine.",
+        "Reduce heat and simmer for 15 minutes, stirring frequently. For thicker sauce, cook for additional 5 minutes",
+        "Cool for 20 minutes. Store in an airtight container in refrigerator for up to 1 week.",
+        "Add pork, salt, pepper, paprika, onion and 1 cup (290g) of prepared bbq sauce to a slow cooker.",
+        "Cover and cook on high for 5-6 hours.",
+        "Preheat oven to 375\u00b0F (180\u00b0C).",
+        "Using a rolling pin, roll the dough into a 16x12-inch (40x30-cm) rectangle, about \u00bc-inch (6 mm) thick on a well-floured surface.",
+        "Shred pork using two forks.",
+        "Distribute pulled pork over the dough, leaving a 1-inch (2 cm) open strip on the short side facing you.",
+        "Roll the dough into a log shape, pinching the seams to seal it.",
+        "With a serrated knife, evenly cut roll into 6-8 slices. Arrange slices in a greased cake pan.",
+        "Bake for 20-25 minutes.",
+        "Cool for 10-15 minutes.",
+        "Brush more BBQ sauce on rolls and top with chives, if desired.",
+        "Enjoy!"
+    ]
+}

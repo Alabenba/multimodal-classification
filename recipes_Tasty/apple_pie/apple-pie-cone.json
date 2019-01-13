@@ -1,0 +1,31 @@
+{
+    "id": "apple-pie-cone",
+    "link": "https://tasty.co/recipe/apple-pie-cone",
+    "name": "Apple Pie Cone Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/572ae8a24ae94d87bfbad50861e98525/piecones-FB_final.jpg",
+    "description": "Here's what you need: pie crust, apple, sugar, cinnamon, cornstarch, water, lemon juice, vanilla ice cream, caramel sauce",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 sheet pie crust",
+        "1 cup apples, chopped",
+        "\u00bc cup sugar",
+        "\u00bc teaspoon cinnamon",
+        "1 tablespoon cornstarch",
+        "\u00bc cup water",
+        "\u00bd tablespoon lemon juice",
+        "Vanilla ice cream",
+        "Caramel sauce"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 425\u00b0F (220\u00b0C).",
+        "Roll out aluminum foil into a cone. Make 4 cones for 1 pie sheet.",
+        "Cut pie sheet into quarters. Place cone at one end of the sheet and roll dough onto the cone. Using a fork crimp the ends of the pie dough.",
+        "Bake 5-10 minutes until the dough is set. Let it cool before pulling out the aluminum foil.",
+        "In a medium bowl, combine all ingredients and mix.",
+        "Place pie cone in a mug for stability and spoon in the fruit mixture.",
+        "Turn oven down to 400\u00b0F (200\u00b0C) and bake for 15 minutes or until the fruit is soft.",
+        "Top it with ice cream and your favorite topping.",
+        "Enjoy!"
+    ]
+}

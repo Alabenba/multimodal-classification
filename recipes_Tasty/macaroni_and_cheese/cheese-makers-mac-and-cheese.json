@@ -1,0 +1,40 @@
+{
+    "id": "cheese-makers-mac-and-cheese",
+    "link": "https://tasty.co/recipe/cheese-makers-mac-and-cheese",
+    "name": "Cheese Maker\u2019s Mac And Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/128093.jpg",
+    "description": "Here's what you need: unsalted butter, flour, milk, water, elbow macaroni, cream cheese, shredded sharp white cheddar cheese, shredded fontina cheese, shredded havarti cheese, smoked gouda cheese, cayenne pepper, salt, pepper, garlic, ritz cracker, fresh basil leaf",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "7 tablespoons unsalted butter",
+        "\u00bc cup flour",
+        "3 cups milk",
+        "2 cups water",
+        "1 pound elbow macaroni",
+        "4 ounces cream cheese, cubed",
+        "1\u00bc cups shredded sharp white cheddar cheese",
+        "1\u00bc cups shredded fontina cheese",
+        "1 cup shredded Havarti cheese",
+        "1 cup shredded smoked Gouda cheese",
+        "\u00bc teaspoon cayenne",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 clove garlic, minced",
+        "1\u00bd cups crushed Ritz Crackers",
+        "Fresh basil leaves, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u02daF (180\u02daC).",
+        "In a large pan, melt 4 tablespoons of butter over medium heat. Whisk in the flour, reducing heat to medium-low, cooking for 1 minute.",
+        "Gradually whisk in the milk and water. Add the macaroni and cook over medium-high heat until boiling. Stir frequently for 8 to 10 minutes, until the pasta is al dente.",
+        "Remove the pan from the heat and add the cream cheese, cheddar cheese, fontina, Gouda, and cayenne, and season with salt and pepper. Stir until fully combined.",
+        "Transfer the mixture to a grease baking dish.",
+        "In a medium skillet, melt the remaining 3 tablespoons of butter over medium-low heat. Add the garlic and cook for 30 seconds, stirring frequently.",
+        "Add the crushed crackers and stir to combine. Toast the crumbs until browned, stirring for 3 to 5 minutes. Remove the pan from the heat.",
+        "Sprinkle the toasted crumbs over the macaroni and cheese, and bake for 15 to 20 minutes.",
+        "Remove from the oven and rest for 5 minutes.",
+        "Serve with fresh basil",
+        "Enjoy!"
+    ]
+}

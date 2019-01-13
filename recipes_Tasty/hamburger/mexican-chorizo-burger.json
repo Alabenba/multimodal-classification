@@ -1,0 +1,31 @@
+{
+    "id": "mexican-chorizo-burger",
+    "link": "https://tasty.co/recipe/mexican-chorizo-burger",
+    "name": "Mexican Chorizo Burger Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/d4065efb8b844d93865003befbd8cac2/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg",
+    "description": "Here's what you need: ground beef, salt, chili powder, ground chorizo, oil, hamburger bun, manchego cheese, guacamole, pico de gallo, cotija cheese, sour cream",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "1 pound ground beef, 80% lean",
+        "1 teaspoon salt",
+        "1 tablespoon chili powder",
+        "\u2153 pound ground chorizo",
+        "1 tablespoon oil",
+        "3 hamburger buns",
+        "3 ounces manchego cheese, sliced",
+        "\u00bd cup guacamole",
+        "\u2153 cup pico de gallo",
+        "\u2153 cup cotija cheese",
+        "\u00bc cup sour cream"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together the patty ingredients until combined.",
+        "Form the beef mixture into 3 round patties.",
+        "Heat oil in a pan over medium heat.",
+        "Cook the burgers for 3 minutes on the first side, flip, and place a slice of manchego cheese on top.",
+        "Cook for 6 more minutes until the cheese is melted.",
+        "Assemble the burgers on the buns with guacamole, cotija, pico de gallo, and sour cream.",
+        "Enjoy!"
+    ]
+}

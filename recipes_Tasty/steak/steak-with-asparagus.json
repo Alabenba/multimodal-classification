@@ -1,0 +1,24 @@
+{
+    "id": "steak-with-asparagus",
+    "link": "https://tasty.co/recipe/steak-with-asparagus",
+    "name": "Steak With Asparagus Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/49e881eb6b5e4f0f822832c1c9f28b8f/BFV16190_SurfAndTurfDinnerFor2_FB.jpg",
+    "description": "Here's what you need: boneless strip steaks, salt, pepper, canola oil, asparagus",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 boneless strip steaks or shell steaks, about 1-inch thick",
+        "Salt",
+        "Pepper",
+        "3 tablespoons canola oil",
+        "1 bunch asparagus"
+    ],
+    "recipeInstructionSteps": [
+        "Season the steaks on all sides with the salt and pepper.",
+        "Heat oil in a pan or a skillet over high heat until smoking.",
+        "Sear the steaks for about a minute to a minute and a half on each side, depending on the thickness of your steak for medium-rare. If you would like your steak rarer or more well-done, cook your steak shorter or longer accordingly.",
+        "In the same pan, cook the asparagus with salt and pepper until tender but still slightly crunchy. Remove from heat.",
+        "After the steaks have rested for about 5 minutes, slice, then serve with the asparagus!",
+        "Enjoy!"
+    ]
+}

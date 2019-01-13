@@ -1,0 +1,32 @@
+{
+    "id": "sesame-peanut-noodles",
+    "link": "https://tasty.co/recipe/sesame-peanut-noodles",
+    "name": "Sesame Peanut Noodles Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/5fa106b615ff4cf98d32ba181842f43c/HowToEatVeganOnABudgetFBFinalNEW.jpg",
+    "description": "Here's what you need: peanut butter, low sodium soy sauce, sesame oil, rice vinegar, water, brown sugar, garlic, fresh ginger, spaghetti, shredded carrot, shredded red cabbage, edamame, peanuts, black sesame seeds, scallions",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "\u00bd cup peanut butter",
+        "3 tablespoons low-sodium soy sauce",
+        "2 tablespoons sesame oil",
+        "2 tablespoons rice vinegar",
+        "3 tablespoons water",
+        "2\u00bd teaspoons brown sugar",
+        "1 clove garlic",
+        "\u00bd tablespoon minced fresh ginger",
+        "8 ounces dried spaghetti, cooked according to package instructions",
+        "\u00bd cup shredded carrot",
+        "\u00bd cup shredded red cabbage",
+        "\u00be cup shelled edamame",
+        "Peanuts, for garnish",
+        "Black sesame seeds, for garnish",
+        "Sliced scallions, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "In a blender, combine the peanut butter, soy sauce, sesame oil, rice vinegar, water, brown sugar, garlic, and ginger and blend until smooth.",
+        "In a large bowl, add the spaghetti, carrots, cabbage, and edamame and pour over the peanut sauce. Use tongs to mix well, until sauce is fully incorporated.",
+        "Transfer to bowls and top with peanuts, black sesame seeds, and scallion.",
+        "Enjoy!"
+    ]
+}

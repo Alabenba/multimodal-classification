@@ -1,0 +1,22 @@
+{
+    "id": "blueberry-banana-pancakes",
+    "link": "https://tasty.co/recipe/blueberry-banana-pancakes",
+    "name": "Blueberry Banana Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c6fe300b72304788a9716a06f5b3563f/BFV14028_Banana_Swap_Out_4_Ways_FB1080_1.jpg",
+    "description": "Here's what you need: banana, egg, blueberry",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 bananas",
+        "4 eggs",
+        "Blueberries"
+    ],
+    "recipeInstructionSteps": [
+        "In a large bowl, mash the bananas until they reach a liquid state.",
+        "Whisk in the eggs.",
+        "Heat butter or oil in a large skillet over medium heat.",
+        "Pour batter into the warm skillet to cook. Garnish with desired number of blueberries. After about a minute and a half (or until golden) flip to finish cooking.",
+        "Allow to cool for a minute. Serve warm.",
+        "Enjoy!"
+    ]
+}

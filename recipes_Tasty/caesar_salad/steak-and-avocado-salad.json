@@ -1,0 +1,30 @@
+{
+    "id": "steak-and-avocado-salad",
+    "link": "https://tasty.co/recipe/steak-and-avocado-salad",
+    "name": "Steak and Avocado Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/e12bcf15ea7a494d87462e6dd0b9caa6/BFV9723_SteakAvocadoSalad-ThumbB1080.jpg",
+    "description": "Here's what you need: sirloin steak, salt, pepper, oil, romaine lettuce, hard-boiled egg, avocado, cherry tomato, caesar dressing",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 pound sirloin steak, about \u00bd inch thick",
+        "Salt &amp; pepper",
+        "n/a",
+        "2 tablespoons oil",
+        "2 hearts romaine lettuce, chopped",
+        "3 hard-boiled eggs, diced",
+        "2 avocados, diced",
+        "2 cups cherry tomatoes, halved",
+        "3 tablespoons caesar dressing"
+    ],
+    "recipeInstructionSteps": [
+        "Salt and pepper the steak on both sides, being sure to rub in the seasoning.",
+        "Heat the oil in a pan over high heat until slightly smoking.",
+        "Sear the steak for about 2 minutes per side.",
+        "Rest the steak on a cutting board for 10 minutes.",
+        "Slice the steak.",
+        "In a large bowl, combine the lettuce, eggs, avocados, cherry tomatoes, steak, and dressing.",
+        "Toss the salad until evenly coated and serve.",
+        "Enjoy!"
+    ]
+}

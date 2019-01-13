@@ -1,0 +1,31 @@
+{
+    "id": "garlic-pork-cauliflower-fried-rice",
+    "link": "https://tasty.co/recipe/garlic-pork-cauliflower-fried-rice",
+    "name": "Garlic Pork Cauliflower Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f5691662d6c74e26b9a366d8dcbf6706/BFV13716_CauliflowerFriedRice4Ways-FB1080SQ.jpg",
+    "description": "Here's what you need: cauliflower, pork chop, garlic, onion, salt, pepper, soy sauce, honey, egg, green onion",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Chinese",
+    "recipeIngredient": [
+        "1 cauliflower head",
+        "2 pork chops, diced",
+        "4 cloves garlic, finely diced",
+        "\u00bd onion, sliced",
+        "1 teaspoon salt",
+        "1 teaspoon pepper",
+        "2 tablespoons soy sauce",
+        "\u00bc cup honey",
+        "3 eggs, beaten",
+        "\u00bd cup green onions, sliced"
+    ],
+    "recipeInstructionSteps": [
+        "Remove all leaves and cut the cauliflower into small florets.",
+        "Place the florets in a food processor and blend until they are a rice-like texture. Be careful not to over process or it may turn mushy. Set aside, and drain excess moisture with a towel, if desired.",
+        "In a large saucepan over medium-high heat, cook the pork until no pink is showing, then add the garlic, onions, salt, pepper, soy sauce, and honey, stirring until the sauce has started to brown.",
+        "Stir until most of the liquid has reduced, then add the cauliflower rice. Cook for about 3-4 minutes until the pork is incorporated evenly into the cauliflower.",
+        "Spread the rice towards the edge of the pan, creating a well in the center.",
+        "Pour the beaten eggs into the well, stirring only the eggs until they are cooked.",
+        "Fold the eggs into the rice, then mix in the green onions",
+        "Enjoy!"
+    ]
+}

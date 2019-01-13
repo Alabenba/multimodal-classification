@@ -1,0 +1,32 @@
+{
+    "id": "instant-noodle-lasagna-via-tasty-demais",
+    "link": "https://tasty.co/recipe/instant-noodle-lasagna-via-tasty-demais",
+    "name": "Instant Noodle Lasagna by Tasty Demais Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/a6def6500de74d79861ce61e914cc544/BFV15130_InstantNoodleLasagna-ThumbTextless1080B.jpg",
+    "description": "Here's what you need: instant ramen, water, heavy cream, tomato sauce, pepper, salt, ham, cheese, shredded parmesan cheese, fresh parsley, dried oregano",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "3 instant ramen noodle packs",
+        "200 milliliters (3/4 cup + 2 tablespoons)  water",
+        "200 milliliters  (3/4 cup + 2 tablespoons) heavy cream",
+        "500 milliliters (16 ounce can) tomato sauce",
+        "1 teaspoon pepper",
+        "1 teaspoon salt",
+        "Ham slices",
+        "Cheese slices",
+        "200 grams parmesan cheese, shredded",
+        "3 tablespoons fresh parsley",
+        "Oregano"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 180\u02daC (350\u02daF).",
+        "Mix water, heavy cream, tomato sauce, pepper, and salt. Set aside.",
+        "In a baking pan, lay down one row of raw ramen noodles and cover with half the tomato sauce mixture.",
+        "Layer ham slices, then cheese slices, and repeat. Sprinkle with parsley.",
+        "Add another layer of raw ramen noodles and cover them with the rest of sauce.",
+        "Top with another layer of ham and cheese, and sprinkle with parmesan cheese and oregano.",
+        "Bake for 25 minutes, or until noodles are cooked through and cheese is golden brown.",
+        "Enjoy!"
+    ]
+}

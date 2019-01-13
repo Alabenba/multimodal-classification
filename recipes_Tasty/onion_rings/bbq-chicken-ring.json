@@ -1,0 +1,27 @@
+{
+    "id": "bbq-chicken-ring",
+    "link": "https://tasty.co/recipe/bbq-chicken-ring",
+    "name": "BBQ Chicken Ring Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/562752d043154169a62ab45f165651a2/BFV13709_BBQChickenRingTastyJr-FB1080SQ.jpg",
+    "description": "Here's what you need: cooked chicken, red onion, BBQ sauce, mozzarella cheese, crescent dough, ranch dressing",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 \u00bd cups cooked chicken, shredded",
+        "1 cup red onion, diced",
+        "1 cup BBQ sauce",
+        "1 cup mozzarella cheese",
+        "16 pieces crescent dough (2 cans)",
+        "Ranch dressing"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 375\u02daF (190\u02daC).",
+        "In a large bowl, combine shredded chicken, red onion, and BBQ sauce.",
+        "Place a small bowl, filled with mozzarella cheese, in the middle of a greased baking pan and arrange crescent dough triangles around the bowl with the smallest angle on the outside.",
+        "Sprinkle \u00bd of the cheese along the inside of the ring and spoon BBQ chicken mixture on top of the cheese, also in a circular shape. Top with the rest of the mozzarella.",
+        "Lay the top of the triangle over the filling and repeat until the all of the triangles have been wrapped around the filling.",
+        "Bake for 25 minutes or until golden brown.",
+        "Cut into pieces and serve with choice dressing in a bowl in the middle.",
+        "Enjoy!"
+    ]
+}

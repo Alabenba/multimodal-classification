@@ -1,0 +1,22 @@
+{
+    "id": "breakfast-burritos",
+    "link": "https://tasty.co/recipe/breakfast-burritos",
+    "name": "Breakfast Burritos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/901ad632f7964feb97f57e9dbd9a00fd/BFV28863_FreezerPrepBurritos_FB1080SQ.jpg",
+    "description": "Here's what you need: flour tortilla, hash brown, egg, breakfast sausage, shredded mexican cheese blend",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "6 flour tortillas",
+        "2 cups cooked hash browns",
+        "2 cups scrambled eggs",
+        "1 pound breakfast sausage, cooked",
+        "1 cup shredded Mexican cheese blend"
+    ],
+    "recipeInstructionSteps": [
+        "Assemble the burritos by microwaving the flour tortilla for 20 seconds, and begin to layer burrito starting with hash browns, followed by scrambled eggs, cooked breakfast sausage, and cheese.",
+        "Fold in the left and right sides of the tortilla and roll it up from the bottom, tucking the bottom edge under the filling. Wrap in parchment paper and label. Freeze up to 1 month.",
+        "To reheat from frozen, wrap the burrito in a damp paper towel and microwave for 2-3 minutes, flipping halfway or until the center is hot. Let stand 1 minute before eating.",
+        "Enjoy!"
+    ]
+}

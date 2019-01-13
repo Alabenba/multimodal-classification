@@ -1,0 +1,19 @@
+{
+    "id": "eton-mess-ice-cream-sandwich",
+    "link": "https://tasty.co/recipe/eton-mess-ice-cream-sandwich",
+    "name": "Eton Mess Ice-cream Sandwich Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/290cf4db4ede4219a3f3a415a816b922/BFV5244_EatonMessIceCreamSandwich-Thumb1080SQ.jpg",
+    "description": "Here's what you need: strawberry, meringue nests, vanilla ice cream",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "12 strawberries",
+        "2 meringue nests",
+        "1 scoop vanilla ice-cream"
+    ],
+    "recipeInstructionSteps": [
+        "Cut the tops off of strawberries and apply to the bottom of two pieces of meringue.",
+        "Place a large scoop of ice cream on top of the strawberry side of one meringue and cover with second meringue to create a sandwich.",
+        "Enjoy!"
+    ]
+}

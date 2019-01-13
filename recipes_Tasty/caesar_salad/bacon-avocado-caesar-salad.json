@@ -1,0 +1,23 @@
+{
+    "id": "bacon-avocado-caesar-salad",
+    "link": "https://tasty.co/recipe/bacon-avocado-caesar-salad",
+    "name": "Bacon Avocado Caesar Salad Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/01a073393baf41a18c5507ac035312b8/BFV15870_SteakDinnerForTwo2.jpg",
+    "description": "Here's what you need: romaine lettuce, bacon, avocado, crouton, parmesan cheese, caesar dressing",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 head romaine lettuce",
+        "4 slices bacon, cooked and crumbled",
+        "1 avocado, diced",
+        "\u00bd cup croutons",
+        "\u00bd cup shaved parmesan cheese, plus extra for serving",
+        "\u00bc cup Caesar dressing"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the lettuce into about 1-inch (2 \u00bd cm) pieces, then transfer to a large salad bowl.",
+        "Add the bacon, avocado, croutons, cheese, and dressing, mixing until evenly combined.",
+        "Serve with additional parmesan on top.",
+        "Enjoy!"
+    ]
+}

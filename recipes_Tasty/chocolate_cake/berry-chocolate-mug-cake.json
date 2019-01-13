@@ -1,0 +1,29 @@
+{
+    "id": "berry-chocolate-mug-cake",
+    "link": "https://tasty.co/recipe/berry-chocolate-mug-cake",
+    "name": "Berry Chocolate Mug Cake Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ea925fe11f8c4f508b197608278e00e2/BFV29639_4YummySnacksForaGirlsNightIn-FB_05.jpg",
+    "description": "Here's what you need: all-purpose flour, cocoa powder, sugar, baking powder, vegetable oil, milk, chocolate chips, whipped cream, blueberry, raspberry, fresh mint",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "3 tablespoons all-purpose flour",
+        "2 tablespoons cocoa powder",
+        "3 tablespoons sugar",
+        "\u00bc teaspoon baking powder",
+        "3 tablespoons vegetable oil",
+        "\u00bc cup milk",
+        "3 tablespoons chocolate chips",
+        "Whip cream, to serve",
+        "blueberries, to serve",
+        "raspberries, to serve",
+        "mint, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Spray the inside of a microwave-safe ceramic mug. Add in flour, cocoa powder, sugar, and baking powder. Mix to combine.",
+        "Add the vegetable oil, milk, and stir until smooth. Stir in the chocolate chips.",
+        "Microwave on high for 1 minute 30 seconds. Let cool completely.",
+        "Top with whipped cream, sprinkle on fresh blueberries, raspberries, and mint.",
+        "Enjoy!"
+    ]
+}

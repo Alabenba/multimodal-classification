@@ -1,0 +1,30 @@
+{
+    "id": "banana-split-ice-cream-pie",
+    "link": "https://tasty.co/recipe/banana-split-ice-cream-pie",
+    "name": "Banana Split Ice Cream Pie Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/160161.jpg",
+    "description": "Here's what you need: waffle cone, unsalted butter, banana, chocolate ice cream, vanilla ice cream, strawberry ice cream, whipped cream, chopped peanut, maraschino cherry, chocolate syrup",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "12 waffle cones",
+        "6 tablespoons unsalted butter, melted",
+        "3 bananas, sliced",
+        "2 pints chocolate ice cream, softened",
+        "2 pints vanilla ice cream, softened",
+        "2 pints strawberry ice cream, softened",
+        "Whipped cream, for serving",
+        "Chopped peanuts, for serving",
+        "Maraschino cherries, for serving",
+        "Chocolate syrup, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "Break the waffle cones into pieces and add to a food processor. Pulse until medium crumbs form.",
+        "Pour in the melted butter, and pulse for another 20 seconds until the butter is incorporated.",
+        "Pour the crust mixture into a 10-inch (25 cm) springform pan and press down with a spatula into an even layer. Freeze for 10 minutes.",
+        "Arrange the banana slices on top of the crust.",
+        "Scoop the chocolate ice cream over the bananas and spread in an even layer. Freeze for 20 minutes. Repeat with the strawberry ice cream, then freeze for another 20 minutes. Add the vanilla ice cream, then freeze for 1 hour.",
+        "Release the springform, and slice the cake. Top each slice with whipped cream, chopped peanuts, a cherry, and chocolate syrup.",
+        "Enjoy!"
+    ]
+}

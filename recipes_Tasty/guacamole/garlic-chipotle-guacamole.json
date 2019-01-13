@@ -1,0 +1,24 @@
+{
+    "id": "garlic-chipotle-guacamole",
+    "link": "https://tasty.co/recipe/garlic-chipotle-guacamole",
+    "name": "Garlic Chipotle Guacamole Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/36aafcbe516f4321af8e5e9398f56f3f/FB_04fopkg.jpg",
+    "description": "Here's what you need: avocado, garlic, medium roma tomato, chipotle pepper in adobo sauce, lime, salt, pepper, tortilla chips",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "2 avocados, pitted, peeled, and diced",
+        "10 cloves garlic, roasted and chopped",
+        "1 medium Roma tomato, seeded and diced",
+        "2 canned chipotles in adobo, minced",
+        "1 lime, juiced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Tortilla chips, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, combine the avocado, roasted garlic, tomato, chipotle peppers, lime juice, salt, and pepper. Mix together until fully incorporated.",
+        "Serve with tortilla chips.",
+        "Enjoy!"
+    ]
+}

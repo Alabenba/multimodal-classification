@@ -1,0 +1,26 @@
+{
+    "id": "faux-shoyu-ramen",
+    "link": "https://tasty.co/recipe/faux-shoyu-ramen",
+    "name": "Faux Shoyu Ramen Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/9e53f189fcc74d6283b34ff15dc848a5/TastyFacebook1080x1080.jpg",
+    "description": "Here's what you need: instant ramen, soy sauce, toasted nori snack, soft-boiled egg, thick bacon, scallions, salt, pepper, black sesame seeds",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 package of instant ramen, prepared",
+        "2 teaspoons soy sauce",
+        "2 sheets of toasted nori snacks, sliced",
+        "1 soft-boiled egg, halved",
+        "3 slices of thick bacon, cooked",
+        "2 teaspoona thinly sliced scallions",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Toasted black sesame seeds, for garnish (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "To a pot with 2 cups (480 ml) of boiling water add the ramen seasoning packet and a tablespoon of butter. Stir until the butter melts and then add the ramen noodle cube and cook until the noodles become tender, 2 minutes. Pour the ramen into a bowl.",
+        "To the prepared ramen, add the soy sauce and stir to incorporate.",
+        "Top with the nori, egg, bacon, scallions, and season with salt and pepper. Sprinkle with sesame seeds, if using.",
+        "Enjoy!"
+    ]
+}

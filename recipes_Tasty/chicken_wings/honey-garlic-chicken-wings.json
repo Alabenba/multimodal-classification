@@ -1,0 +1,37 @@
+{
+    "id": "honey-garlic-chicken-wings",
+    "link": "https://tasty.co/recipe/honey-garlic-chicken-wings",
+    "name": "Honey Garlic Chicken Wings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/1b1b95833f9f4eddb6a14641b0c51bbe/BFV11092_HoneyGarlicChickenWings_ThumbB.jpg",
+    "description": "Here's what you need: flour, garlic powder, pepper, salt, chicken winglets, oil, butter, garlic powder, ginger, soy sauce, honey, brown sugar, sesame seed, scallion",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd cup flour",
+        "1 teaspoon garlic powder",
+        "\u00bd teaspoon pepper",
+        "\u00bd teaspoon salt",
+        "2 pounds chicken winglets and drumlets",
+        "Oil for frying, enough to fill the pan with \u00bc inch of oil",
+        "1 tablespoon butter",
+        "1 tablespoon garlic",
+        "1 tablespoon ginger",
+        "\u00bd cup soy sauce",
+        "5 tablespoons honey",
+        "1 tablespoon brown sugar",
+        "1 teaspoon sesame seeds",
+        "Scallions"
+    ],
+    "recipeInstructionSteps": [
+        "Mix flour, garlic powder, pepper, and salt in a small bowl.",
+        "Coat each chicken wing with a generous layer of the flour mixture.",
+        "Pour \u00bc inch (6 mm) of oil into a shallow pan, and bring it to a medium high heat.",
+        "In small batches, fry the chicken wings for 4 minutes on each side.",
+        "Remove from the oil and let rest on a paper towel.",
+        "Over medium-high heat, melt the butter and add the garlic and ginger.",
+        "Add soy sauce, honey, and brown sugar to pan and reduce for 5-7 minutes, stirring occasionally.",
+        "Add the fried wings directly into the sauce pan and stir until the wings are covered in the sauce, then sprinkle with sesame seeds.",
+        "Serve with scallions on top.",
+        "Enjoy!"
+    ]
+}

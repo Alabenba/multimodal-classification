@@ -1,0 +1,26 @@
+{
+    "id": "apple-pie-bites",
+    "link": "https://tasty.co/recipe/apple-pie-bites",
+    "name": "Apple Pie Bites Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/069f46f0cd0a479584e7d3386f59d8b9/BFV48589_3EnergyBitesPerfectForFall-FB1080SQ.jpg",
+    "description": "Here's what you need: green apple, almond butter, maple syrup, vanilla extract, rolled oats, cinnamon, salt",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "\u2153 cup grated green apple, excess liquid squeezed out",
+        "\u2153 cup almond butter",
+        "\u00bc cup maple syrup or honey",
+        "1 teaspoon vanilla extract",
+        "1\u00bd cups rolled oats",
+        "1 teaspoon cinnamon",
+        "Pinch of salt"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, combine the grated apple, almond butter, maple syrup, and vanilla, and stir until smooth.",
+        "Add the oats, cinnamon, and salt, and mix until evenly distributed.",
+        "Chill in the refrigerator for 30 minutes.",
+        "Use a tablespoon to scoop out the mixture, then roll into balls with your hands.",
+        "Store in the refrigerator in an airtight container for up to 1 week.",
+        "Enjoy!"
+    ]
+}

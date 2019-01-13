@@ -1,0 +1,32 @@
+{
+    "id": "one-pot-pad-thai",
+    "link": "https://tasty.co/recipe/one-pot-pad-thai",
+    "name": "One-Pot Pad Thai Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/867d3e8b3dbb4317bf715ba8a526b5d8/BFV3860_OnePotPadThai_ThumbB.jpg",
+    "description": "Here's what you need: pad thai noodle, sesame oil, egg, chicken breast, shallot, pad thai sauce, bean sprout, peanuts, green onion, fresh cilantro",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Thai",
+    "recipeIngredient": [
+        "- 8 oz Noodles (we used pad thai noodles, but feel free to substitute them for another type)",
+        "- 2 tbsp Sesame Oil",
+        "- 2 Eggs",
+        "- 1 Diced Chicken Breast",
+        "- 1/4 cup of Shallots",
+        "- 3/4 cup Pad Thai Sauce (we used 1/8 cup each of fish oil, rice vinegar, soy sauce, brown sugar, lime juice, and sriracha)",
+        "- 1 cup Bean Sprouts",
+        "- 1/2 cup Crushed Peanuts",
+        "- 1/4 cup Green Onions",
+        "- 1/4 cup Cilantro"
+    ],
+    "recipeInstructionSteps": [
+        "Cook the noodles according to the package instructions.",
+        "Toss with 1 tablespoon of sesame oil and set aside.",
+        "Add \u00bd teaspoon of sesame oil to a pot with the lightly beaten eggs. When the eggs are finished cooking, set aside.",
+        "Pour the remaining \u00bd tablespoon of sesame oil into the pot and add the diced chicken breast. Cook until no longer pink in the middle, then set aside.",
+        "Add the shallots to the pot and cook until lightly browned and fragrant. Then, add the noodles, eggs, and chicken back into the pot.",
+        "Pour in the pad Thai sauce and toss to coat.",
+        "Top with the bean sprouts, crushed peanuts, green onions, and cilantro, and stir until well blended.",
+        "Dish up and garnish with extra peanuts, green onions, and cilantro.",
+        "Enjoy!"
+    ]
+}

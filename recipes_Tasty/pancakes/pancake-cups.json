@@ -1,0 +1,24 @@
+{
+    "id": "pancake-cups",
+    "link": "https://tasty.co/recipe/pancake-cups",
+    "name": "Pancake Cups Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/6aa32d602b6749e9af69513a65497e93/BFV7425_PancakeCups-Thumb1080SQ.jpg",
+    "description": "Here's what you need: flour, milk, egg, butter, vanilla, topping of your choice",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1/2 cup flour",
+        "1/2 cup milk",
+        "3 eggs",
+        "2 Tbsp. butter, melted",
+        "1/2 tsp vanilla",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Blend all ingredients in a blender until completely combined.",
+        "Divide among all the cups of a greased muffin tin, cups will be about \u2153 full.",
+        "Bake at 400\u00b0F (200\u00b0C) for 13-15 minutes. Pancakes will puff up super big, then deflate when you remove them from the oven.",
+        "Fill with whatever you want\u2014fresh fruit and syrup, bacon and eggs, sausage, or jam and whipped cream.",
+        "Enjoy!"
+    ]
+}

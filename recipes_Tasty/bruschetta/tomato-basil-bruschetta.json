@@ -1,0 +1,29 @@
+{
+    "id": "tomato-basil-bruschetta",
+    "link": "https://tasty.co/recipe/tomato-basil-bruschetta",
+    "name": "Tomato Basil Bruschetta Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/19891bfcf11c4ea893152dd71c6e96f2/BFV16661_ShrimpAlfredoDinnerForTwoFINAL.jpg",
+    "description": "Here's what you need: baguette, olive oil, medium tomato, garlic, balsamic vinegar, fresh basil, salt, pepper, garlic",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "1 6-inch baguette",
+        "\u00bc cup olive oil",
+        "3 medium tomatoes, diced",
+        "1 clove garlic, minced",
+        "1 teaspoon balsamic vinegar",
+        "1 tablespoon basil, chopped",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "1 clove garlic, whole"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 450\u00b0F (230\u00b0C).",
+        "Slice the baguette into \u00bd-inch (1 cm) rounds and place on a baking sheet.",
+        "Brush both sides of the baguette slices with olive oil.",
+        "Bake for for 6 minutes until slightly crispy.",
+        "In a medium bowl, combine the tomatoes, minced garlic, balsamic vinegar, basil, salt, and pepper.",
+        "Rub the garlic into one side of the baguette slices, then spoon the tomato mixture evenly across the slices.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "bacon-cotija-guacamole",
+    "link": "https://tasty.co/recipe/bacon-cotija-guacamole",
+    "name": "Bacon Cotija Guacamole Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ad710ad2e1a64a57b4c020e6b95b240d/FB_04fopkg.jpg",
+    "description": "Here's what you need: avocado, bacon, red onion, medium roma tomato, jalape\u00f1o, lime, salt, pepper, cotija cheese, tortilla chips",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Mexican",
+    "recipeIngredient": [
+        "2 avocados, pitted, peeled, and diced",
+        "3 strips bacon, cooked and chopped",
+        "\u00bd red onion, minced",
+        "1 medium Roma tomato, seeded and diced",
+        "\u00bd jalape\u00f1o, seeded and minced",
+        "1 lime, juiced",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Cotija cheese, for garnish",
+        "Tortilla chips, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a medium bowl, combine the avocado, bacon, red onion, tomato, jalape\u00f1o, lime juice, salt, and pepper. Mix together until fully incorporated. Sprinkle with Cotija cheese.",
+        "Serve with tortilla chips.",
+        "Enjoy!"
+    ]
+}

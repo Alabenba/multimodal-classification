@@ -1,0 +1,30 @@
+{
+    "id": "grilled-cheese-ravioli",
+    "link": "https://tasty.co/recipe/grilled-cheese-ravioli",
+    "name": "Grilled Cheese \u201cRavioli\u201d Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/e3d5a20085904c4f891053e5da396187/BF_THUMB_chamravioli2.jpg",
+    "description": "Here's what you need: sandwich bread, cheddar cheese, swiss cheese, ham, egg wash, butter, tomato soup",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "8 slices sandwich bread",
+        "2 slices cheddar cheese",
+        "2 slices Swiss cheese",
+        "4 slices ham",
+        "Egg wash",
+        "\u00bd cup butter",
+        "Tomato soup, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "On a cutting board, cut the crusts off of the bread. Press bread flat with hands or a rolling pin.",
+        "Take one slice of cheddar cheese and cut it into 4 equal squares.",
+        "Repeat with the Swiss cheese.",
+        "Cut the slices of ham into a square.",
+        "Place one piece of flattened bread on a surface. Place 2 squares of cheddar so they are overlapping. Place the ham on top of the cheddar. Place 2 squares of the Swiss on top of the ham so the are overlapping.",
+        "Brush the edges of the bread with egg wash.",
+        "Take the other flattened piece of bread and place it on top. Press down the edges. Using a fork press along the edges of the \u201cravioli\u201d until the edges are sealed.",
+        "In a pan heat 1 tablespoon of butter until melted on medium heat. Place the \u201cravioli\u201d in the pan. Cook for about 3 minutes on each side until golden and crispy. Remove from heat.",
+        "Serve immediately with hot tomato soup.",
+        "Enjoy!"
+    ]
+}

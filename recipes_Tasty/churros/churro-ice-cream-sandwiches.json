@@ -1,0 +1,33 @@
+{
+    "id": "churro-ice-cream-sandwiches",
+    "link": "https://tasty.co/recipe/churro-ice-cream-sandwiches",
+    "name": "Churro Ice Cream Sandwiches Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/0bb9bbcb556e4f6bbe078723a4178302/BFV12716_ChurroIceCreamSandwiches-ThumbTextless1080.jpg",
+    "description": "Here's what you need: water, oil, salt, flour, oil, sugar, cinnamon, vanilla ice cream",
+    "recipeCategory": "Bakery Goods",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "3 cups water",
+        "\u2153 cup oil",
+        "\u00bd tablespoon salt",
+        "2 cups flour",
+        "Oil, for frying",
+        "1 cup sugar",
+        "\u00bc cup cinnamon",
+        "2 pints vanilla ice cream"
+    ],
+    "recipeInstructionSteps": [
+        "In a large pot, bring the water, oil, and salt to a boil.",
+        "Add the flour and turn the heat off. Quickly stir the flour until it forms a smooth paste/ball.",
+        "Transfer the dough into a piping bag lined with a star tip.",
+        "Pipe 6-inch (15 cm) spirals onto a sheet lined with parchment paper, starting from the middle and going around in a circle, making sure that there are no gaps between the loops.",
+        "Repeat with the remaining dough.",
+        "Freeze the circles for at least 2 hours.",
+        "Heat oil in a pot over high heat.",
+        "Fry the circles until light golden brown, then drain them on a paper towel.",
+        "Mix the sugar and the cinnamon in a separate bowl.",
+        "Coat each churro disc in the cinnamon sugar mix, shaking off any excess.",
+        "Place a scoop of ice cream in between 2 churro discs.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "microwave-4-minute-chicken-quesadilla",
+    "link": "https://tasty.co/recipe/microwave-4-minute-chicken-quesadilla",
+    "name": "Microwave 4-minute Chicken Quesadilla Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/f74fd31be8064ab697d9c4199cae92d3/BFV28873_6MicrowaveMealsHACK.jpg",
+    "description": "Here's what you need: medium flour tortilla, chicken strip, bell pepper, taco seasoning, shredded cheddar cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 medium flour tortillas",
+        "\u00bd cup cooked chicken strips or cooked, shredded chicken",
+        "\u00bd bell pepper, diced",
+        "1 tablespoon taco seasoning",
+        "\u00bc cup shredded cheddar cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Microwave the tortillas on a plate until slightly crispy. They will dry out a bit as they cool.",
+        "Mix the chicken, peppers, and taco seasoning in a bowl until evenly combined, then cook for about 1-2 minutes until the peppers are soft.",
+        "Spread the mixture evenly on one tortilla, cover evenly with the cheese, then top with the other tortilla.",
+        "Cook for another 30 seconds to 1 minute, slice, then serve.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "sushi-donuts-4-ways",
+    "link": "https://tasty.co/recipe/sushi-donuts-4-ways",
+    "name": "Sushi Donuts 4 Ways Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/133849.jpg",
+    "description": "Here's what you need: cooked sushi rice, sudachi juice, olive oil, sushi-grade Spanish mackerel, shiso leaf, myoga, japanese green onion, white sesame, miso, Sliced radish, sliced okra, hojiso, sushi-grade tuna, white sesame seeds, chinese yam, wasabi, sushi-grade sea urchin, shredded nori, sushi-grade salmon, sushi-grade ikura, lemon",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "Rice 2 Cups",
+        "Sudachi Juice 2 Tbsp",
+        "Olive Oil 2 Tbsp",
+        "\u30fbSpanish Mackerel (Aji, chopped) 1 fish-equivalent",
+        "\u30fbShiso Leaf 1",
+        "\u30fbMyoga 1/2",
+        "\u30fbJapanese Green Onion 1 oz",
+        "\u30fbWhite Sesame 1 tsp",
+        "\u30fbMiso 2 tsp",
+        "\u30fbRadish",
+        "\u30fbOkra",
+        "\u30fbHojiso",
+        "\u30fbTuna 3 slices (cubed)",
+        "\u30fbWhite Sesame as needed",
+        "\u30fbChinese Yam (grated) 1/3 Cup",
+        "\u30fbWasabi as needed",
+        "\u30fbSea Urchin",
+        "\u30fbShredded Nori",
+        "\u30fbSalmon",
+        "\u30fbIkura as needed",
+        "\u30fbLemon"
+    ],
+    "recipeInstructionSteps": [
+        "Combine the rice, sudachi juice, and olive oil in a medium bowl.",
+        "Fill 2 donut molds (circular and flower-shaped) with rice mixture. Fill one row of circular donuts half-way, add the cubed tuna for the Tuna Yamakake donuts, then fill the rest of the way with rice. Press the rice into the molds with your hands, then flip and release from molds.",
+        "Make the mackerel tartare donuts: In a medium bowl, mix the Spanish mackerel, shiso, myoga, green onion, and miso until combined. Spoon the mixture over 3 flower rice donuts. Garnish with radish, okra, and hojiso.",
+        "Make the tuna yamakake donuts: Dip one side of the 3 circular donuts with the cubed tuna in the white sesame seeds. Fill the centers with grated Chinese yam and garnish with wasabi.",
+        "Make the sea urchin gunkan donuts: Arrange the sea urchin on top of 3 flower donuts. Garnish with shredded nori.",
+        "Make the seared salmon and ikura donuts: Layer the sliced salmon over 3 circular donuts. Use a kitchen torch to sear the top of the salmon. Fill the centers with ikura and garnish with lemon slices.",
+        "Enjoy!"
+    ]
+}

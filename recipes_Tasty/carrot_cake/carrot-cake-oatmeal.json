@@ -1,0 +1,28 @@
+{
+    "id": "carrot-cake-oatmeal",
+    "link": "https://tasty.co/recipe/carrot-cake-oatmeal",
+    "name": "Carrot Cake Oatmeal Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/eafca7a493d244788666b29cc4f0b017/BFV5191_CarrotCakeOatmeal-Thumb1080.jpg",
+    "description": "Here's what you need: carrot, rolled oats, raisin, unsweetened almond milk, vanilla extract, ground cinnamon, honey, raw almond, 2% greek yogurt",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd cup grated carrot, from 1 small, peeled carrot",
+        "\u2153 cup rolled oats",
+        "1 tablespoon raisins",
+        "1 cup unsweetened almond milk, divided",
+        "\u00bd teaspoon vanilla extract",
+        "\u00bc teaspoon ground cinnamon",
+        "1 teaspoon honey",
+        "10 raw almonds (Men: 20 almonds), chopped",
+        "\u00bd cup plain, 2% Greek yogurt, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "Stir together rolled oats, grated carrot, raisins, and \u00bd of the almond milk.",
+        "Store in an airtight container in the fridge overnight. (If you\u2019re following the Clean Eating Challenge, you already did this!)",
+        "Combine the carrot-oat mixture, the remaining \u00bd of the almond milk, honey, vanilla, and cinnamon in a small pot over medium heat.",
+        "Bring the mixture to a simmer and cook, stirring occasionally, until the mixture is thick and the oats are cooked, 4 to 5 minutes.",
+        "Serve immediately, with almonds and Greek yogurt on top.",
+        "Enjoy!"
+    ]
+}

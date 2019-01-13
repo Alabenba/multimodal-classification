@@ -1,0 +1,27 @@
+{
+    "id": "toasted-ravioli",
+    "link": "https://tasty.co/recipe/toasted-ravioli",
+    "name": "Toasted Ravioli Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/fa3503d5afcf45eb968904e582751251/BFV5488_ToastedRavioli_ThumbA1080sq.jpg",
+    "description": "Here's what you need: ravioli, flour, italian breadcrumbs, marinara sauce, vegetable oil, egg, milk",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "Fresh or Thawed Frozen Ravioli",
+        "Flour",
+        "Italian-Style Bread Crumbs (or plain breadcrumbs with dried basil and oregano)",
+        "Marinara Sauce (for dipping)",
+        "Vegetable Oil (for frying)",
+        "n/a",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "If your ravioli is frozen, allow to thaw before breading.",
+        "Dredge the ravioli in flour, then egg wash (allow excess to drip off), then bread crumbs.",
+        "Fill a large pot or skillet with 2 inches (5 cm) of oil and bring up to 350\u00b0F (180\u00b0C).",
+        "Carefully place ravioli in the oil (don\u2019t crowd them - cook in batches) and let cook for about 1 minute per side until golden brown.",
+        "Set aside on a plate covered with paper towels to drain excess oil.",
+        "Once the ravioli have cooled, plate and serve with warm marinara sauce.",
+        "Enjoy!"
+    ]
+}

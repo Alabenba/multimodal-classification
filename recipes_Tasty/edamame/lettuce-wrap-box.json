@@ -1,0 +1,25 @@
+{
+    "id": "lettuce-wrap-box",
+    "link": "https://tasty.co/recipe/lettuce-wrap-box",
+    "name": "Lettuce Wrap Box Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/46a91eb5b0424ea08f9690b94df87c39/BFV23796_SnackBoxes_6Ways_Final.jpg",
+    "description": "Here's what you need: lettuce, pepper, carrot, edamame, cashews, orange,  sriracha",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "",
+    "recipeIngredient": [
+        "2 pieces lettuce",
+        "\u00bd cup peppers, sliced",
+        "\u00bd cup carrots, sliced",
+        "\u00bd cup edamame",
+        "\u00bc cup cashews, chopped",
+        "1 cup oranges, peeled",
+        "1 tablespoon Sriracha"
+    ],
+    "recipeInstructionSteps": [
+        "Place lettuce into box.",
+        "Place sliced peppers, carrots, edamame, and cashews inside lettuce.",
+        "Peel oranges and place inside box.",
+        "Pour sriracha into box.",
+        "Enjoy!"
+    ]
+}

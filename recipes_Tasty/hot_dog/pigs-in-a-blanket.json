@@ -1,0 +1,22 @@
+{
+    "id": "pigs-in-a-blanket",
+    "link": "https://tasty.co/recipe/pigs-in-a-blanket",
+    "name": "Pigs In A Blanket Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/eb3907e9c5024f9da7b422958bd751f1/BFV11486_3IngredientAppetizers-FB1080SQ.jpg",
+    "description": "Here's what you need: puff pastry, hot dog, cheddar cheese",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 sheet puff pastry, thawed",
+        "6 hot dogs",
+        "6 slices cheddar cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 425\u00b0F (220\u02daC).",
+        "Slice the puff pastry into 6 even rectangles. Place a slice of cheddar on top of each puff pastry piece.",
+        "Place a hot dog on the cheddar, then roll it up.",
+        "Slice each roll into 3 even pieces, and arrange the pieces evenly on a baking sheet lined with parchment paper with a 1-inch (2-cm) gap between the pieces.",
+        "Bake for 15 minutes, until golden brown and flaky.",
+        "Enjoy!"
+    ]
+}

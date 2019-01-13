@@ -1,0 +1,28 @@
+{
+    "id": "classic-hummus",
+    "link": "https://tasty.co/recipe/classic-hummus",
+    "name": "Classic Hummus Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/14390f02d1fd482bb01c7125865bb8f8/BFV24014_Hummus4-ways_FINAL_FB.jpg",
+    "description": "Here's what you need: chickpeas, garlic, tahini sauce, lemon juice, cumin, red pepper flakes, salt, black pepper, extra virgin olive oil, water, fresh parsley",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Middle Eastern",
+    "recipeIngredient": [
+        "1 14-ounce can of chickpeas",
+        "2 cloves garlic",
+        "\u00bc cup tahini sauce",
+        "2 tablespoons lemon juice",
+        "1 teaspoon cumin",
+        "\u00bd teaspoon red pepper flakes",
+        "\u00bd  teaspoon salt",
+        "\u00bd teaspoon black pepper",
+        "2 tablespoons extra virgin olive oil",
+        "2-4 tablespoons water",
+        "Parsley, chopped, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Add chickpeas, garlic, tahini, lemon juice, and seasonings to the bowl of a 2-quart food processor. Blend until smooth.",
+        "While blending, slowly add in the olive oil and water until hummus is creamy and smooth.",
+        "Garnish with additional red pepper flakes, chopped parsley, and a drizzle of olive oil.",
+        "Enjoy!"
+    ]
+}

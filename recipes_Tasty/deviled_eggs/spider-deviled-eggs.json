@@ -1,0 +1,30 @@
+{
+    "id": "spider-deviled-eggs",
+    "link": "https://tasty.co/recipe/spider-deviled-eggs",
+    "name": "Spider Deviled Eggs Recipe by Tasty",
+    "image": "https://s3.amazonaws.com/video-api-prod/assets/2fad40d0f19f4a00a8a8b6fc21786855/spidermuffins.jpg",
+    "description": "Here's what you need: hard-boiled egg, large storage bag, black food coloring, water, mayonnaise, mustard, green food coloring, black olive",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "8 hard-boiled eggs",
+        "Large storage bag",
+        "2 tablespoons black food coloring",
+        "1 cup water",
+        "3 tablespoons mayonnaise",
+        "1 tablespoon mustard",
+        "1 tablespoon green food coloring",
+        "Black olives"
+    ],
+    "recipeInstructionSteps": [
+        "Use a spoon and carefully create cracks on 8 hard-boiled eggs.",
+        "Place the cracked eggs in a large bag. Add black food coloring and water.",
+        "Close the bag, mix around and set aside for 15 minutes.",
+        "Rinse the eggs in clean water and peel to reveal the cracked design.",
+        "Cut the eggs in half and separate the egg yolks from the egg whites.",
+        "Combine the egg yolks with mayonnaise, mustard and green food coloring.",
+        "Pipe the egg yolk mixture into the egg whites.",
+        "Garnish the deviled eggs with an olive spider. To create an olive spider use half of a black olive for the body and olive slices for the legs.",
+        "Enjoy!"
+    ]
+}

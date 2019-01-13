@@ -1,0 +1,23 @@
+{
+    "id": "hot-dog-six-pack",
+    "link": "https://tasty.co/recipe/hot-dog-six-pack",
+    "name": "Hot Dog Six Pack Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/a80111636b9d4c19b9d5c7823572bc80/BFV3250_HotDogSixPack-FB1080.jpg",
+    "description": "Here's what you need: puff pastry, hot dog sausage, shredded cheese, scallion",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 Sheet of Puff Pastry",
+        "1 Hot Dog",
+        "Some Shredded Cheese",
+        "Chopped Scallions"
+    ],
+    "recipeInstructionSteps": [
+        "Cut the hot dog into six equal sized pieces.",
+        "Then cut puff pastry into sections just large enough to wrap around the pieces of hot dog.",
+        "Wrap the hot dogs with the cut puff pastry.",
+        "Place them on a baking sheet or foil in two rows of 3 with just a little space between each.",
+        "Top with cheese and scallions and bake at 400\u00b0F (204\u00b0C) for 25 minutes or until golden brown.",
+        "Enjoy!"
+    ]
+}

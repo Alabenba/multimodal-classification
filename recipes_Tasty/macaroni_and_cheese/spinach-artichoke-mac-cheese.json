@@ -1,0 +1,31 @@
+{
+    "id": "spinach-artichoke-mac-cheese",
+    "link": "https://tasty.co/recipe/spinach-artichoke-mac-cheese",
+    "name": "Spinach Artichoke Mac &amp; Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/70d1a6f23a26461f8910340b22d37427/BFV8271_SpinachAndArtichokeMacNCheese-Thumb1080.jpg",
+    "description": "Here's what you need: butter, garlic, spinach, artichoke heart, milk, kosher salt, black pepper, elbow macaroni, shredded cheddar cheese, shredded mozzarella cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 tablespoons butter",
+        "2 cloves garlic, minced",
+        "5 ounces spinach",
+        "1 cup artichoke hearts, drained",
+        "3 cups milk",
+        "2 teaspoons kosher salt",
+        "2 teaspoons freshly ground black pepper",
+        "2 cups elbow macaroni",
+        "\u00be cup shredded cheddar cheese",
+        "3 cups shredded mozzarella cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 450\u00b0F (230\u00b0C).",
+        "In a large pan, melt the butter. Add garlic, and spinach cooking until spinach is wilted. Add artichoke hearts.",
+        "Slowly add the milk, salt, and pepper. Stir until milk is boiling.",
+        "Add the macaroni, cooking until the milk coats the macaroni like a glaze.",
+        "Add the cheddar and 2 cups (200g) of mozzarella, stirring until the cheese is completely melted.",
+        "Sprinkle the remaining mozzarella on top.",
+        "Bake for 7 minutes, until cheese is bubbly and golden brown.",
+        "Enjoy!"
+    ]
+}

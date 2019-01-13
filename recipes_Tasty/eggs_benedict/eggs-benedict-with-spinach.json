@@ -1,0 +1,35 @@
+{
+    "id": "eggs-benedict-with-spinach",
+    "link": "https://tasty.co/recipe/eggs-benedict-with-spinach",
+    "name": "Eggs Benedict With Spinach Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b6387b100201480dad47ea8db44a45fd/BFV16606_Eggs_Benedict_Brunch_for_2_FB_HASH_BROWN_END.jpg",
+    "description": "Here's what you need: english muffin, butter, egg, olive oil, fresh spinach, canadian bacon, chives, egg yolk, lemon juice, salt, cayenne, butter",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 English muffin",
+        "1 tablespoon butter",
+        "2 eggs",
+        "1 tablespoon olive oil",
+        "1 cup spinach",
+        "2 pieces Canadian bacon",
+        "Chives",
+        "2 egg yolks",
+        "1 tablespoon lemon juice",
+        "1 teaspoon salt",
+        "1 pinch cayenne",
+        "\u00bd cup butter, melted"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u00b0F (200\u00b0C).",
+        "In a saut\u00e9 pan, heat the olive oil and add the spinach and a pinch of salt. Saut\u00e9 until wilted. Set aside.",
+        "Butter the English muffin and toast in the oven for 5-10 minutes or until brown.",
+        "Heat a pot of water over medium heat. With a wooden spoon, swirl the water in the same direction.",
+        "Quickly add the egg into the center of the swirling water, cover, and cook for 3-5 minutes or until egg white is set and yolk is still runny.",
+        "Remove egg from water with a slotted spoon and set aside.",
+        "In a blender, add the egg yolks and pulse for one minute. Add in the lemon juice, salt, and cayenne and run the blender. Slowly add in the melted butter and continue to blend until the mixture lightens in color. Add more melted butter for thinner consistency.",
+        "Assemble the Benedict by layering the english muffin with the bacon, spinach, poached egg, and hollandaise sauce.",
+        "Top with fresh chives.",
+        "Enjoy!"
+    ]
+}
