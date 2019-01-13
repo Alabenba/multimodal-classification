@@ -1,3 +1,4 @@
+
 # Multimodal classification of cooking recipes
 
 
@@ -38,3 +39,18 @@
 4) lemmatization
 5) stop words removing (minute,gram,pound,...)
 6) delete rare nouns
+
+
+
+# Multimodal classification of cooking recipes
+
+
+
+### Gaited multimodal unit:
+![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)
+
+
+### Results
+![](multimodal_classification/graphs_and_visual_objects/result.png)
+
+# Accuracy 100%
