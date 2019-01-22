@@ -88,7 +88,8 @@ GMU classified all 13 recipes correctly:
 - sashimi category was classified by paying more attention to the visual modality
 - steak category was differed from other categories exclusively based on the textual modality
 - sushi category was classified based on the visual modality
-- tiramisu category differs from others by the textual modality    
+- tiramisu category differs from others by the textual modality 
+  
 The explanation of the results might be the following:  
 - sushi and sashimi looks very different from other meals, so these categories can be easily differed from other categories based on the photos
 - the photos of the steak and the tiramisu might not be sufficiently discriminative (especially the close-up photos: both meals can look as the brown substance), so it is more suitable to classify mentoined categories based on the recipe text
