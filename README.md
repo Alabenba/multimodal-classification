@@ -63,7 +63,9 @@ rare is the noun which occurs less than 3 times in the all recipes belonging to 
 
 
 
-## Multimodal classification neural network - gaited multimodal unit:
+## Multimodal classification - gaited multimodal unit:
+Consider the following scenario:  
+the
 ![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)
 
 
