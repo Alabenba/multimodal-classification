@@ -39,7 +39,7 @@ CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense l
 
 
 ## Text features extraction
-Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than feature vectors of recipes belonging to the different categories. The length of feature vector is 12 (this value is sufficient due to the small size of the dataset)  
+Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than the feature vectors of recipes belonging to the different categories. The length of the feature vector is 12 (this value is sufficient due to the small size of the dataset)  
 
 ### [Text preprocessing pipeline for doc2vec using:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/prepare_texts_for_doc2vec.ipynb)
 1) removing the numbers from text:  
@@ -67,7 +67,7 @@ rare is the noun which occurs less than 3 times in the all recipes belonging to 
 Consider the following scenarios:  
 - the text of the recipe is very detailed, but the photo of the meal is taken at the wrong angle:  
 in this case the recipe can be successfully classified based on the textual modality
-- the recipe is too exotic, but the meal on the photo doesn't differs too much from other meals of this category:
+- the recipe is too exotic, but the meal on the photo doesn't differs too much from the other meals of this category:
 in this case the recipe can be successfully classified based on the visual modality  
 The task of the gaited multimodal unit is to estimate how informative is the visual modality and how informative is the textual modality of the given recipe. More informative modality is more important for the final classification performed by the GMU.  
 
@@ -90,7 +90,7 @@ GMU classified all 13 recipes correctly:
 The explanation of the results might be the following:  
 - sushi and sashimi looks very different from other meals, so these categories can be easily differed from other categories based on the photos
 - the photos of the steak and the tiramisu might not be sufficiently discriminative (especially the close-up photos: both meals can look as the brown substance), so it is more suitable to classify mentoined categories based on the recipe text
-- in case that the classification based almost on the only single modality is hard, GMU can give almost the same importance to the textual and to the visual modality: test sample number 1 (recipe of sashimi) was correctly classified with giving 0.42 of attention to the textual modality and 0.58 to the visual modality   
+- in case that the classification based almost on the only single modality is hard, GMU can give almost the same importance to the textual and to the visual modality: test sample number 1 (recipe of sashimi) was correctly classified by giving 0.42 of attention to the textual modality and 0.58 to the visual modality   
 
 
 # Accuracy 100%
