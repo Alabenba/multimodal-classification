@@ -64,12 +64,33 @@ rare is the noun which occurs less than 3 times in the all recipes belonging to 
 
 
 ## Multimodal classification - gaited multimodal unit:
-Consider the following scenario:  
-the
+Consider the following scenarios:  
+- the text of the recipe is very detailed, but the photo of the meal is taken at the wrong angle:  
+in this case the recipe can be successfully classified based on the textual modality
+- the recipe is too exotic, but the meal on the photo doesn't differs too much from other meals of this category:
+in this case the recipe can be successfully classified based on the visual modality  
+The task of the gaited multimodal unit is to estimate how informative is the visual modality and how informative is the textual modality of the given recipe. More informative modality is more important for the final classification performed by the GMU.  
+
 ![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)
 
 
-### Results
-![](multimodal_classification/graphs_and_visual_objects/result.png)
+### Results of multimodal classification  
+Gaited multimodal unit was tested on 13 randomly choosen recipes (32 were used for training). 
+Test dataset:  
+- 3 recipes of sashimi (label 0)
+- 3 recipes of steak (label 1)
+- 4 recipes of sushi (labes 2)
+- 3 recipes of tiramisu (label 3)
+![](multimodal_classification/graphs_and_visual_objects/result.png)  
+GMU classified all 13 recipes correctly:
+- sashimi category was classified by paying more attention to the visual modality
+- steak category was differed from other categories exclusively based on the textual modality
+- sushi category was classified based on the visual modality
+- tiramisu category differs from others by the textual modality  
+The explanation of the results might be the following:  
+- sushi and sashimi looks very different from other meals, so these categories can be easily differed from other categories based on the photos
+- the photos of the steak and the tiramisu might not be sufficiently discriminative (especially the close-up photos: both meals can look as the brown substance), so it is more suitable to classify mentoined categories based on the recipe text
+- in case that the classification based almost on the only single modality is hard, GMU can give almost the same importance to the textual and to the visual modality: test sample number 1 (recipe of sashimi) was correctly classified with giving 0.42 of attention to the textual modality and 0.58 to the visual modality   
+
 
 # Accuracy 100%
