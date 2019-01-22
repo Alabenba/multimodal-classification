@@ -86,7 +86,7 @@ Test dataset:
 
 GMU classified all 13 recipes correctly:
 - sashimi category was classified by paying more attention to the visual modality
-- steak category was differed from other categories exclusively based on the textual modality
+- steak category was differed from the other categories exclusively based on the textual modality
 - sushi category was classified based on the visual modality
 - tiramisu category differs from others by the textual modality 
   
