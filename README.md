@@ -80,8 +80,10 @@ Test dataset:
 - 3 recipes of sashimi (label 0)
 - 3 recipes of steak (label 1)
 - 4 recipes of sushi (labes 2)
-- 3 recipes of tiramisu (label 3)
-![](multimodal_classification/graphs_and_visual_objects/result.png)  
+- 3 recipes of tiramisu (label 3)  
+
+![](multimodal_classification/graphs_and_visual_objects/result.png)   
+
 GMU classified all 13 recipes correctly:
 - sashimi category was classified by paying more attention to the visual modality
 - steak category was differed from other categories exclusively based on the textual modality
