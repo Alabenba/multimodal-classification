@@ -41,6 +41,10 @@ CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense l
 ## Text features extraction
 Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than the feature vectors of recipes belonging to the different categories. The length of the feature vector is 12 (this value is sufficient due to the small size of the dataset)  
 
+### Doc2vec architectures  
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_architectures.png)  
+Both of doc2vec architectures were tried, then the resulting neural network was obtained by such modification of classical architectures that brings the best performance on our dataset.  
+
 ### [Text preprocessing pipeline for doc2vec using:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/prepare_texts_for_doc2vec.ipynb)
 1) removing the numbers from text:  
 the text of 2 recipes can be the same except that the first recipe can be designed for 2 people, while the second - for 4 people; the amount of ingridients have not to be the discriminative feature for the given category of the cooking recipes
@@ -70,6 +74,12 @@ in this case the recipe can be successfully classified based on the textual moda
 - the recipe is too exotic, but the meal on the photo doesn't differs too much from the other meals of this category:
 in this case the recipe can be successfully classified based on the visual modality  
 The task of the gaited multimodal unit is to estimate how informative is the visual modality and how informative is the textual modality of the given recipe. More informative modality is more important for the final classification performed by the GMU.  
+
+GMU schema:  
+![](multimodal_classification/graphs_and_visual_objects/gmu_cropped.png)  
+![](multimodal_classification/graphs_and_visual_objects/gmu_equations.png)  
+
+
 
 ![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)
 
