@@ -43,13 +43,16 @@ Feature extraction from the recipe text is performed in unsupervised manner via 
 
 ### [Text preprocessing pipeline for doc2vec using:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/prepare_texts_for_doc2vec.ipynb)
 1) removing the numbers from text:
+
 the text of 2 recipes can be the same except that the first recipe can be designed for 2 people, while the second - for 4 people; the amount of ingridients have not to be the discriminative feature for the given category of the cooking recipes
 2) lowercasing the text
 3) retaining only the nouns
 4) performing lemmatization
 5) removing of the stop words (gram, pound, ...):
+
 the text of 2 recipes can be the same except that the first recipe describes the needed amount of ingridients in grams, while another - in pounds 
 6) deleting the rare nouns:
+
 rare is the noun which occurs less than 3 times in the all recipes belonging to the same category
 
 ### [Doc2vec extracted features:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/doc_embeddings_visualisation.ipynb)
