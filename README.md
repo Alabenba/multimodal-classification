@@ -19,6 +19,7 @@ Collected dataset is not large, but is complex enough: dataset consists of 4 foo
 
 ### Neural network architecture:
 CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense layers extracts feature vector of length 202 from each image. In case that the recipe has multiple images, neural network extracts feature vector from each image, then the mean value of all obtained vectors is computed.
+
 ![](image_feature_extraction/graphs_and_visual_objects/neural_net_architecture.png)
 
 ### [Extracted features visualization:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/image_feature_extraction/image_feature_extraction/extracted_features_visualisation.ipynb)
