@@ -39,7 +39,7 @@ CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense l
 
 
 ## Text features extraction
-Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than feature vectors of recipes belonging to different categories. The length of feature vector is 12 (this value is sufficient due to the small size of the dataset)  
+Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than feature vectors of recipes belonging to the different categories. The length of feature vector is 12 (this value is sufficient due to the small size of the dataset)  
 
 ### [Text preprocessing pipeline for doc2vec using:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/prepare_texts_for_doc2vec.ipynb)
 1) removing the numbers from text:  
