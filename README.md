@@ -73,15 +73,16 @@ Consider the following scenarios:
 in this case the recipe can be successfully classified based on the textual modality
 - the recipe is too exotic, but the meal on the photo doesn't differs too much from the other meals of this category:
 in this case the recipe can be successfully classified based on the visual modality  
+
 The task of the gaited multimodal unit is to estimate how informative is the visual modality and how informative is the textual modality of the given recipe. More informative modality is more important for the final classification performed by the GMU.  
 
-GMU schema:  
+GMU schema:    
 ![](multimodal_classification/graphs_and_visual_objects/gmu_cropped.png)  
-![](multimodal_classification/graphs_and_visual_objects/gmu_equations.png)  
 
 
-
-![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)
+Modified GMU:  
+![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)  
+In case that the lengths of image feature vector and text feature vector are different enough, the following modification is suiatable: additional dense layer allows to reduce the length of the image feature vector (202) such that the size of both modalities is the same (12). After the dimensionality reduction, both vectors of the same length are inputted to the classical GMU.  
 
 
 ### Results of multimodal classification  
