@@ -56,12 +56,13 @@ the text of 2 recipes can be the same except that the first recipe describes the
 6) deleting the rare nouns:  
 rare is the noun which occurs less than 3 times in the all recipes belonging to the same category  
 
+### Nearest vectors to specified words:
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
 
 ### [Doc2vec extracted features:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/doc_embeddings_visualisation.ipynb)
 ![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_tsne.png)
 
-### Nearest vectors to specified words:
-![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)
+
 
 
 
