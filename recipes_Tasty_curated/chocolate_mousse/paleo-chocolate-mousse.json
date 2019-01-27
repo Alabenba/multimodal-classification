@@ -1,0 +1,24 @@
+{
+    "id": "paleo-chocolate-mousse",
+    "link": "https://tasty.co/recipe/paleo-chocolate-mousse",
+    "name": "Paleo Chocolate Mousse Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/e97da9f4848c4e04a0a4e58fec9efa20/Final.jpg",
+    "description": "Here's what you need: unsweetened chocolate, coconut cream, all natural coconut milk, unprocessed organic honey, pure vanilla extract",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "6 ounces unsweetened chocolate, cubed",
+        "12 ounces additive/BPA-free organic coconut cream, refrigerated overnight",
+        "4 ounces all natural coconut milk",
+        "\u2153 cup unprocessed organic honey",
+        "1 teaspoon pure vanilla extract"
+    ],
+    "recipeInstructionSteps": [
+        "In a small microwave-safe bowl, microwave chocolate on medium-high heat in 30-second intervals, stirring in between, until chocolate is melted. Let cool.",
+        "In a medium-size bowl, add the coconut cream, coconut milk, honey, and vanilla. Whisk until incorporated.",
+        "Fold in the melted chocolate.",
+        "Divide evenly among ramekins. Refrigerate for 1 hour.",
+        "Garnish to your liking.",
+        "Enjoy!"
+    ]
+}

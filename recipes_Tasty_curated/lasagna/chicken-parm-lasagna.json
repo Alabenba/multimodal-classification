@@ -1,0 +1,35 @@
+{
+    "id": "chicken-parm-lasagna",
+    "link": "https://tasty.co/recipe/chicken-parm-lasagna",
+    "name": "Chicken Parm Lasagna Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/0ea70bbbff66482f93f6adec328f0450/BFV14079_ChickenParmLasagna-ThumbTextless1080.jpg",
+    "description": "Here's what you need: chicken breast, salt, pepper, all-purpose flour, egg, italian bread crumbs, vegetable oil, ricotta cheese, marinara sauce, lasagna noodle, shredded mozzarella cheese, shredded parmesan cheese, fresh basil",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+        "3 chicken breasts",
+        "n/a",
+        "n/a",
+        "1 cup flour",
+        "5 eggs",
+        "2 cups Italian bread crumbs",
+        "Vegetable oil",
+        "15 ounces ricotta",
+        "24 ounces marinara sauce",
+        "8 lasagna noodles",
+        "2 cups mozzarella",
+        "2 cups parmesan",
+        "Basil"
+    ],
+    "recipeInstructionSteps": [
+        "Cut chicken breasts in half (pound thin if necessary) and season with salt and pepper.",
+        "Add the flour, 4 eggs, and bread crumbs to 3 separate shallow dishes. Beat the eggs. Coat the chicken in the flour, then the eggs, and finally in the bread crumbs.",
+        "Heat the vegetable oil in a cast iron skillet over medium heat. Fry the chicken on both sides until golden brown, about 4 minutes  on each side. Let drain on paper towels.",
+        "In a medium bowl, combine the ricotta cheese and the remaining egg.",
+        "Preheat the oven to 350\u00b0F (180\u00b0C).",
+        "Spread about \u2153 of the marinara sauce over the bottom of a casserole dish. Top with 4 lasagna noodles, \u00bd of the ricotta mixture, and 3 chicken cutlets. Sprinkle with \u00bd cup of mozzarella and \u00bd cup of Parmesan cheese. Repeat to make another layer, then finish with the remaining sauce and mozzarella and Parmesan cheeses.",
+        "Cover with foil and bake for 45-60 minutes, uncovering the lasagna for the last 10 minutes of baking.",
+        "Serve with a sprinkle of fresh basil.",
+        "Enjoy!"
+    ]
+}

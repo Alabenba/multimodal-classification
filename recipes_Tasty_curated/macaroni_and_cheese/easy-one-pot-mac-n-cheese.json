@@ -1,0 +1,25 @@
+{
+    "id": "easy-one-pot-mac-n-cheese",
+    "link": "https://tasty.co/recipe/easy-one-pot-mac-n-cheese",
+    "name": "Easy One-pot Mac \u2018n\u2019 Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/3c0710e0531b41b7804acf4a52ee15be/FB_04forpkg.jpg",
+    "description": "Here's what you need: whole milk, elbow macaroni, butter, cheddar cheese, salt, pepper, fresh parsley",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "5 cups whole milk",
+        "1 box elbow macaroni",
+        "\u00bd cup butter",
+        "2 cups cheddar cheese",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Parsley, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "In a large pot on medium-high heat, gently heat the milk to a simmer.",
+        "Add in the elbow macaroni. Cook until the pasta is tender.",
+        "Once the noodles are cooked, turn off the heat. Add in the butter, cheddar, salt, and pepper. Fold these ingredients with the pasta until the cheese and butter melt into the milk to create a thick sauce.",
+        "Sprinkle with parsley and serve!",
+        "Enjoy!"
+    ]
+}

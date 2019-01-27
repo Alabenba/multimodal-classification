@@ -1,0 +1,25 @@
+{
+    "id": "halloween-pumpkin-deviled-eggs",
+    "link": "https://tasty.co/recipe/halloween-pumpkin-deviled-eggs",
+    "name": "Halloween Pumpkin Deviled Eggs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c5d64b95442f47b8b09b90428bfd33ae/BFV13571_4HalloweenAppetizers-FB1080SQ.jpg",
+    "description": "Here's what you need: hard-boiled egg, dijon mustard, mayonnaise, paprika, salt, pepper, fresh chives",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "6 hard-boiled eggs",
+        "3 tablespoons dijon mustard",
+        "\u00bc cup mayonnaise",
+        "1 teaspoon paprika plus additional for garnish",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "Chives for garnish, finely chopped"
+    ],
+    "recipeInstructionSteps": [
+        "Peel and slice hard boiled eggs lengthwise. Separate yolks into a separate bowl.",
+        "Add mustard, mayonnaise, paprika, salt, and pepper to the yolks, and mix thoroughly.",
+        "Fill a piping bag with the yolk mixture, and pipe into the empty egg whites.",
+        "Sprinkle with paprika, and place a piece of chive to make it look like a pumpkin.",
+        "Enjoy!"
+    ]
+}

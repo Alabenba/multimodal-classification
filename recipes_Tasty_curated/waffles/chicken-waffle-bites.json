@@ -1,0 +1,36 @@
+{
+    "id": "chicken-waffle-bites",
+    "link": "https://tasty.co/recipe/chicken-waffle-bites",
+    "name": "Chicken &amp; Waffle Bites Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/16d762c1ec77423aa9272db7087cc15e/BFV35153_Tasty-Facebook-1080x1080Final2.jpg",
+    "description": "Here's what you need: mustard, maple syrup, honey, chicken breast, salt, pepper, cayenne pepper, egg, whole milk, vanilla, oil, flour, baking powder, sugar",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "- 1/3 cup mustard",
+        "- 1/3 cup maple syrup",
+        "- 1/3 cup honey",
+        "- 1 chicken breast, cut into bite-sized pieces",
+        "- 1 tsp of salt",
+        "- 1 tsp of pepper",
+        "- 1 tsp of cayenne pepper",
+        "- 1 egg",
+        "- 3/4 cup whole milk",
+        "- 1 tsp vanilla",
+        "- 2 1/2 Tbsp. oil",
+        "- 1 cup of flour",
+        "- 1/2 Tbsp. baking powder",
+        "- 1 Tbsp. sugar"
+    ],
+    "recipeInstructionSteps": [
+        "In a small bowl, combine the mustard, maple syrup, and honey. Stir until smooth, then set aside.",
+        "Cube the chicken breast, then season with salt, pepper, and cayenne.",
+        "In a large bowl, whisk together the egg, milk, vanilla, and oil.",
+        "Sift the flour, baking powder, sugar, and a pinch of salt into a separate large bowl. Add the wet ingredients and stir to combine.",
+        "Add the seasoned chicken to the waffle batter and toss until well coated.",
+        "Heat a waffle iron on the lowest setting. ",
+        "Spoon a piece of chicken and some batter into each section. Cook for 8-10 minutes, until the chicken is cooked through and the waffles are golden brown. Repeat with the remaining batter.",
+        "Serve with the sauce for dipping.",
+        "Enjoy!"
+    ]
+}

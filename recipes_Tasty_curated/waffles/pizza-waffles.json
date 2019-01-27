@@ -1,0 +1,23 @@
+{
+    "id": "pizza-waffles",
+    "link": "https://tasty.co/recipe/pizza-waffles",
+    "name": "Pizza Waffles Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ea03205ed22449bdac075e3822def7c9/BFV6941_Waffles_4_Ways-FB1080.jpg",
+    "description": "Here's what you need: pizza dough, marinara sauce, shredded mozzarella cheese, pepperoni",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 (14-ounce) tube pizza dough or homemade pizza dough",
+        "4 tablespoons marinara sauce",
+        "1 cup shredded mozzarella",
+        "12 slices pepperoni"
+    ],
+    "recipeInstructionSteps": [
+        "Slice the pizza dough into 8 equal pieces, then press each piece flat.",
+        "Place 4 pieces of dough into a preheated, greased waffle iron.",
+        "Spread one tablespoon of marinara, \u00bc cup (25 grams) of mozzarella, and 3 slices of pepperoni on each piece of dough.",
+        "Top with the 4 remaining pieces of dough and seal.",
+        "Cook for 3-5 minutes, until golden brown, then serve.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "veggie-hummus-trio",
+    "link": "https://tasty.co/recipe/veggie-hummus-trio",
+    "name": "Veggie Hummus Trio Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/19a8c4e1e8e5440095514e21d0bcca02/partyfinalFB.jpg",
+    "description": "Here's what you need: hummus, small avocado, red pepper, beet, pita chip",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "24 ounces hummus, divided",
+        "1 small avocado, sliced",
+        "3 ounces roasted red peppers",
+        "\u00bd cup canned beets",
+        "Pita chips, for serving"
+    ],
+    "recipeInstructionSteps": [
+        "In a food processor, combine 8 ounces (225 g) of hummus with the avocado. Puree until smooth. Transfer to a small bowl.",
+        "Clean the food processor. Add 8 ounces (225 g) of hummus and the red peppers. Puree until smooth. Transfer to another small bowl.",
+        "Clean the food processor. Add the remaining hummus and the beets. Puree until smooth. Transfer to another small bowl.",
+        "Serve with pita chips.",
+        "Enjoy!"
+    ]
+}

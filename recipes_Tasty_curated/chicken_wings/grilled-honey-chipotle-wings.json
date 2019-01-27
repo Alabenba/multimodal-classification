@@ -1,0 +1,27 @@
+{
+    "id": "grilled-honey-chipotle-wings",
+    "link": "https://tasty.co/recipe/grilled-honey-chipotle-wings",
+    "name": "Grilled Honey Chipotle Wings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/108021.jpg",
+    "description": "Here's what you need: chicken wing and drumette, cornstarch, salt, garlic powder, chipotle peppers in adobo, lime juice, honey",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "4 pounds of chicken wings and drumettes",
+        "\u00bc cup cornstarch",
+        "2 teaspoons salt, divided",
+        "1 teaspoon garlic powder",
+        "1\u00bd cups chipotle peppers in adobo sauce",
+        "\u00bc cup lime juice",
+        "\u00bc cup honey"
+    ],
+    "recipeInstructionSteps": [
+        "Pat dry chicken and place in a large mixing bowl or plastic bag. Toss with cornstarch, garlic powder, and one teaspoon of kosher salt.",
+        "Place chicken in a single layer on a cookie sheet or wire rack and refrigerate for at least an hour, up to overnight.",
+        "In a food processor or blender, combine chipotles, lime juice, honey, and the remaining salt. Puree until smooth. Set aside until ready to grill.",
+        "Preheat grill to medium high heat. Grill wings until just starting to brown on the underside, about 5 minutes, then flip and repeat.",
+        "Using a basting brush, coat the top side of the wings with chipotle puree. Flip and cook until exterior just starts to char. Baste the other side, flip and repeat.",
+        "Remove wings from heat and let cool for at least 5 minutes. Serve with your preferred garnish and dipping sauce.",
+        "Enjoy! "
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "mixed-berry-frozen-yogurt",
+    "link": "https://tasty.co/recipe/mixed-berry-frozen-yogurt",
+    "name": "Mixed Berry Frozen Yogurt Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/04660ad6c54844b881811e83453f23a7/frozenyogurt-final.jpg",
+    "description": "Here's what you need: frozen blueberry, frozen strawberry, frozen raspberry, vanilla yogurt, honey",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 cup frozen blueberries",
+        "1 cup frozen strawberries",
+        "1 cup frozen raspberries",
+        "1 cup vanilla yogurt",
+        "3 tablespoons honey"
+    ],
+    "recipeInstructionSteps": [
+        "Combine all ingredients in a food processor until smooth.",
+        "Transfer to an 8x8-inch (20x20 cm) glass dish.",
+        "Freeze for at least 2 hours.",
+        "Enjoy!"
+    ]
+}

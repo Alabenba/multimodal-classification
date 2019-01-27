@@ -1,0 +1,36 @@
+{
+    "id": "pizza-onion-rings",
+    "link": "https://tasty.co/recipe/pizza-onion-rings",
+    "name": "Pizza Onion Rings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/e9cc914ce1c2485a93a6f89de1093c8e/BFV12476_Pizza_Onion_RingsPinterest_thumb.jpg",
+    "description": "Here's what you need: medium onion, presliced pepperoni, mozzarella cheese, pizza sauce, grated parmesan cheese, dried oregano, oil, egg, panko breadcrumbs, flour, dried oregano, paprika",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 medium onion",
+        "1 pack thinly sliced pepperoni",
+        "1 ball mozzarella, cut into cubes",
+        "1 jar pizza sauce (this can be a basic pasta sauce or passata etc)",
+        "100 grams parmesan, grated",
+        "3 tablespoons dried oregano",
+        "Oil for deep frying",
+        "3 eggs",
+        "100 grams panko breadcrumbs",
+        "2 tablespoons flour",
+        "2 teaspoons dried oregano",
+        "2 teaspoons paprika"
+    ],
+    "recipeInstructionSteps": [
+        "Cut onion into 2 cm (1 inch) slices. Carefully separate the layers into individual rings.",
+        "On a tray lined with baking paper, lay out onion rings and place a slice of pepperoni in the centre, pushing the pepperoni slice down to take the shape of the onion and make a bowl.",
+        "Layer in a tablespoon of pizza sauce, mozzarella, some parmesan, and a sprinkle of oregano.",
+        "Place tray in freezer until solid (about two hours).",
+        "Add flour, beaten eggs, and panko breadcrumbs to three separate bowls. Stir paprika and oregano into the flour",
+        "Remove frozen pizza rings from freezer.",
+        "Roll each first in seasoned flour, then egg, then breadcrumbs.",
+        "In a large saucepan, heat oil to 180\u02daC (350\u00b0F).",
+        "Fry pizza onion rings in batches until nicely browned on all sides, about 3 minutes.",
+        "Place on paper towel-lined plate to drain off any excess oil. Sprinkle with more dried oregano.",
+        "Enjoy!"
+    ]
+}

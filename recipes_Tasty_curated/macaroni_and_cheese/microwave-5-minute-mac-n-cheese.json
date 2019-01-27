@@ -1,0 +1,25 @@
+{
+    "id": "microwave-5-minute-mac-n-cheese",
+    "link": "https://tasty.co/recipe/microwave-5-minute-mac-n-cheese",
+    "name": "Microwave 5-Minute Mac &#x27;N&#x27; Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6b167c747784401fbf0528c3870ab19a/BFV28873_6MicrowaveMealsHACK.jpg",
+    "description": "Here's what you need: elbow macaroni, water, milk, salt, pepper, shredded cheddar cheese, fresh chives",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "\u00bd cup elbow macaroni",
+        "\u00bd cup water",
+        "3 tablespoons milk",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "\u00bc cup shredded cheddar cheese",
+        "Chives, to garnish (optional)"
+    ],
+    "recipeInstructionSteps": [
+        "Mix the macaroni, water, and salt in a microwaveable mug.",
+        "Microwave for 2-3 minutes, then stir.",
+        "Add the milk, cheese, salt, and pepper, then stir.",
+        "Microwave for another 30 seconds, stir, and garnish with a sprinkle of chives.",
+        "Enjoy!"
+    ]
+}

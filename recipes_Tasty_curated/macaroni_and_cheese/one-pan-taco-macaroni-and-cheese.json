@@ -1,0 +1,33 @@
+{
+    "id": "one-pan-taco-macaroni-and-cheese",
+    "link": "https://tasty.co/recipe/one-pan-taco-macaroni-and-cheese",
+    "name": "One-Pan Taco Macaroni And Cheese Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/38b4a2d7e3ce4532b2e2b276e6fb98bc/BFV21796_One-PanCheesyTacoMacaroniandCheese-FBThumbnail10801080.jpg",
+    "description": "Here's what you need: olive oil, ground beef, small white onion, garlic, taco seasoning, small macaroni, water, beef stock, shredded white cheddar, tomato, green onion",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "Olive oil",
+        "1 pound ground beef",
+        "1 small white onion, diced",
+        "1 tablespoon garlic, minced",
+        "2 tablespoons taco seasoning, divided",
+        "\u00bd pound small, dry macaroni",
+        "1 cup water",
+        "2 cups beef stock",
+        "2 cups shredded white cheddar (yellow cheddar works as well)",
+        "1 cup tomato, diced",
+        "Green onions, diced, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "In a 4-quart chicken fryer, heat approximately 1 tablespoon olive oil over medium-high heat and cook the onions until they begin to soften.",
+        "Add garlic and stir for 30 seconds.",
+        "Add the ground beef and 1 tablespoon of taco seasoning. Using your spatula, break up the ground beef and stir until cooked. Drain the excess liquid from the pan.",
+        "Add water, beef stock, pasta, tomatoes, and 1 tablespoon of taco seasoning back to the pan. Stir to combine.",
+        "Cook over low heat for 15 minutes, stirring twice to keep the pasta from sticking to the bottom of the pan.",
+        "Increase heat to medium after 15 minutes, and stir pasta until most of the liquid is gone.",
+        "Turn off heat and add the shredded cheese. Stir until cheese is completely melted.",
+        "Top with green onions.",
+        "Enjoy!"
+    ]
+}

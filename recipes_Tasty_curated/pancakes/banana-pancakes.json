@@ -1,0 +1,22 @@
+{
+    "id": "banana-pancakes",
+    "link": "https://tasty.co/recipe/banana-pancakes",
+    "name": "Banana Pancakes Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/451780248edc49eb9fe5640250d0ec7f/pancakes-finalfb.jpg",
+    "description": "Here's what you need: large ripe banana, egg, vanilla extract, cinnamon",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2 large, ripe bananas",
+        "2 eggs",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon cinnamon"
+    ],
+    "recipeInstructionSteps": [
+        "In a bowl, mash bananas.",
+        "Mix in the egg, then vanilla and cinnamon.",
+        "Pour pancake batter in \u00bc cup (60 ml) amounts on a griddle or skillet over medium-high heat.",
+        "Cook until bubbles pop on the surface of the pancake, then flip and cook the other side.",
+        "Enjoy!"
+    ]
+}

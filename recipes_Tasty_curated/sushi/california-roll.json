@@ -1,0 +1,27 @@
+{
+    "id": "california-roll",
+    "link": "https://tasty.co/recipe/california-roll",
+    "name": "California Roll Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/de0b00bbde1847d7a2c8621304884d22/BFV30104_SushiDinnerForTwo_FB_NiNo_Final.jpg",
+    "description": "Here's what you need: sushi rice, seasoned rice vinegar, sushi grade nori, sesame seed, imitation crab, small cucumber, avocado",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 cups sushi rice, cooked",
+        "\u00bc cup seasoned rice vinegar",
+        "4 half sheets sushi grade nori",
+        "1 teaspoon sesame seeds, optional",
+        "8 pieces imitation crab",
+        "1 small cucumber, cut into matchsticks",
+        "1 avocado, thinly sliced"
+    ],
+    "recipeInstructionSteps": [
+        "Season the sushi rice with the rice vinegar, fanning and stirring until room temperature.",
+        "On a rolling mat, place one sheet of nori with the rough side facing upwards.",
+        "Wet your hands and grab a handful of rice and place it on the nori. Spread the rice evenly throughout the nori without mashing the rice down. Season rice with a pinch of sesame seeds, if using, then flip it over so the nori is facing upwards.",
+        "Arrange, in a horizontal row 1 inch (2 cm) from the bottom, the crab followed by a row of avocado and a row of cucumber.",
+        "Grabbing both nori and the mat, roll the mat over the filling so the extra space at the bottom touches the other side, squeezing down to make a nice tight roll. Squeeze down along the way to keep the roll from holding its shape.",
+        "Transfer the roll onto a cutting board. Rub a knife on a damp paper towel before slicing the roll into six equal portions.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "american-burger-juicy-lucy",
+    "link": "https://tasty.co/recipe/american-burger-juicy-lucy",
+    "name": "American Burger \u201cJuicy Lucy\u201d Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/ab50f15324464399a11608c312f73127/BFV12310_4BurgersAroundtheWorld-FB1080SQ.jpg",
+    "description": "Here's what you need: ground beef, salt, pepper, onion powder, oil, cheddar cheese, hamburger bun, bacon, tomato, lettuce",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 pound ground beef, 80% lean",
+        "1 teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "1 teaspoon onion powder",
+        "1 tablespoon oil",
+        "2 ounces cheddar cheese, sliced into 3 square chunks",
+        "3 hamburger buns",
+        "3 strips bacon, cooked and sliced in half",
+        "3 slices tomato",
+        "3 pieces lettuce"
+    ],
+    "recipeInstructionSteps": [
+        "Mix together the patty ingredients until evenly combined.",
+        "Flatten the beef into a thin layer, then place a chunk of cheddar inside, wrapping the beef completely around the cheddar. Form a patty with your hands.",
+        "Repeat with the remaining beef and cheese.",
+        "Heat oil in a pan over medium heat.",
+        "Cook the burgers for 3 minutes on the first side, flip, then cook for 6 more minutes.",
+        "Assemble the burgers with the bun, bacon, tomato, and lettuce.",
+        "Enjoy!"
+    ]
+}
