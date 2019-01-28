@@ -1,2 +1,0 @@
-model_checkpoint_path: "/notebooks/school/text_feature_extraction/models/doc2vec_recipes_checkpoint.ckpt"
-all_model_checkpoint_paths: "/notebooks/school/text_feature_extraction/models/doc2vec_recipes_checkpoint.ckpt"

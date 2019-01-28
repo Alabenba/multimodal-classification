@@ -1,2 +1,0 @@
-model_checkpoint_path: "/notebooks/school/multimodal_classification/models/gmu.ckpt"
-all_model_checkpoint_paths: "/notebooks/school/multimodal_classification/models/gmu.ckpt"
