@@ -1,0 +1,31 @@
+{
+    "id": "slow-cooker-butter-chicken",
+    "link": "https://tasty.co/recipe/slow-cooker-butter-chicken",
+    "name": "Slow Cooker Butter Chicken Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/e61803b8efd84ca680a7769a52650830/BFV15753_Slow_Cooker_Butter_Chicken_Textless_Thumbnail.jpg",
+    "description": "Here's what you need: chicken breast, salt, pepper, curry powder, garam masala, chili powder, onion, garlic cloves, tomato puree, natural yogurt, coconut milk, butter, rice, coriander",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Indian",
+    "recipeIngredient": [
+        "4 chicken breasts, chopped",
+        "Salt, to taste",
+        "Pepper, to taste",
+        "1 tablespoon curry powder",
+        "1 tablespoon garam masala",
+        "1 tablespoon chili powder",
+        "1 onion, chopped",
+        "4 cloves garlic, minced",
+        "100 grams tomato puree",
+        "200 grams natural yogurt",
+        "400 milliliteres coconut milk",
+        "100 grams butter",
+        "Rice, to serve",
+        "Coriander, to garnish"
+    ],
+    "recipeInstructionSteps": [
+        "In a slow cooker, throw in all the ingredients and mix to combine.",
+        "Place the lid on and cook on high for 4 hours.",
+        "Serve with rice and fresh coriander.",
+        "Enjoy!"
+    ]
+}

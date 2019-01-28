@@ -1,0 +1,29 @@
+{
+    "id": "mini-chicken-tacos",
+    "link": "https://tasty.co/recipe/mini-chicken-tacos",
+    "name": "Mini Chicken Tacos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/2dc5f88dc93044af847978b9046d063c/BFV16319_MiniChickenTacos_ThumbC.jpg",
+    "description": "Here's what you need: flour tortilla, butter, rotisserie chicken, salsa, sour cream, mexican blend cheese, guacamole",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "7 flour tortillas",
+        "2 tablespoons melted butter",
+        "1 rotisserie chicken, shredded",
+        "1\u00bd cups salsa",
+        "Sour cream",
+        "3-cheese Mexican blend",
+        "Guacamole"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 375\u02daF (190\u02daC).",
+        "Generously brush butter onto both sides of the tortillas.",
+        "Using a circular cookie cutter or a mason jar lid, cut the tortillas into small circles.",
+        "Flip a 12-cup muffin tin over and place a cut-out piece of tortilla in the space between two cups, so that they make a mini taco shape. One muffin tin will fit 17 mini tacos.",
+        "Bake for 5-8 minutes, or until just turning golden brown and crispy. (Times and temperatures may vary based on oven.) Make sure to check on them every couple of minutes to make sure they don\u2019t burn.",
+        "Shred a rotisserie chicken, removing all bones and skin.",
+        "Place shredded chicken in a large pan over medium-high heat and add salsa. Stir well to combine.",
+        "Serve along with your favorite taco toppings.",
+        "Enjoy!"
+    ]
+}

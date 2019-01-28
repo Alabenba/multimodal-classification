@@ -1,0 +1,31 @@
+{
+    "id": "veggie-fried-rice",
+    "link": "https://tasty.co/recipe/veggie-fried-rice",
+    "name": "Veggie Fried Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/97aa9be31408452591baef80ebc6b52c/BFV24904_FriedRice4Ways_FB1080SQ.jpg",
+    "description": "Here's what you need: oil, carrot, garlic, onion, bell pepper, broccoli floret, pea, corn, egg, white rice, soy sauce, sesame oil, pepper",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 teaspoons oil",
+        "\u00bd cup carrots, diced",
+        "1 tablespoon garlic, minced",
+        "\u00bd cup onion, diced",
+        "\u00bd cup bell peppers, diced",
+        "\u00bd cup broccoli florets",
+        "\u00bd cup peas",
+        "\u2153 cup corn",
+        "3 eggs, beaten",
+        "3 cups cooked white rice",
+        "2 tablespoons soy sauce",
+        "1 tablespoon sesame oil",
+        "Pepper, to taste"
+    ],
+    "recipeInstructionSteps": [
+        "In a wok or deep skillet, heat up the oil over high heat and cook carrots, onions, and garlic until onions are translucent.",
+        "Add bell peppers and broccoli and cook an additional 3-4 minutes. Push all of the cooked vegetables to the side of the pan.",
+        "Beat the eggs and pour into the cleared half of the pan. Scramble the eggs and mix with the rest of the vegetables.",
+        "Add peas, corn, rice, soy sauce, sesame oil, and pepper. Mix well and let the rice cook until slightly crispy.",
+        "Enjoy!"
+    ]
+}

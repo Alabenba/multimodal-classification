@@ -1,0 +1,26 @@
+{
+    "id": "baked-buffalo-wings",
+    "link": "https://tasty.co/recipe/baked-buffalo-wings",
+    "name": "Baked Buffalo Wings Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/c79d6e31596a4de8b5a6164e3fa2de49/BFV17659_Oven-BakedChickenWings4Ways_FB1080SQ.jpg",
+    "description": "Here's what you need: chicken wings, baking powder, salt, hot sauce, pepper",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1 pound chicken wings",
+        "2 teaspoons baking powder",
+        "1 teaspoon salt",
+        "1 cup hot sauce",
+        "1 teaspoon pepper"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u02daF (200\u02daC).",
+        "Remove excess moisture from chicken wings with a paper towel.",
+        "In a large bowl, stir in baking powder and salt until chicken is thoroughly coated.",
+        "Bake on a baking rack for 1 hour, or until golden brown and crispy, flipping every 20 minutes. (For best results, place baking rack on a baking sheet covered with parchment paper or foil to catch drippings).",
+        "In a skillet, combine buffalo sauce ingredients on medium heat.",
+        "Then stir in chicken wings until fully coated.",
+        "Serve with your favorite side dish or dipping sauce.",
+        "Enjoy!"
+    ]
+}

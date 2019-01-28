@@ -1,0 +1,27 @@
+{
+    "id": "jammie-dodger-french-toast",
+    "link": "https://tasty.co/recipe/jammie-dodger-french-toast",
+    "name": "Jammie Dodger French Toast Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/b4e43a7e5e0d4d2baec2ec2f92120540/BFV4720_JammieDodgerFrenchToast-Thumb1.jpg",
+    "description": "Here's what you need: egg, double cream, icing sugar, vanilla extract, bread, strawberry jam",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "British",
+    "recipeIngredient": [
+        "4 eggs",
+        "- 250ml double cream",
+        "- 1 tsp icing sugar",
+        "- 1 tsp vanilla extract",
+        "- 2 slices of bread",
+        "- Strawberry Jam"
+    ],
+    "recipeInstructionSteps": [
+        "Add the eggs, cream, icing sugar and vanilla extract to a bowl and whisk until smooth.",
+        "Dip two slices of bread into the mix, soaking them thoroughly.",
+        "Fry both slices until golden brown on both sides.",
+        "Cut paper heart out of baking paper.",
+        "Place paper heart on one slice of bread and cut a heart shaped hole into the bread using the paper as a guide.",
+        "Spread jam on the other slice of bread, then place the bread with the heart on top of this slice.",
+        "Place the paper heart back over the hole, and sprinkle with icing sugar. Then remove the paper heart.",
+        "Enjoy!"
+    ]
+}

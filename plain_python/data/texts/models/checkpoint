@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/adam/School/17.semester/Strojove_uceni_a_prirozeny_jazyk/Projekt/multimodal-classification-Adam/plain_python/data/texts/models/doc2vec_recipes_checkpoint.ckpt"
+all_model_checkpoint_paths: "/home/adam/School/17.semester/Strojove_uceni_a_prirozeny_jazyk/Projekt/multimodal-classification-Adam/plain_python/data/texts/models/doc2vec_recipes_checkpoint.ckpt"

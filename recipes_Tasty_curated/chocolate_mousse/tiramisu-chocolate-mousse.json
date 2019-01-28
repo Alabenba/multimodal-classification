@@ -1,0 +1,35 @@
+{
+    "id": "tiramisu-chocolate-mousse",
+    "link": "https://tasty.co/recipe/tiramisu-chocolate-mousse",
+    "name": "Tiramisu Chocolate Mousse Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/bcd58b722b01479f97ed156b6e26599f/FB_THUMB_v04w.jpg",
+    "description": "Here's what you need: chocolate sandwich cookie, unflavored gelatin, espresso, rum, water, sugar, dark chocolate powder, heavy cream, vanilla extract, whipping cream, mascarpone cheese, powdered sugar",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "36 chocolate sandwich cookies, crushed",
+        "1 envelope unflavored gelatin",
+        "3 tablespoons brewed espresso, cold",
+        "1 tablespoon rum, cold",
+        "\u2153 cup boiling water",
+        "1 cup sugar",
+        "\u2154 cup dark chocolate cocoa powder",
+        "2 cups cold whipping cream",
+        "2 teaspoon vanilla extract",
+        "8 ounces whipping cream",
+        "8 ounces mascarpone cheese",
+        "4 tablespoons powdered sugar"
+    ],
+    "recipeInstructionSteps": [
+        "Crush cookies in a bag and set aside.",
+        "Mix cold espresso and rum in a small bowl. Mix in gelatin and let stand for 2 minutes.",
+        "Add boiling water and stir until gelatin is completely dissolved.",
+        "Mix sugar and cocoa in large bowl.",
+        "Add whipping cream and vanilla. With an electric mixer, beat on medium speed until stiff.",
+        "Pour in gelatin mixture and beat until well-blended.",
+        "Add \u00bd-inch (1.5 cm) layers of crushed cookies to dessert dishes, then scoop mousse into dishes and refrigerate for at least 30 minutes.",
+        "While mousse is chilling, whip cream in a cold bowl until soft peaks form. Add mascarpone and powdered sugar and continue whipping until stiff peaks form.",
+        "Scoop a dollop of whipped cream on top of the mousse and sprinkle with extra cocoa powder.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "easy-pesto-hummus",
+    "link": "https://tasty.co/recipe/easy-pesto-hummus",
+    "name": "Easy Pesto Hummus Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b88c2fed81584ddcab642acfc0fe708b/BFV14879_Hummus4Ways_V4.jpg",
+    "description": "Here's what you need: garbanzo beans, salt, garlic, ground cumin, basil pesto, lemon juice, water",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 15-ounce can garbanzo beans, drained and rinsed",
+        "\u00bc teaspoon salt",
+        "1 small garlic clove",
+        "\u00bd teaspoon ground cumin",
+        "\u00bd cup basil pesto",
+        "1 tablespoon lemon juice",
+        "2 tablespoons water"
+    ],
+    "recipeInstructionSteps": [
+        "Pour the rinsed chickpeas onto half the area of a kitchen towel. Fold the other half of the towel on top of the beans, and rub them so that the skins start to come off.",
+        "Place all of the peeled beans in the bowl of a food processor, along with the salt, cumin, garlic, and pesto. Turn the processor on to break up the mixture.",
+        "With the food processor running, pour in the lemon juice and water, and let the processor run until the mixture is smooth.",
+        "Serve with your choice of dipping chips or veggies.",
+        "Enjoy!"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "id": "guacamole-deviled-eggs",
+    "link": "https://tasty.co/recipe/guacamole-deviled-eggs",
+    "name": "Guacamole Deviled Eggs Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/2c298ae3d34948d49faddb870a0fd738/BFV22870_Deviled_Eggs_4_Ways-FB3.jpg",
+    "description": "Here's what you need: egg, small avocado, fresh cilantro, jalape\u00f1o, red onion, tomato, garlic, cumin, fresh lime juice, salt, tortilla chips, fresh cilantro",
+    "recipeCategory": "Appetizers",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "12 eggs, hard-boiled",
+        "2 small avocados, diced",
+        "\u00bc cup cilantro, chopped",
+        "\u00bc cup jalapeno, seeds removed and diced",
+        "n/a",
+        "\u00bd cup tomato, finely chopped",
+        "2 cloves garlic, minced",
+        "1 teaspoon cumin",
+        "1 tablespoon lime juice",
+        "1 teaspoon salt",
+        "Chopped tortilla chips, for garnish",
+        "Cilantro, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "Place the eggs in a pot and fill with cold water until the eggs are just covered. Bring the pot to a boil, then cover, remove from heat, and let sit for about 12 minutes.",
+        "Transfer the eggs to a bowl of ice water for about 3 minutes, then peel them and cut them in half. Transfer the egg yolks to a bowl, and set the cooked egg whites aside.",
+        "Mix the avocado, cilantro, jalape\u00f1o, red onion, tomato, garlic, cumin, lime juice, and salt with the yolks and transfer to a piping bag. (Alternatively, use a zip-top bag with a corner cut off.)",
+        "Pipe the mixture into the eggs, garnish with cilantro and crushed tortilla chips, and serve chilled.",
+        "Enjoy!"
+    ]
+}

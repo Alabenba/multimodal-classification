@@ -1,0 +1,33 @@
+{
+    "id": "apple-pie-bread-pudding",
+    "link": "https://tasty.co/recipe/apple-pie-bread-pudding",
+    "name": "Apple Pie Bread Pudding Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/46d6505df447438c965e0db35c587215/BFV10747_ApplePieBreadPudding.jpg",
+    "description": "Here's what you need: bread, egg, milk, vanilla extract, cinnamon, granny smith apple, brown sugar, cornstarch, vanilla ice cream, caramel sauce",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "6 slices bread",
+        "3 eggs",
+        "\u00bd cup milk",
+        "1 teaspoon vanilla extract",
+        "1 tablespoon cinnamon",
+        "3 granny smith apples, peeled and chopped",
+        "1 cup brown sugar",
+        "3 tablespoons cornstarch",
+        "Vanilla ice cream",
+        "Caramel sauce"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (175\u00b0C).",
+        "Slice the bread into \u00bd inch (1 cm) cubes.",
+        "In a large bowl, combine the eggs, milk, vanilla, and cinnamon, stirring until smooth.",
+        "Add the bread and stir until the bread cubes have evenly absorbed the milk mixture.",
+        "Spread the bread evenly in a 9-inch (23-cm) round baking pan.",
+        "In a large bowl, combine the apples, brown sugar, and cornstarch, mixing until evenly combined.",
+        "Spread the apples evenly on top of the bread.",
+        "Bake for 40 minutes, until edges are brown.",
+        "Cool, slice, then serve with vanilla ice cream and caramel sauce!",
+        "Enjoy!"
+    ]
+}

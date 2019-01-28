@@ -1,0 +1,35 @@
+{
+    "id": "chicken-avocado-pizza",
+    "link": "https://tasty.co/recipe/chicken-avocado-pizza",
+    "name": "Chicken Avocado Pizza Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/76c6af40f3ee460fa45c10ec79c0779c/BFV7309_ChickenAvcoadoPizza_Thumb1080FB.jpg",
+    "description": "Here's what you need: olive oil, garlic, salt, black pepper, dried oregano, chili flakes, pizza crust, fresh mozzarella cheese, chicken breast, onion, avocado, grape tomatoes, oil spray",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "1/2 cup Olive Oil",
+        "Minced Garlic, 4 cloves",
+        "1 tsp Salt",
+        "1 tsp Black pepper",
+        "1 tsp Oregano",
+        "1 tsp Chili Flakes",
+        "1 Pizza Crust",
+        "2 Things of Fresh Mozzarella",
+        "2 cups Chicken Breast",
+        "1/2 cup Onion, diced",
+        "3 Avocados",
+        "7-10 Grape Tomatoes",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "In a small/medium jar, mix olive oil, minced garlic, salt, black pepper, oregano, and chili flakes together.",
+        "Shake it well, and save it in refrigerator for later.",
+        "NOTE: Refrigerate left over garlic sauce. It lasts for up to one week",
+        "Pre-heat the oven at 425\u00baF (220\u00baC).",
+        "Oil spray the flat baking pan, roll out the pre-made pizza crust, if it\u2019s needed, use a rolling pan to make the crust equally flat on the pan.",
+        "Spread garlic sauce on pizza crust, place down sliced fresh mozzarella, sliced chicken breasts (cooked) and sprinkle diced onions.",
+        "Bake it in the oven for 25-30 minutes until the cheese melts and the crust become golden brown.",
+        "Take the pizza out and place down sliced avocados, and some grape tomatoes.",
+        "Enjoy!"
+    ]
+}

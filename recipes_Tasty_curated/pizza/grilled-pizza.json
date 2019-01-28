@@ -1,0 +1,23 @@
+{
+    "id": "grilled-pizza",
+    "link": "https://tasty.co/recipe/grilled-pizza",
+    "name": "Grilled Pizza Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/100005.jpg",
+    "description": "Here's what you need: pizza dough, olive oil, tomato sauce, mozzarella cheese, fresh basil leaves",
+    "recipeCategory": "Lunch",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 pound pizza dough",
+        "2 tablespoons olive oil, divided",
+        "\u00bd cup of tomato pure\u00e9",
+        "\u00bd cup of mozzarella cheese",
+        "Fresh basil leaves, to serve"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat the grill on high for 5-10 minutes.",
+        "Coat the pizza dough with 1 tablespoon of the olive oil. Using your hands, rub the oil onto the outside of the dough while carefully stretching it into a circle 12-14 inches in diameter. Place the oiled pizza dough onto the preheated grill and quickly brush the top with the remaining tablespoon of olive oil. Close the grill and allow pizza dough to cook for 3-4 minutes.",
+        "After 4 minutes, check the pizza. Large bubbles should be forming across the top of the dough. Using a large spatula or set of tongs, flip the dough over. Reduce the heat to low and add the sauce, cheese, and basil to the pizza. Increase the heat back to high and close the grill. Cook the pizza for 5-6 minutes, until the cheese has melted and the bottom of the crust is lightly charred.",
+        "Cook the pizza for 5-6 minutes more, until the cheese has melted and the bottom of the crust is lightly charred.",
+        "Enjoy!"
+    ]
+}

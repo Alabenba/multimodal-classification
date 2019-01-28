@@ -1,0 +1,26 @@
+{
+    "id": "3-cheese-garlic-bread",
+    "link": "https://tasty.co/recipe/3-cheese-garlic-bread",
+    "name": "3 Cheese Garlic Bread Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/6e6292525051459ea04905ce883c96f2/BFV16420_LobsterDinnerForTwo2.jpg",
+    "description": "Here's what you need: butter, garlic, parmesan cheese, shredded monterey jack cheese, shredded cheddar cheese, fresh green onion, baguette",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "1 stick butter, softened",
+        "4 cloves garlic, minced",
+        "\u2153 cup parmesan cheese",
+        "\u2153 cup Monterey Jack cheese, shredded",
+        "\u2153 cup cheddar cheese, shredded",
+        "\u2153 cup green onions, sliced",
+        "1 8-inch baguette"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 400\u00b0F (200\u00b0C).",
+        "In a bowl, combine all of the ingredients except the baguette, and mix until smooth.",
+        "Slice the baguette in half lengthwise, then spread the butter mixture evenly on both sides of the baguette.",
+        "Place on a tray lined with parchment paper and bake for about 15 minutes, until cheese is bubbly and starting to brown on the edges.",
+        "Slice, cool, then serve.",
+        "Enjoy!"
+    ]
+}

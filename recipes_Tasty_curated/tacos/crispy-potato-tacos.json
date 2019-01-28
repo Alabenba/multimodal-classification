@@ -1,0 +1,34 @@
+{
+    "id": "crispy-potato-tacos",
+    "link": "https://tasty.co/recipe/crispy-potato-tacos",
+    "name": "Crispy Potato Tacos Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/6a6ffd0b27fe4ce59011a8088e2ba71a/BFV8153_CrispyPotatoTacos_ThumbD.jpg",
+    "description": "Here's what you need: large russet potato, sour cream, garlic, cumin, salt, oregano, corn tortillas, oil, sour cream, salsa, cotija cheese, cilantro",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 large russet potatoes",
+        "3/4 cup sour cream",
+        "2 cloves minced garlic",
+        "1/2 tsp cumin",
+        "Salt, to taste",
+        "1/2 tsp oregano",
+        "8 corn tortillas",
+        "Oil for frying",
+        "Sour cream",
+        "Salsa",
+        "Cotija cheese",
+        "Cilantro"
+    ],
+    "recipeInstructionSteps": [
+        "Thoroughly wash the potatoes and peel the skin off. Cut into smaller pieces and place in a pot of cold water.",
+        "Bring to a boil over medium high heat and allow potatoes to cook until they are soft.",
+        "Place softened potatoes into a large bowl. Mix in sour cream, garlic, cumin, salt pepper and oregano, and mash until well combined.",
+        "Wrap the tortillas in a damp towel or paper towel and microwave for 15-20 seconds, so they don\u2019t break.",
+        "On half of the tortilla, place about one Tbsp. of the potato mixture and spread it around. Fold the tortilla in half and repeat with the rest of the tortillas.",
+        "Heat one inch of vegetable oil in a pan. Carefully, place the potato tacos in the pan, allowing them to cook for about two minutes on each side.",
+        "Once they have developed a golden color, remove from oil and strain excess oil off on a paper towel.",
+        "Serve with your favorite toppings.",
+        "Enjoy!"
+    ]
+}

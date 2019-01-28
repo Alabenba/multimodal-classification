@@ -1,0 +1,26 @@
+{
+    "id": "bbq-chicken-pita-pizza",
+    "link": "https://tasty.co/recipe/bbq-chicken-pita-pizza",
+    "name": "BBQ Chicken Pita Pizza Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/a49cec9c239c475484df2684c26c6c18/BFV31299_1RotisserieChicken4Meals_FB-Upload.jpg",
+    "description": "Here's what you need: rotisserie chicken, BBQ sauce, whole wheat pita bread, shredded mozzarella cheese, red onion, fresh cilantro",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "BBQ",
+    "recipeIngredient": [
+        "1 cup rotisserie chicken, shredded",
+        "\u215b cup bbq sauce + 2 tablespoons",
+        "1 whole wheat pita bread",
+        "Handful mozzarella, shredded",
+        "Handful red onion, sliced",
+        "Cilantro, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 350\u00b0F (180\u00b0C).",
+        "In a small bowl, combine chicken and bbq sauce well. Set aside.",
+        "Place pita bread on a baking sheet lined with parchment and spread bbq sauce over it.",
+        "Add the chicken to the pita and sprinkle with mozzarella and red onion, to taste.",
+        "Bake for 15-20 minutes, or until cheese is melted and chicken is heated through.",
+        "Garnish with fresh cilantro, slice, and serve.",
+        "Enjoy!"
+    ]
+}

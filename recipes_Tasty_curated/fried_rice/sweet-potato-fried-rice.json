@@ -1,0 +1,30 @@
+{
+    "id": "sweet-potato-fried-rice",
+    "link": "https://tasty.co/recipe/sweet-potato-fried-rice",
+    "name": "Sweet Potato &quot;Fried&quot; Rice Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/a6625364677b48809ecc3ead185f5edb/BFV29238_VeggieRice4Ways_FB-Upload.jpg",
+    "description": "Here's what you need: medium-sized sweet potato, cooking oil, white onion, large carrot, salt, pepper, vegetable broth, pea, egg, low sodium soy sauce, green onion",
+    "recipeCategory": "Sides",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "2 medium sweet potatoes, peeled and chopped",
+        "1 tablespoon preferred cooking oil or water",
+        "\u00bd white onion, diced",
+        "2 large carrots, peeled and sliced",
+        "\u00bd teaspoon salt",
+        "\u00bd teaspoon pepper",
+        "\u00bd cup vegetable broth",
+        "\u00bd cup peas, cooked",
+        "2 eggs, scrambled",
+        "2 tablespoons low sodium soy sauce",
+        "Green onions, chopped, for garnish"
+    ],
+    "recipeInstructionSteps": [
+        "In a food processor, pulse the sweet potato chunks until they reach your desired \u201crice\u201d consistency.",
+        "In a large skillet over medium heat, heat oil, then add onions and let cook until translucent.",
+        "Add sweet potato rice, carrots, salt, pepper, and vegetable broth and cook until the liquid has evaporated and the sweet potato is tender, stirring occasionally.",
+        "Add peas, eggs, and soy sauce, and combine, allowing it to heat through.",
+        "Garnish with green onions.",
+        "Enjoy!"
+    ]
+}

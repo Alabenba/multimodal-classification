@@ -1,0 +1,26 @@
+{
+    "id": "nutella-marshmallow-french-toast",
+    "link": "https://tasty.co/recipe/nutella-marshmallow-french-toast",
+    "name": "Nutella Marshmallow French Toast Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/80e209fc4d9d455295c54f475220e4cd/Still_C.jpg",
+    "description": "Here's what you need: chocolate hazelnut spread, marshmallow, white bread, egg, double cream, butter",
+    "recipeCategory": "Breakfast",
+    "recipeCuisine": "Fusion",
+    "recipeIngredient": [
+        "Nutella",
+        "Marshmallows",
+        "White bread",
+        "2 eggs",
+        "200ml double cream",
+        "Butter (for frying)"
+    ],
+    "recipeInstructionSteps": [
+        "Spread nutella on both slices of white bread.",
+        "Cut marshmallows in half and place on one side of the bread.",
+        "Close sandwich.",
+        "Whisk together 2 eggs and the double cream.",
+        "Dip nutella marshmallow sandwich in mixture.",
+        "Fry in butter until both sides are golden brown.",
+        "Enjoy!"
+    ]
+}

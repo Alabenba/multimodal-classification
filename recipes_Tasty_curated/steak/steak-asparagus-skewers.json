@@ -1,0 +1,26 @@
+{
+    "id": "steak-asparagus-skewers",
+    "link": "https://tasty.co/recipe/steak-asparagus-skewers",
+    "name": "Steak &amp; Asparagus Skewers Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/b5099f4dc59d401981d42504904f0fe9/BFV15627_Yakitori4Ways-FB.jpg",
+    "description": "Here's what you need: sirloin steak, asparagus, salt, pepper, canola oil, bamboo skewer",
+    "recipeCategory": "Snacks",
+    "recipeCuisine": "Japanese",
+    "recipeIngredient": [
+        "1 pound sirloin steak, cut into 1-inch chunks",
+        "2 cups asparagus, cut into 1-inch pieces",
+        "Salt",
+        "Pepper",
+        "3 tablespoons canola oil",
+        "6-inch bamboo skewers"
+    ],
+    "recipeInstructionSteps": [
+        "Skewer 3-4 pieces of steak and asparagus in an alternating pattern on a bamboo skewer. ",
+        "Repeat with remaining steak and asparagus.",
+        "Heat oil in a pan over medium-high heat.",
+        "Sear 3-4 skewers at a time, seasoning with salt and pepper, and flip when the undersides are a dark brown.",
+        "Season the other side with salt and pepper, and cook for about 1 more minute.",
+        "Cool and serve!",
+        "Enjoy!"
+    ]
+}

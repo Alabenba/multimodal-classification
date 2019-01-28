@@ -1,0 +1,21 @@
+{
+    "id": "slow-cooker-apple-spice-cobbler",
+    "link": "https://tasty.co/recipe/slow-cooker-apple-spice-cobbler",
+    "name": "Slow-Cooker Apple Spice Cobbler Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/thumbnailer-prod-us-east-1/video-api/assets/62369.jpg",
+    "description": "Here's what you need: apple pie filling, spice cake mix, butter, vanilla ice cream",
+    "recipeCategory": "Desserts",
+    "recipeCuisine": "American",
+    "recipeIngredient": [
+        "2  20z cans Apple Pie Filling",
+        "1 Box Spice Cake Mix",
+        "8oz Butter",
+        "n/a"
+    ],
+    "recipeInstructionSteps": [
+        "Combine the Apple Pie filling, cake mix, and butter in the slow cooker",
+        "Bake on High for 2 to 2.5 hours",
+        "Server a la mode with vanilla ice cream or your favorite whipped cream.",
+        "Enjoy!"
+    ]
+}

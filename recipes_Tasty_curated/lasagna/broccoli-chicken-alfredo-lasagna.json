@@ -1,0 +1,28 @@
+{
+    "id": "broccoli-chicken-alfredo-lasagna",
+    "link": "https://tasty.co/recipe/broccoli-chicken-alfredo-lasagna",
+    "name": "Broccoli Chicken Alfredo Lasagna Recipe by Tasty",
+    "image": "https://img.buzzfeed.com/video-api-prod/assets/7e6ba79cdfc64060a03ff0d5a44b4f5d/BFV20873_BroccoliChickenAlfredoLasagna-FBThumbnail1080.jpg",
+    "description": "Here's what you need: butter, garlic, heavy cream, black pepper, grated parmesan cheese, lasagna noodle, rotisserie chicken, broccoli, mozzarella cheese",
+    "recipeCategory": "Dinner",
+    "recipeCuisine": "Italian",
+    "recipeIngredient": [
+        "\u00bc cup butter",
+        "1\u00bd  tablespoon garlic, minced",
+        "2 \u00bd cups heavy cream",
+        "\u00bd teaspoon black pepper",
+        "\u00be cup Parmesan cheese, grated",
+        "9 cooked lasagna noodles",
+        "1 rotisserie chicken, shredded",
+        "2 cups broccoli, chopped",
+        "2 cups mozzarella cheese"
+    ],
+    "recipeInstructionSteps": [
+        "Preheat oven to 375\u02daF (190\u02daC).",
+        "In a saucepan, melt butter. Add the garlic, heavy cream, and pepper. Stirring constantly, bring to a boil and reduce heat to a simmer.",
+        "Add Parmesan cheese and keep stirring until sauce has thickened.",
+        "Spread a generous spoonful of sauce on the bottom of a 9x13 inch pan and cover with 3 cooked lasagna noodles. Follow with a layer shredded chicken, broccoli, and mozzarella. Add more sauce, and repeat to make another layer. On top of the last noodle layer, cover with the remainder of the sauce, and mozzarella.",
+        "Cover with foil and bake for 30 minutes. Remove the foil, and bake for 15 more minutes, until the cheese has browned.",
+        "Enjoy!"
+    ]
+}
