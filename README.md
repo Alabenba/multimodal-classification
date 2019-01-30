@@ -108,7 +108,7 @@ Note: all graphs below represent one of the crossvalidation iterations
 ![](multimodal_classification/graphs_and_visual_objects/ann_visual_performance.png)  
   
 ### - textual modality only  
-![](multimodal_classification/graphs_and_visual_objects/ann_textual_performance.png)  
+![](multimodal_classification/graphs_and_visual_objects/ann_textual_perforamnce.png)  
   
 The mean value of classification accuracy is 77% for the visual modality and 93% for the textual modality.  
   
