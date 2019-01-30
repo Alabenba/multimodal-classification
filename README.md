@@ -86,6 +86,7 @@ The task of the gaited multimodal unit is to estimate how informative is the vis
 
 
 ### Adopted GMU architecture: Tensorflow implementation  
+  
 ![](multimodal_classification/graphs_and_visual_objects/gmu_27_cl.png)  
  
 
@@ -93,6 +94,7 @@ The task of the gaited multimodal unit is to estimate how informative is the vis
 ### Performance contribution of the multimodal classification approach
 To estimate the contribution of the multiple modalities usage for the classification task, the single modal classification (e.g. based only on images or based only on texts) was performed at first.  
 The usage of the only one modality means that GMU degrades to the 2-layer artificial neural network as shown at the next picture:  
+  
 ![](multimodal_classification/graphs_and_visual_objects/ann_visual_architecture.png)   
 
   
@@ -101,12 +103,18 @@ The performance of all neural networks was examined using the crossvalidation. I
   
 Note: all graphs below represent one of the crossvalidation iterations
   
-### Single modal classification: visual modality only (left), textual modality only (right)  
-![](multimodal_classification/graphs_and_visual_objects/ann_visual_performance.png) ![](multimodal_classification/graphs_and_visual_objects/ann_textual_performance.png)  
+### Single modal classification:
+### - visual modality only   
+![](multimodal_classification/graphs_and_visual_objects/ann_visual_performance.png)  
+  
+### - textual modality only  
+![](multimodal_classification/graphs_and_visual_objects/ann_textual_performance.png)  
+  
 The mean value of classification accuracy is 77% for the visual modality and 93% for the textual modality.  
   
 ### Multimodal classification  
 ![](multimodal_classification/graphs_and_visual_objects/gmu_performance.png)  
+  
 The multimodal classification accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
 
 ### Mean crossovalidation accuracy of the introduced multimodal classification approach is 97% 
