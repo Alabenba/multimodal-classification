@@ -12,17 +12,17 @@ The introduced multimodal classification method is based on using of the 3 neura
 
 ## Dataset
 
-Dataset consits of 45 cooking recipes collected from the internet portals. The photos of the cooked meal define the visual modality (input to the first neural network) and the text of recipe (ingridients and cooking method) is the textual modality (input to the second neural network).  
-Collected dataset is not large, but is complex enough: dataset consists of 4 food categories (steak, tiramisu, sashimi and sushi). Two of categories were choosen such that the repices are sufficiently similar (sashimi and sushi have a lot of common ingridients; cooked meals looks similarly). The dataset is imbalanced: 1 category contains 15 recipes and each of 3 remaining categories contain 10 recipes. Moreover, some recipes are long and detailed, contain multiple photos of the meal, while another recipes are very short.   
+Dataset consits of 316 cooking recipes collected from the internet portals. The photos of the cooked meal represent the visual modality (input to the first neural network) and the text of recipe (ingredients and cooking method) is the textual modality (input to the second neural network).  
+Collected dataset is complex enough: dataset consists of 27 food categories. Some of categories were choosen such that the repices are sufficiently similar (for example, sashimi and sushi have some common ingredients; cooked meals looks similarly).  Some recipes are long and detailed, contain multiple photos of the meal, while another recipes are very short.   
 
-## [Image feature extraction:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/image_feature_extraction/image_feature_extraction/feature_extraction.ipynb)
+##  Image feature extraction
 
 ### Neural network architecture:
 CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense layers extracts feature vector of length 202 from each image. In case that the recipe has multiple images, neural network extracts feature vector from each image, then the mean value of all obtained vectors is computed.  
 
 ![](image_feature_extraction/graphs_and_visual_objects/neural_net_architecture.png)
 
-### [Extracted features visualization:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/image_feature_extraction/image_feature_extraction/extracted_features_visualisation.ipynb)
+###  Extracted features visualization:
 
 
 
@@ -34,13 +34,20 @@ CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense l
 
 
 ## Text features extraction
-Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than the feature vectors of recipes belonging to the different categories. The length of the feature vector is 12 (this value is sufficient due to the small size of the dataset)  
+Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than the feature vectors of recipes belonging to the different categories. The length of the feature vector is 27 (equal to the number of food categories)  
 
-### Doc2vec architectures  
-![](text_feature_extraction/graphs_and_visual_objects/doc2vec_architectures.png)  
-Both of doc2vec architectures were tried, then the resulting neural network was obtained by such modification of classical architectures that brings the best performance on our dataset.  
+### Doc2vec architecture: Tensorflow implementation  
+Both of classical doc2vec architectures (DM and DBOW) were implemented and tested, then the resulting neural network was obtained by such doc2vec modification that brings the best performance on our dataset.  
+Training phase architecture:    
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_train_27cl.png)  
+Inference phase architecture:    
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_27cl_test.png)  
+Feature vectors obtained during the training and the inference phases:
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_test_ex_1.png)  
 
-### [Text preprocessing pipeline for doc2vec using:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/prepare_texts_for_doc2vec.ipynb)
+
+
+### Text preprocessing pipeline for doc2vec using:
 1) removing the numbers from text:  
 the text of 2 recipes can be the same except that the first recipe can be designed for 2 people, while the second - for 4 people; the amount of ingridients have not to be the discriminative feature for the given category of the cooking recipes
 2) lowercasing the text
@@ -51,11 +58,11 @@ the text of 2 recipes can be the same except that the first recipe describes the
 6) deleting the rare nouns:  
 rare is the noun which occurs less than 3 times in the all recipes belonging to the same category  
 
-### Nearest vectors to specified words:
-![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
+//### Nearest vectors to specified words:
+//![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
 
-### [Doc2vec extracted features:](http://nbviewer.jupyter.org/github/xkaple01/multimodal-classification/blob/text_feature_extraction/text_feature_extraction/doc_embeddings_visualisation.ipynb)
-![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_tsne.png)
+//### Doc2vec extracted features
+//![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_tsne.png)
 
 
 
