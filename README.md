@@ -74,7 +74,7 @@ rare is the noun which occurs less than 3 times in the all recipes belonging to 
 
 
 
-## Multimodal classification - gaited multimodal unit:
+## Multimodal classification - Gaited Multimodal Unit:
 Consider the following scenarios:  
 - the text of the recipe is very detailed, but the photo of the meal is taken at the wrong angle:  
 in this case the recipe can be successfully classified based on the textual modality
@@ -90,16 +90,23 @@ The task of the gaited multimodal unit is to estimate how informative is the vis
  
 
 
-### Results of multimodal classification  
-The performance of the multimodal classification approach was examined using the crossvalidation. In each of 10 crossvalidation iterations the available dataset was splitted into the training dataset and the validation dataset, such that the validation dataset consists of the 20% randomly choosen recipes from each food category (validation: 52 recipes, training: 264 recipes)  
-  
-Training loss:  
-![](multimodal_classification/graphs_and_visual_objects/loss.png)   
-  
-  
-Accuracy:  
-![](multimodal_classification/graphs_and_visual_objects/accuracy.png)   
+### Performance contribution of the multimodal classification approach
+To estimate the contribution of the multiple modalities usage for the classification task, the single modal classification (e.g. based only on images or based only on texts) was performed at first.  
+The usage of the only one modality means that GMU degrades to the 2-layer artificial neural network as shown at the next picture:  
+![](multimodal_classification/graphs_and_visual_objects/ann_visual_architecture.png)   
 
-The accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
+  
+### Crossvalidation  
+The performance of all neural networks was examined using the crossvalidation. In each of 10 crossvalidation iterations the available dataset was splitted into the training dataset and the validation dataset, such that the validation dataset consists of the 20% randomly choosen recipes from each food category (validation: 52 recipes, training: 264 recipes)  
+  
+Note: all graphs below represent one of the crossvalidation iterations
+  
+### Single modal classification: visual modality only (left), textual modality only (right)  
+![](multimodal_classification/graphs_and_visual_objects/ann_visual_performance.png) ![](multimodal_classification/graphs_and_visual_objects/ann_textual_performance.png)  
+The mean value of classification accuracy is 77% for the visual modality and 93% for the textual modality.  
+  
+### Multimodal classification  
+![](multimodal_classification/graphs_and_visual_objects/gmu_performance.png)  
+The multimodal classification accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
 
-### Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
+### Mean crossovalidation accuracy of the introduced multimodal classification approach is 97% 
