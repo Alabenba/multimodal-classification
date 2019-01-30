@@ -35,34 +35,38 @@ CNN consiting of the 13 convilutional layers, 5 max pulling layers and 2 dense l
 
 ## Text features extraction
 Feature extraction from the recipe text is performed in unsupervised manner via doc2vec neural network architecture adopted for our task. Obtained feature vectors of the recipes belonging to the same category are more similar than the feature vectors of recipes belonging to the different categories. The length of the feature vector is 27 (equal to the number of food categories)  
-
+  
 ### Doc2vec architecture: Tensorflow implementation  
 Both of classical doc2vec architectures (DM and DBOW) were implemented and tested, then the resulting neural network was obtained by such doc2vec modification that brings the best performance on our dataset.  
+  
 Training phase architecture:    
+  
 ![](text_feature_extraction/graphs_and_visual_objects/doc2vec_train_27cl.png)  
+  
 Inference phase architecture:    
+  
 ![](text_feature_extraction/graphs_and_visual_objects/doc2vec_27cl_test.png)  
-Feature vectors obtained during the training and the inference phases:
-![](text_feature_extraction/graphs_and_visual_objects/doc2vec_test_ex_1.png)  
+  
+Feature vectors obtained during the training and the inference phases:  
 
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_test_ex_1.png)  
+  
+  
+### Nearest vectors to specified words:
+![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
 
 
 ### Text preprocessing pipeline for doc2vec using:
 1) removing the numbers from text:  
 the text of 2 recipes can be the same except that the first recipe can be designed for 2 people, while the second - for 4 people; the amount of ingridients have not to be the discriminative feature for the given category of the cooking recipes
 2) lowercasing the text
-3) retaining only the nouns
-4) performing lemmatization
-5) removing of the stop words (gram, pound, ...):  
+3) performing the context-dependent part-of-speech tagging
+4) retaining only the nouns
+5) performing the lemmatization based on the knowladge that the words are nouns 
+6) removing the stop words (gram, pound, ...):  
 the text of 2 recipes can be the same except that the first recipe describes the needed amount of ingridients in grams, while another - in pounds 
-6) deleting the rare nouns:  
+7) removing the rare nouns:  
 rare is the noun which occurs less than 3 times in the all recipes belonging to the same category  
-
-//### Nearest vectors to specified words:
-//![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
-
-//### Doc2vec extracted features
-//![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_tsne.png)
 
 
 
@@ -74,40 +78,28 @@ rare is the noun which occurs less than 3 times in the all recipes belonging to 
 Consider the following scenarios:  
 - the text of the recipe is very detailed, but the photo of the meal is taken at the wrong angle:  
 in this case the recipe can be successfully classified based on the textual modality
-- the recipe is too exotic, but the meal on the photo doesn't differs too much from the other meals of this category:
+- the recipe is too exotic, but the meal on the photo doesn't differs too much from the other meals of its category:
 in this case the recipe can be successfully classified based on the visual modality  
 
 The task of the gaited multimodal unit is to estimate how informative is the visual modality and how informative is the textual modality of the given recipe. More informative modality is more important for the final classification performed by the GMU.  
-
-GMU schema:    
-![](multimodal_classification/graphs_and_visual_objects/gmu_cropped.png)  
+ 
 
 
-Modified GMU:  
-![](multimodal_classification/graphs_and_visual_objects/gaited_multimodal_unit_graph.png)  
-In case that the lengths of image feature vector and text feature vector are different enough, the following modification is suiatable: additional dense layer allows to reduce the length of the image feature vector (202) such that the size of both modalities is the same (12). After the dimensionality reduction, both vectors of the same length are inputted to the classical GMU.  
+### Adopted GMU architecture: Tensorflow implementation  
+![](multimodal_classification/graphs_and_visual_objects/gmu_27_cl.png)  
+//In case that the lengths of image feature vector and text feature vector are different enough, the following modification //is suiatable: additional dense layer allows to reduce the length of the image feature vector (202) such that the size of //both modalities is the same (12). After the dimensionality reduction, both vectors of the same length are inputted to the //classical GMU.  
 
 
 ### Results of multimodal classification  
-Gaited multimodal unit was tested on 13 randomly choosen recipes (32 were used for training). 
-Test dataset:  
-- 3 recipes of sashimi (label 0)
-- 3 recipes of steak (label 1)
-- 4 recipes of sushi (labes 2)
-- 3 recipes of tiramisu (label 3)  
-
-![](multimodal_classification/graphs_and_visual_objects/result.png)   
-
-GMU classified all 13 recipes correctly:
-- sashimi category was classified by paying more attention to the visual modality
-- steak category was differed from the other categories exclusively based on the textual modality
-- sushi category was classified based on the visual modality
-- tiramisu category differs from others by the textual modality 
+The performance of the multimodal classification approach was examined using the crossvalidation. In each of 10 crossvalidation iterations the available dataset was splitted into the training dataset and the validation dataset, such that the validation dataset consists of the 20% randomly choosen recipes from each food category (validation: 52 recipes, training: 264 recipes)  
   
-The explanation of the results might be the following:  
-- sushi and sashimi looks very different from the other meals, so these categories can be easily differed from the other categories based on the photos
-- the photos of the steak and the tiramisu might not be sufficiently discriminative (especially the close-up photos: both meals can look as the brown substance), so it is more suitable to classify mentoined categories based on the recipe text
-- in case that the classification based almost on the only single modality is hard, GMU can give almost the same importance to the textual and to the visual modality: test sample number 1 (recipe of sashimi) was correctly classified by giving 0.42 of attention to the textual modality and 0.58 to the visual modality   
+Training loss:  
+![](multimodal_classification/graphs_and_visual_objects/loss.png)   
+  
+  
+Accuracy:  
+![](multimodal_classification/graphs_and_visual_objects/accuracy.png)   
 
+The accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
 
-# Accuracy 100%
+# Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
