@@ -102,4 +102,4 @@ Accuracy:
 
 The accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
 
-## Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
+### Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
