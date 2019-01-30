@@ -87,7 +87,7 @@ The task of the gaited multimodal unit is to estimate how informative is the vis
 
 ### Adopted GMU architecture: Tensorflow implementation  
 ![](multimodal_classification/graphs_and_visual_objects/gmu_27_cl.png)  
-//In case that the lengths of image feature vector and text feature vector are different enough, the following modification //is suiatable: additional dense layer allows to reduce the length of the image feature vector (202) such that the size of //both modalities is the same (12). After the dimensionality reduction, both vectors of the same length are inputted to the //classical GMU.  
+ 
 
 
 ### Results of multimodal classification  
@@ -102,4 +102,4 @@ Accuracy:
 
 The accuracy obtained in each iteration of the crossvalidation lies in the interval 94% - 100%.  
 
-# Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
+## Mean crossovalidation accuracy of the examined neural networks multimodal classification approach is 97% 
