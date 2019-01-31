@@ -55,21 +55,9 @@ Feature vectors obtained during the training and the inference phases:
 ### Nearest vectors to specified words:
 ![](text_feature_extraction/graphs_and_visual_objects/doc2vec_v2_1_nearest.png)  
 
-
-### Text preprocessing pipeline for doc2vec using:
-1) removing the numbers from text:  
-the text of 2 recipes can be the same except that the first recipe can be designed for 2 people, while the second - for 4 people; the amount of ingridients have not to be the discriminative feature for the given category of the cooking recipes
-2) lowercasing the text
-3) performing the context-dependent part-of-speech tagging
-4) retaining only the nouns
-5) performing the lemmatization based on the knowladge that the words are nouns 
-6) removing the stop words (gram, pound, ...):  
-the text of 2 recipes can be the same except that the first recipe describes the needed amount of ingridients in grams, while another - in pounds 
-7) removing the rare nouns:  
-rare is the noun which occurs less than 3 times in the all recipes belonging to the same category  
-
-
-
+  
+  
+  
 
 
 
